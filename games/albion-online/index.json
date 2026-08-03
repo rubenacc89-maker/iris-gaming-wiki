@@ -120,17 +120,9 @@
     "title": "Arcos — habilidades Q/W/E",
     "file": "armas-bow.md",
     "keywords": [
-      "arco",
-      "bow",
-      "warbow",
-      "longbow",
-      "distancia",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "arco", "arco largo", "arco de guerra", "arco de gemidos", "arco de badon",
+      "arcos susurrantes", "perforanieblas", "bow", "warbow", "longbow",
+      "distancia", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -138,16 +130,9 @@
     "title": "Ballestas — habilidades Q/W/E",
     "file": "armas-crossbow.md",
     "keywords": [
-      "ballesta",
-      "crossbow",
-      "distancia",
-      "zvz",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "ballesta", "ballesta ligera", "ballesta pesada", "lanzavirotes",
+      "ballesta de repetición lamentable", "ballesta de asedio", "moldeador de energía",
+      "crossbow", "distancia", "zvz", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -155,56 +140,29 @@
     "title": "Bastones Malditos — habilidades Q/W/E",
     "file": "armas-cursestaff.md",
     "keywords": [
-      "maldito",
-      "curse",
-      "cursestaff",
-      "demonic",
-      "dot",
-      "mago",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "bastón maldito", "gran bastón maldito", "bastón demoníaco", "calavera maldita",
+      "bastón de perdición", "bastón de vida maldita", "invocador de sombras",
+      "maldito", "curse", "dot", "mago", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Bastones de Fuego — habilidades Q/W/E",
+    "title": "Bastones Ígneos (Fuego) — habilidades Q/W/E",
     "file": "armas-firestaff.md",
     "keywords": [
-      "fuego",
-      "fire",
-      "firestaff",
-      "pyroblast",
-      "meteor",
-      "mago",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "bastón ígneo", "gran bastón ígneo", "bastón infernal", "bastón de fuego incontrolable",
+      "bastón de azufre", "bastón flamígero", "canción del despertar", "bastón de camiallamas",
+      "ígneo", "fuego", "fire", "firestaff", "mago", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Bastones de Hielo — habilidades Q/W/E",
+    "title": "Bastones de Hielo (Escarcha) — habilidades Q/W/E",
     "file": "armas-froststaff.md",
     "keywords": [
-      "hielo",
-      "frost",
-      "froststaff",
-      "glacial",
-      "mago",
-      "slow",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "bastón de hielo", "gran bastón de hielo", "bastón de ventisca", "aullido gélido",
+      "prisma de permagrost", "bastón de carámbano", "tejedor de escarcha",
+      "hielo", "escarcha", "frost", "froststaff", "mago", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -212,54 +170,33 @@
     "title": "Bastones Arcanos — habilidades Q/W/E",
     "file": "armas-arcanestaff.md",
     "keywords": [
-      "arcano",
-      "arcane",
-      "arcanestaff",
-      "enigmatic",
-      "mago",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "bastón arcano", "gran bastón arcano", "bastón de enigma", "bastón de brujería",
+      "locus malévo", "bastón oculto", "bastón astral",
+      "arcano", "arcane", "arcanestaff", "mago", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Bastones Sagrados — habilidades Q/W/E",
+    "title": "Bastones Sagrados (Curación) — habilidades Q/W/E",
     "file": "armas-holystaff.md",
     "keywords": [
-      "sagrado",
-      "holy",
-      "holystaff",
-      "divine",
-      "healer",
-      "curar",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "bastón sagrado", "gran bastón sagrado", "bastón divino", "bastón del santuario",
+      "bastón de redención", "bastón caído", "caída sagrada",
+      "sagrado", "holy", "holystaff", "healer", "curar", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Bastones de Naturaleza — habilidades Q/W/E",
+    "title": "Bastones Naturales (Naturaleza) — habilidades Q/W/E",
     "file": "armas-naturestaff.md",
     "keywords": [
-      "naturaleza",
-      "nature",
-      "naturestaff",
-      "wild",
-      "healer",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "bastón natural", "gran bastón natural", "bastón salvaje", "bastón druídico",
+      "bastón de plaga", "bastón de raíz férrea", "bastón de toque de vida",
+      "bastón de cambiaformas", "bastón de pantera primigenia", "bastón de oso de runas",
+      "bastón de hombre lobo de luna de sangre", "bastón de grifo de tejedor del cielo",
+      "bastón de treant de raíz viviente", "bastón de gólem rompetierra",
+      "bastón de basilisco de fuego infernal",
+      "naturaleza", "nature", "naturestaff", "healer", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -267,36 +204,19 @@
     "title": "Dagas — habilidades Q/W/E",
     "file": "armas-dagger.md",
     "keywords": [
-      "daga",
-      "dagger",
-      "garras",
-      "claw",
-      "melee",
-      "ganking",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "daga", "par de dagas", "garras", "daga letal", "colmillos de demonio",
+      "dadoras de muerte", "furia bridada",
+      "dagger", "claw", "melee", "ganking", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Puños — habilidades Q/W/E",
+    "title": "Guantes de Guerra — habilidades Q/W/E",
     "file": "armas-knuckles.md",
     "keywords": [
-      "puños",
-      "knuckles",
-      "gauntlets",
-      "melee",
-      "burst",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "guantes de guerra", "guantes de camorista", "brazales de batalla", "guantes con picos",
+      "mazos ursinos", "puños de avalon", "manos de fuego infernal", "cesto de ataque de cuervo",
+      "guanteletes", "puños", "knuckles", "gauntlets", "melee", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -304,17 +224,9 @@
     "title": "Lanzas — habilidades Q/W/E",
     "file": "armas-spear.md",
     "keywords": [
-      "lanza",
-      "spear",
-      "glaive",
-      "melee",
-      "movilidad",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "lanza", "pica", "glaive", "lanza de garza", "cazador de espíritus",
+      "lanza de la trinidad", "guadaña del alba",
+      "spear", "melee", "movilidad", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -322,17 +234,9 @@
     "title": "Hachas — habilidades Q/W/E",
     "file": "armas-axe.md",
     "keywords": [
-      "hacha",
-      "axe",
-      "alabarda",
-      "halberd",
-      "melee",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "hacha", "hacha de batalla", "gran hacha", "alabarda", "hacha de carroña",
+      "garras de oso", "segadora de reinos", "segadoras de cristal",
+      "axe", "halberd", "melee", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -340,33 +244,19 @@
     "title": "Espadas — habilidades Q/W/E",
     "file": "armas-sword.md",
     "keywords": [
-      "espada",
-      "sword",
-      "claymore",
-      "dualsword",
-      "melee",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "espada", "espada ancha", "mandoble", "espadas dobles", "espada de clarent",
+      "espada tallada", "par de galatinn", "creador de reyes",
+      "sword", "claymore", "melee", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Bastones de Cuarto — habilidades Q/W/E",
+    "title": "Varas (Bastones de Cuarto) — habilidades Q/W/E",
     "file": "armas-quarterstaff.md",
     "keywords": [
-      "quarterstaff",
-      "bastón de cuarto",
-      "melee",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "vara", "vara de hierro férreo", "vara de doble hoja", "vara de monje negro",
+      "segadora de almas", "vara de caminador de niebla", "vara de caminante del cielo",
+      "bastón de cuarto", "quarterstaff", "melee", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -374,17 +264,9 @@
     "title": "Martillos — habilidades Q/W/E",
     "file": "armas-hammer.md",
     "keywords": [
-      "martillo",
-      "hammer",
-      "polehammer",
-      "melee",
-      "zvz",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "martillo", "gran martillo", "martillos de forja", "martillo de tumba",
+      "martillo de mano", "rompemuro", "mano de la justicia",
+      "hammer", "polehammer", "melee", "zvz", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -392,18 +274,9 @@
     "title": "Mazas — habilidades Q/W/E",
     "file": "armas-mace.md",
     "keywords": [
-      "maza",
-      "mace",
-      "mangual",
-      "flail",
-      "melee",
-      "cc",
-      "arma",
-      "habilidad",
-      "Q",
-      "W",
-      "E",
-      "definitiva"
+      "maza", "maza pesada", "lucero del alba", "maza de íncubo", "maza de camlann",
+      "mazas de asedio", "rompejuramentos",
+      "mace", "flail", "melee", "cc", "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
