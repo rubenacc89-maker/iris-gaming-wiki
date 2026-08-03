@@ -284,13 +284,13 @@
     "title": "Cascos — habilidades activas y pasivas",
     "file": "armaduras-head.md",
     "keywords": [
-      "casco", "cabeza", "helmet", "head",
-      "línea del erudito", "línea del clérigo", "línea del mago", "línea del sectario",
-      "línea de la pureza", "línea del camaleón",
-      "línea del mercenario", "línea del cazador", "línea del asesino", "línea del acosador",
-      "línea del hellion", "línea del espectro", "línea de la tenacidad",
-      "línea del soldado", "línea del caballero", "línea del guardián",
-      "línea de la tumba", "línea del juicio", "línea del valor",
+      "casco", "hábito", "capucha", "cabeza",
+      "hábito de erudito", "hábito de clérigo", "hábito de mago", "hábito de druida",
+      "hábito real", "hábito de diablo", "hábito de sectario", "hábito de escamas", "hábito de pureza",
+      "capucha de mercenario", "capucha de cazador", "capucha de asesino", "capucha de acosador",
+      "capucha real", "capucha de hellion", "capucha de espectro", "capucha de tenacidad", "capucha de vándalo",
+      "casco de soldado", "casco de caballero", "casco de guardián", "casco de tumba",
+      "casco real", "casco de demonio", "casco de juicio", "casco de valor", "casco crepuscular",
       "tela", "cuero", "placa", "mago", "cazador", "guerrero",
       "armadura", "habilidad", "pasiva", "activa"
     ],
@@ -300,10 +300,13 @@
     "title": "Pecheras — habilidades activas y pasivas",
     "file": "armaduras-armor.md",
     "keywords": [
-      "pechera", "pecho", "torso", "chest",
-      "erudito", "clérigo", "sectario", "pureza", "camaleón",
-      "mercenario", "acosador", "hellion", "espectro", "tenacidad",
-      "soldado", "caballero", "guardián", "tumba", "juicio", "valor",
+      "pechera", "túnica", "chaqueta", "armadura de pecho", "torso",
+      "túnica de erudito", "túnica de clérigo", "túnica de mago", "túnica de druida",
+      "túnica real", "túnica de diablo", "túnica de sectario", "túnica de escamas", "túnica de pureza",
+      "chaqueta de mercenario", "chaqueta de cazador", "chaqueta de asesino", "chaqueta de acosador",
+      "chaqueta real", "chaqueta de hellion", "chaqueta de espectro", "chaqueta de tenacidad", "chaqueta de vándalo",
+      "armadura de soldado", "armadura de caballero", "armadura de guardián", "armadura de tumba",
+      "armadura real", "armadura de demonio", "armadura de juicio", "armadura de valor", "armadura crepuscular",
       "tela", "cuero", "placa", "mago", "cazador", "guerrero",
       "armadura", "habilidad", "pasiva", "activa"
     ],
@@ -313,10 +316,13 @@
     "title": "Botas — habilidades activas y pasivas",
     "file": "armaduras-shoes.md",
     "keywords": [
-      "botas", "pies", "shoes", "boots",
-      "erudito", "clérigo", "mago", "sectario", "pureza", "camaleón",
-      "mercenario", "cazador", "asesino", "acosador", "hellion", "espectro", "tenacidad",
-      "soldado", "caballero", "guardián", "tumba", "juicio", "valor",
+      "botas", "sandalia", "pies",
+      "sandalia de erudito", "sandalia de clérigo", "sandalia de mago", "sandalia de druida",
+      "sandalia real", "sandalia de diablo", "sandalia de sectario", "sandalia de escamas", "sandalia de pureza",
+      "botas de mercenario", "botas de cazador", "botas de asesino", "botas de acosador",
+      "botas reales", "botas de hellion", "botas de espectro", "botas de tenacidad", "botas de vándalo",
+      "botas de soldado", "botas de caballero", "botas de guardián", "botas de tumba",
+      "botas de demonio", "botas de juicio", "botas de valor", "botas crepusculares",
       "tela", "cuero", "placa",
       "armadura", "habilidad", "pasiva", "activa"
     ],
@@ -355,6 +361,17 @@
       "martillo de demolición", "herramienta",
       "cosechador", "maderero", "minero", "peletero", "cantero", "pescador",
       "ropa de recolector", "atuendo", "recolección", "oficio"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Artefactos — crafteo de armas y armaduras especiales",
+    "file": "artefactos.md",
+    "keywords": [
+      "artefacto", "artifact",
+      "artefacto de arma", "artefacto de armadura", "artefacto de arma secundaria",
+      "esencia", "material de runas", "runa", "alma", "reliquia", "opalina",
+      "fragmento de avalon", "crafteo especial", "item especial"
     ],
     "updated": "2026-08-03"
   },
