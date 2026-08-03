@@ -16,5 +16,11 @@
     "file": "zonas-pve.md",
     "keywords": ["zona", "pve", "seguro", "yellow", "blue", "red", "black", "mapa", "riesgo", "muerte", "penalidad"],
     "updated": "2026-08-03"
+  },
+  {
+    "title": "Capas — guía completa de tipos y habilidades",
+    "file": "capas-guia.md",
+    "keywords": ["capa", "capas", "cape", "fort sterling", "martlock", "bridgewatch", "thetford", "lymhurst", "caerleon", "brecilien", "avalonian", "keeper", "morgana", "demon", "undead", "heretic", "habilidad", "slot", "accesorio"],
+    "updated": "2026-08-03"
   }
 ]
