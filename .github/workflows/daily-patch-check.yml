@@ -1,0 +1,125 @@
+name: Daily Patch Check
+
+on:
+  schedule:
+    # Corre todos los días a las 8am UTC
+    - cron: '0 8 * * *'
+  # Permite correrlo manualmente desde GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  check-patches:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout wiki repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # ── ALBION ONLINE ──────────────────────────────────────────────────────
+      - name: Check Albion Online — ao-bin-dumps for new commits
+        id: albion_check
+        run: |
+          SOURCE_FILE="games/albion-online/source.json"
+          LAST_COMMIT=$(jq -r '.data_sources[0].last_commit' "$SOURCE_FILE")
+
+          # Consulta el último commit de ao-bin-dumps via GitHub API (sin auth, público)
+          LATEST=$(curl -s "https://api.github.com/repos/broderickhyman/ao-bin-dumps/commits/master" \
+            -H "Accept: application/vnd.github.v3+json" | jq -r '.sha')
+
+          echo "Last known commit: $LAST_COMMIT"
+          echo "Latest commit: $LATEST"
+
+          if [ "$LATEST" != "$LAST_COMMIT" ] && [ -n "$LATEST" ] && [ "$LATEST" != "null" ]; then
+            echo "NEW PATCH DETECTED for Albion Online!"
+            echo "albion_updated=true" >> $GITHUB_OUTPUT
+            echo "albion_commit=$LATEST" >> $GITHUB_OUTPUT
+          else
+            echo "No changes detected."
+            echo "albion_updated=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Albion — Download updated game files
+        if: steps.albion_check.outputs.albion_updated == 'true'
+        run: |
+          mkdir -p /tmp/albion
+          BASE="https://raw.githubusercontent.com/broderickhyman/ao-bin-dumps/master"
+
+          echo "Downloading items.json..."
+          curl -s -L "$BASE/items.json" -o /tmp/albion/items_full.json
+
+          echo "Downloading spells.json..."
+          curl -s -L "$BASE/spells.json" -o /tmp/albion/spells_full.json
+
+          echo "Downloading mobs.json..."
+          curl -s -L "$BASE/mobs.json" -o /tmp/albion/mobs.json
+
+          echo "Downloading localization.json..."
+          curl -s -L "$BASE/localization.json" -o /tmp/albion/localization.json
+
+          echo "Files downloaded:"
+          ls -lh /tmp/albion/
+
+      - name: Albion — Regenerate wiki articles
+        if: steps.albion_check.outputs.albion_updated == 'true'
+        run: |
+          node scripts/albion/build_all_wiki.js /tmp/albion .
+          node scripts/albion/build_mobs_wiki.js /tmp/albion .
+          echo "Articles regenerated"
+
+      - name: Albion — Update source.json with new commit hash
+        if: steps.albion_check.outputs.albion_updated == 'true'
+        run: |
+          NEW_COMMIT="${{ steps.albion_check.outputs.albion_commit }}"
+          TODAY=$(date -u +"%Y-%m-%d")
+
+          # Update last_commit and last_checked in source.json
+          jq --arg commit "$NEW_COMMIT" --arg date "$TODAY" \
+            '.data_sources[0].last_commit = $commit |
+             .data_sources[0].last_checked = $date |
+             .last_updated = $date' \
+            games/albion-online/source.json > /tmp/source_new.json
+
+          mv /tmp/source_new.json games/albion-online/source.json
+          echo "source.json updated"
+
+      # ── STEAM PATCH DETECTION (para otros juegos sin repo de datos) ────────
+      # Cuando agregues más juegos, añadí un step similar por juego
+      # usando su steam_app_id del source.json
+
+      # ── COMMIT Y PUSH ──────────────────────────────────────────────────────
+      - name: Check if there are changes
+        id: git_check
+        run: |
+          git diff --quiet && echo "no_changes=true" >> $GITHUB_OUTPUT || echo "no_changes=false" >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated articles
+        if: steps.git_check.outputs.no_changes == 'false'
+        run: |
+          git config user.name "iris-wiki-bot"
+          git config user.email "bot@irisapp.lat"
+
+          # Mensaje de commit con info del parche
+          GAMES_UPDATED=""
+          if [ "${{ steps.albion_check.outputs.albion_updated }}" == "true" ]; then
+            GAMES_UPDATED="Albion Online"
+          fi
+
+          git add -A
+          git commit -m "chore(auto): update wiki — patch detected in $GAMES_UPDATED
+
+Automated update triggered by new commits in game data sources.
+Run: ${{ github.run_id }}"
+
+          git push origin main || git push origin master
+          echo "Wiki updated and pushed!"
+
+      - name: No updates needed
+        if: steps.git_check.outputs.no_changes == 'true'
+        run: echo "Wiki is up to date. No changes needed."

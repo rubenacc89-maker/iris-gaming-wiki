@@ -1,0 +1,16 @@
+{
+  "game": "Albion Online",
+  "steam_app_id": "761634",
+  "data_sources": [
+    {
+      "type": "github_repo",
+      "repo": "broderickhyman/ao-bin-dumps",
+      "branch": "master",
+      "files": ["items.json", "spells.json", "mobs.json", "localization.json"],
+      "last_commit": "",
+      "last_checked": ""
+    }
+  ],
+  "generator": "scripts/albion/build_all_wiki.js",
+  "last_updated": "2026-08-03"
+}
