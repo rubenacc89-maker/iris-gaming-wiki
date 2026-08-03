@@ -3,16 +3,8 @@
     "title": "Farmeo de pieles — zonas y tips",
     "file": "farmeo-pieles.md",
     "keywords": [
-      "pieles",
-      "farmeo",
-      "recolectar",
-      "recolector",
-      "zona",
-      "elven forest",
-      "mistwood",
-      "highland",
-      "tier",
-      "cuero"
+      "pieles", "farmeo", "recolectar", "recolector", "zona",
+      "elven forest", "mistwood", "highland", "tier", "cuero"
     ],
     "updated": "2026-08-03"
   },
@@ -20,15 +12,8 @@
     "title": "Builds para recolector",
     "file": "builds-recolector.md",
     "keywords": [
-      "build",
-      "equipo",
-      "recolector",
-      "armadura",
-      "herramienta",
-      "botas",
-      "mochila",
-      "silverback",
-      "resistencia"
+      "build", "equipo", "recolector", "armadura", "herramienta",
+      "botas", "mochila", "silverback", "resistencia"
     ],
     "updated": "2026-08-03"
   },
@@ -36,17 +21,8 @@
     "title": "Zonas PvE — dónde farmear seguro",
     "file": "zonas-pve.md",
     "keywords": [
-      "zona",
-      "pve",
-      "seguro",
-      "yellow",
-      "blue",
-      "red",
-      "black",
-      "mapa",
-      "riesgo",
-      "muerte",
-      "penalidad"
+      "zona", "pve", "seguro", "yellow", "blue", "red", "black",
+      "mapa", "riesgo", "muerte", "penalidad"
     ],
     "updated": "2026-08-03"
   },
@@ -54,25 +30,14 @@
     "title": "Capas — guía completa de tipos y habilidades",
     "file": "capas-guia.md",
     "keywords": [
-      "capa",
-      "capas",
-      "cape",
-      "fort sterling",
-      "martlock",
-      "bridgewatch",
-      "thetford",
-      "lymhurst",
-      "caerleon",
-      "brecilien",
-      "avalonian",
-      "keeper",
-      "morgana",
-      "demon",
-      "undead",
-      "heretic",
-      "habilidad",
-      "slot",
-      "accesorio"
+      "capa", "capas", "cape", "accesorio",
+      "capa de bridgewatch", "capa de lymhurst", "capa de fort sterling",
+      "capa de martlock", "capa de thetford", "capa de caerleon",
+      "capa de brecilien", "capa de avalon",
+      "fort sterling", "martlock", "bridgewatch", "thetford", "lymhurst", "caerleon",
+      "keeper", "morgana", "demon", "undead", "heretic",
+      "pasiva de facción", "efecto automático", "utilidad en combate",
+      "habilidad", "slot"
     ],
     "updated": "2026-08-03"
   },
@@ -80,39 +45,12 @@
     "title": "Recursos y refinado — guía completa T4 a T8",
     "file": "recursos-refinado.md",
     "keywords": [
-      "recurso",
-      "recursos",
-      "refinar",
-      "refinado",
-      "piel",
-      "hide",
-      "cuero",
-      "leather",
-      "madera",
-      "wood",
-      "tablón",
-      "mineral",
-      "ore",
-      "metal",
-      "metalbar",
-      "fibra",
-      "fiber",
-      "tela",
-      "cloth",
-      "piedra",
-      "rock",
-      "bloque",
-      "tier",
-      "t4",
-      "t5",
-      "t6",
-      "t7",
-      "t8",
-      "plata",
-      "vender",
-      "bonus",
-      "ciudad",
-      "multiplicador"
+      "recurso", "recursos", "refinar", "refinado",
+      "piel", "cuero", "madera", "tablón", "mineral", "metal",
+      "fibra", "tela", "piedra", "bloque",
+      "material de refinamiento", "base para equipo",
+      "tier", "t4", "t5", "t6", "t7", "t8",
+      "plata", "vender", "bonus", "ciudad", "multiplicador"
     ],
     "updated": "2026-08-03"
   },
@@ -121,8 +59,10 @@
     "file": "armas-bow.md",
     "keywords": [
       "arco", "arco largo", "arco de guerra", "arco de gemidos", "arco de badon",
-      "arcos susurrantes", "perforanieblas", "bow", "warbow", "longbow",
-      "distancia", "arma", "habilidad", "definitiva"
+      "arcos susurrantes", "perforanieblas",
+      "a distancia", "distancia física", "perforación", "daño continuo",
+      "arquero", "kiting", "movilidad a distancia", "físico",
+      "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -132,7 +72,120 @@
     "keywords": [
       "ballesta", "ballesta ligera", "ballesta pesada", "lanzavirotes",
       "ballesta de repetición lamentable", "ballesta de asedio", "moldeador de energía",
-      "crossbow", "distancia", "zvz", "arma", "habilidad", "definitiva"
+      "a distancia", "daño explosivo", "ráfaga", "bolts",
+      "daño en área distancia", "zvz", "explosivo",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Hachas — habilidades Q/W/E",
+    "file": "armas-axe.md",
+    "keywords": [
+      "hacha", "hacha de batalla", "gran hacha", "alabarda", "hacha de carroña",
+      "garras de oso", "segadora de reinos", "segadoras de cristal",
+      "cuerpo a cuerpo", "sangrado", "bleed", "presión",
+      "daño sostenido", "hemorragia", "dot físico",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Dagas — habilidades Q/W/E",
+    "file": "armas-dagger.md",
+    "keywords": [
+      "daga", "par de dagas", "garras", "daga letal", "colmillos de demonio",
+      "dadoras de muerte", "furia bridada",
+      "cuerpo a cuerpo", "asesinato", "asesino", "alta movilidad",
+      "ganking", "burst", "sigilo", "emboscada", "daño rápido",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Martillos — habilidades Q/W/E",
+    "file": "armas-hammer.md",
+    "keywords": [
+      "martillo", "gran martillo", "martillos de forja", "martillo de tumba",
+      "martillo de mano", "rompemuros", "mano de la justicia",
+      "cuerpo a cuerpo", "aturdimiento", "stun", "control de masas",
+      "zvz", "pesado", "slow masivo", "cc grupal",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Guantes de Guerra — habilidades Q/W/E",
+    "file": "armas-knuckles.md",
+    "keywords": [
+      "guantes de guerra", "guantes de camorrista", "brazales de batalla", "guantes con picos",
+      "mazos ursinos", "puños de avalon", "manos de fuego infernal", "cesto de ataque de cuervo",
+      "guanteletes", "puños",
+      "cuerpo a cuerpo", "combos", "desplazamiento", "dash",
+      "burst melee", "pelea cuerpo a cuerpo",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Mazas — habilidades Q/W/E",
+    "file": "armas-mace.md",
+    "keywords": [
+      "maza", "maza pesada", "lucero del alba", "maza de íncubo", "maza de camlann",
+      "mazas de asedio", "rompejuramentos",
+      "cuerpo a cuerpo", "atrapamiento", "trampa", "tanque principal",
+      "cc", "control", "inmovilizar", "raíz",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Varas (Bastones de Cuarto) — habilidades Q/W/E",
+    "file": "armas-quarterstaff.md",
+    "keywords": [
+      "vara", "vara de hierro férreo", "vara de doble hoja", "vara de monje negro",
+      "segadora de almas", "vara de caminador de niebla", "vara de caminante del cielo",
+      "bastón de cuarto",
+      "cuerpo a cuerpo", "disrupción", "movilidad melee", "híbrido",
+      "mago melee", "staff melee",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Lanzas — habilidades Q/W/E",
+    "file": "armas-spear.md",
+    "keywords": [
+      "lanza", "pica", "glaive", "lanza de garza", "cazador de espíritus",
+      "lanza de la trinidad", "guadaña del alba",
+      "cuerpo a cuerpo", "alcance medio", "flexibilidad", "versátil",
+      "carga", "movilidad",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Espadas — habilidades Q/W/E",
+    "file": "armas-sword.md",
+    "keywords": [
+      "espada", "espada ancha", "mandoble", "espadas dobles", "espada de clarent",
+      "espada tallada", "par de galatinn", "creador de reyes",
+      "cuerpo a cuerpo", "cargas de velocidad", "daño sostenido",
+      "versátil", "all-rounder", "equilibrado", "velocidad",
+      "arma", "habilidad", "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones Arcanos — habilidades Q/W/E",
+    "file": "armas-arcanestaff.md",
+    "keywords": [
+      "bastón arcano", "gran bastón arcano", "bastón de enigma", "bastón de brujería",
+      "locus malévolo", "bastón oculto", "bastón astral",
+      "magia", "escudos mágicos", "soporte de equipo", "utilidad",
+      "portales", "magia pura", "energía", "protección grupal",
+      "mago de soporte", "mago arcano",
+      "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -142,7 +195,9 @@
     "keywords": [
       "bastón maldito", "gran bastón maldito", "bastón demoníaco", "calavera maldita",
       "bastón de perdición", "bastón de vida maldita", "invocador de sombras",
-      "maldito", "curse", "dot", "mago", "arma", "habilidad", "definitiva"
+      "magia", "maldición", "daño por tiempo", "dot", "debuff",
+      "veneno mágico", "corrupción", "daño oscuro", "mago oscuro",
+      "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -151,8 +206,11 @@
     "file": "armas-firestaff.md",
     "keywords": [
       "bastón ígneo", "gran bastón ígneo", "bastón infernal", "bastón de fuego incontrolable",
-      "bastón de azufre", "bastón flamígero", "canción del despertar", "bastón de camiallamas",
-      "ígneo", "fuego", "fire", "firestaff", "mago", "arma", "habilidad", "definitiva"
+      "bastón de azufre", "bastón flamígero", "canción del despertar", "bastón de caminallamas",
+      "bastón de fuego", "mago de fuego", "bastón de llamas",
+      "magia", "fuego", "llamas", "quemadura", "gran daño en área",
+      "aoe fuego", "explosión", "ígneo",
+      "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -161,18 +219,11 @@
     "file": "armas-froststaff.md",
     "keywords": [
       "bastón de hielo", "gran bastón de hielo", "bastón de ventisca", "aullido gélido",
-      "prisma de permagrost", "bastón de carámbano", "tejedor de escarcha",
-      "hielo", "escarcha", "frost", "froststaff", "mago", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Bastones Arcanos — habilidades Q/W/E",
-    "file": "armas-arcanestaff.md",
-    "keywords": [
-      "bastón arcano", "gran bastón arcano", "bastón de enigma", "bastón de brujería",
-      "locus malévo", "bastón oculto", "bastón astral",
-      "arcano", "arcane", "arcanestaff", "mago", "arma", "habilidad", "definitiva"
+      "prisma de permafrost", "bastón de carámbano", "tejedor de escarcha",
+      "bastón de escarcha", "bastón frío", "mago de hielo",
+      "magia", "hielo", "escarcha", "ralentización", "slow", "congelación",
+      "congelar", "frío", "inmovilizar con hielo",
+      "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -182,7 +233,10 @@
     "keywords": [
       "bastón sagrado", "gran bastón sagrado", "bastón divino", "bastón del santuario",
       "bastón de redención", "bastón caído", "caída sagrada",
-      "sagrado", "holy", "holystaff", "healer", "curar", "arma", "habilidad", "definitiva"
+      "bastón de curación", "bastón de luz", "mago curador", "healer de luz",
+      "magia", "curación directa", "grandes curas", "heal", "curar",
+      "healer", "soporte", "luz", "sagrado", "curación instantánea",
+      "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -196,87 +250,10 @@
       "bastón de hombre lobo de luna de sangre", "bastón de grifo de tejedor del cielo",
       "bastón de treant de raíz viviente", "bastón de gólem rompetierra",
       "bastón de basilisco de fuego infernal",
-      "naturaleza", "nature", "naturestaff", "healer", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Dagas — habilidades Q/W/E",
-    "file": "armas-dagger.md",
-    "keywords": [
-      "daga", "par de dagas", "garras", "daga letal", "colmillos de demonio",
-      "dadoras de muerte", "furia bridada",
-      "dagger", "claw", "melee", "ganking", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Guantes de Guerra — habilidades Q/W/E",
-    "file": "armas-knuckles.md",
-    "keywords": [
-      "guantes de guerra", "guantes de camorista", "brazales de batalla", "guantes con picos",
-      "mazos ursinos", "puños de avalon", "manos de fuego infernal", "cesto de ataque de cuervo",
-      "guanteletes", "puños", "knuckles", "gauntlets", "melee", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Lanzas — habilidades Q/W/E",
-    "file": "armas-spear.md",
-    "keywords": [
-      "lanza", "pica", "glaive", "lanza de garza", "cazador de espíritus",
-      "lanza de la trinidad", "guadaña del alba",
-      "spear", "melee", "movilidad", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Hachas — habilidades Q/W/E",
-    "file": "armas-axe.md",
-    "keywords": [
-      "hacha", "hacha de batalla", "gran hacha", "alabarda", "hacha de carroña",
-      "garras de oso", "segadora de reinos", "segadoras de cristal",
-      "axe", "halberd", "melee", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Espadas — habilidades Q/W/E",
-    "file": "armas-sword.md",
-    "keywords": [
-      "espada", "espada ancha", "mandoble", "espadas dobles", "espada de clarent",
-      "espada tallada", "par de galatinn", "creador de reyes",
-      "sword", "claymore", "melee", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Varas (Bastones de Cuarto) — habilidades Q/W/E",
-    "file": "armas-quarterstaff.md",
-    "keywords": [
-      "vara", "vara de hierro férreo", "vara de doble hoja", "vara de monje negro",
-      "segadora de almas", "vara de caminador de niebla", "vara de caminante del cielo",
-      "bastón de cuarto", "quarterstaff", "melee", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Martillos — habilidades Q/W/E",
-    "file": "armas-hammer.md",
-    "keywords": [
-      "martillo", "gran martillo", "martillos de forja", "martillo de tumba",
-      "martillo de mano", "rompemuro", "mano de la justicia",
-      "hammer", "polehammer", "melee", "zvz", "arma", "habilidad", "definitiva"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Mazas — habilidades Q/W/E",
-    "file": "armas-mace.md",
-    "keywords": [
-      "maza", "maza pesada", "lucero del alba", "maza de íncubo", "maza de camlann",
-      "mazas de asedio", "rompejuramentos",
-      "mace", "flail", "melee", "cc", "arma", "habilidad", "definitiva"
+      "bastón de naturaleza", "mago de naturaleza", "healer de naturaleza",
+      "magia", "curación en el tiempo", "regeneración", "hot", "regen",
+      "druida", "naturaleza", "transformación", "bestia", "cambiaformas", "híbrido",
+      "arma", "habilidad", "definitiva"
     ],
     "updated": "2026-08-03"
   },
@@ -291,6 +268,9 @@
       "capucha real", "capucha de hellion", "capucha de espectro", "capucha de tenacidad", "capucha de vándalo",
       "casco de soldado", "casco de caballero", "casco de guardián", "casco de tumba",
       "casco real", "casco de demonio", "casco de juicio", "casco de valor", "casco crepuscular",
+      "habilidades utilitarias", "recuperación de energía", "escudos mágicos",
+      "habilidades ofensivas", "purificación", "reducción de daño",
+      "inmunidades", "desplazamiento", "interrupción",
       "tela", "cuero", "placa", "mago", "cazador", "guerrero",
       "armadura", "habilidad", "pasiva", "activa"
     ],
@@ -307,6 +287,9 @@
       "chaqueta real", "chaqueta de hellion", "chaqueta de espectro", "chaqueta de tenacidad", "chaqueta de vándalo",
       "armadura de soldado", "armadura de caballero", "armadura de guardián", "armadura de tumba",
       "armadura real", "armadura de demonio", "armadura de juicio", "armadura de valor", "armadura crepuscular",
+      "poder de habilidad", "daño mágico alto", "bonificación de curación", "dps mago",
+      "equilibrio de daño", "utilidad", "tiempos de recarga",
+      "defensa física", "defensa mágica", "tanque", "vida alta", "generación de amenaza",
       "tela", "cuero", "placa", "mago", "cazador", "guerrero",
       "armadura", "habilidad", "pasiva", "activa"
     ],
@@ -323,6 +306,9 @@
       "botas reales", "botas de hellion", "botas de espectro", "botas de tenacidad", "botas de vándalo",
       "botas de soldado", "botas de caballero", "botas de guardián", "botas de tumba",
       "botas de demonio", "botas de juicio", "botas de valor", "botas crepusculares",
+      "parpadeo", "blink", "regeneración de energía", "velocidad de movimiento",
+      "reducción de cc", "velocidad constante", "escape",
+      "inmunidad a ralentizaciones", "escudo de movimiento", "carrera defensiva",
       "tela", "cuero", "placa",
       "armadura", "habilidad", "pasiva", "activa"
     ],
@@ -332,10 +318,11 @@
     "title": "Capas — habilidades activas y pasivas",
     "file": "armaduras-cape.md",
     "keywords": [
-      "capa", "cape", "accesorio",
+      "capa", "capas", "accesorio",
       "capa de bridgewatch", "capa de lymhurst", "capa de fort sterling",
       "capa de martlock", "capa de thetford", "capa de caerleon",
       "capa de brecilien", "capa de avalon",
+      "pasiva de facción", "efecto automático", "utilidad en combate",
       "armadura", "habilidad", "pasiva", "activa"
     ],
     "updated": "2026-08-03"
@@ -348,7 +335,10 @@
       "antorcha", "cetro sagrado", "neblina densa", "criptavelas",
       "tomo", "libro de hechizos", "muérdago", "ojo de los secretos",
       "raíz durmiente", "incensario",
-      "mano izquierda", "offhand", "secundaria", "escudo", "libro"
+      "mano izquierda", "offhand", "secundaria",
+      "reducción de daño", "resistencia", "tanqueo",
+      "velocidad de ataque", "reducción de tiempos de espera",
+      "poder de lanzamiento", "regeneración de energía", "multiplicador mágico"
     ],
     "updated": "2026-08-03"
   },
@@ -360,7 +350,9 @@
       "cuchillo de peletero", "martillo de cantero", "caña de pescar",
       "martillo de demolición", "herramienta",
       "cosechador", "maderero", "minero", "peletero", "cantero", "pescador",
-      "ropa de recolector", "atuendo", "recolección", "oficio"
+      "ropa de recolector", "atuendo", "recolección", "oficio",
+      "velocidad de extracción", "daño a criaturas de recurso",
+      "rendimiento extra", "habilidades de escape"
     ],
     "updated": "2026-08-03"
   },
@@ -368,10 +360,11 @@
     "title": "Artefactos — crafteo de armas y armaduras especiales",
     "file": "artefactos.md",
     "keywords": [
-      "artefacto", "artifact",
-      "artefacto de arma", "artefacto de armadura", "artefacto de arma secundaria",
+      "artefacto", "artefacto de arma", "artefacto de armadura", "artefacto de arma secundaria",
       "esencia", "material de runas", "runa", "alma", "reliquia", "opalina",
-      "fragmento de avalon", "crafteo especial", "item especial"
+      "fragmento de avalon", "crafteo especial", "item especial",
+      "armas especiales", "forja de armas", "forja de armadura",
+      "almas", "reliquias", "encantamiento"
     ],
     "updated": "2026-08-03"
   },
@@ -384,7 +377,8 @@
       "oso huargo", "mamut de transporte",
       "lobo huargo", "garrapresta", "caballo blindado", "alce", "ciervo gigante",
       "lagarto de plaga", "garra de la muerte",
-      "velocidad", "transporte", "combate", "battle mount"
+      "velocidad de galope", "capacidad de transporte", "habilidades de combate",
+      "velocidad", "transporte", "combate", "montura de combate"
     ],
     "updated": "2026-08-03"
   },
@@ -392,14 +386,13 @@
     "title": "Comida y consumibles — tipos y efectos",
     "file": "consumibles.md",
     "keywords": [
-      "comida",
-      "food",
-      "consumible",
-      "consumable",
-      "nutricion",
-      "buff",
-      "pez",
-      "fish"
+      "comida", "consumible", "poción",
+      "sopa", "guiso", "sándwich", "tortilla", "pastel", "asado",
+      "poción de vida", "poción de energía", "poción de resistencia",
+      "poción de gigantismo", "poción de pegamento", "poción de veneno",
+      "poción de invisibilidad", "poción de limpieza",
+      "buff", "bonificación de larga duración", "regeneración fuera de combate",
+      "curación instantánea", "efectos de emergencia", "nutricion"
     ],
     "updated": "2026-08-03"
   },
@@ -407,19 +400,10 @@
     "title": "Jefes (Bosses) — stats y fama por facción",
     "file": "mobs-bosses.md",
     "keywords": [
-      "boss",
-      "jefe",
-      "elite",
-      "dungeon",
-      "fama",
-      "fame",
-      "hp",
-      "faccion",
-      "undead",
-      "heretic",
-      "morgana",
-      "keeper",
-      "demon"
+      "boss", "jefe", "elite", "dungeon",
+      "fama", "hp", "faccion",
+      "undead", "heretic", "morgana", "keeper", "demon",
+      "matar boss", "farmear boss", "recompensa"
     ],
     "updated": "2026-08-03"
   },
@@ -427,19 +411,10 @@
     "title": "Facciones y Dungeons — guía completa",
     "file": "dungeons-facciones.md",
     "keywords": [
-      "dungeon",
-      "faccion",
-      "undead",
-      "heretic",
-      "morgana",
-      "keeper",
-      "demon",
-      "hell gate",
-      "corrupted",
-      "mists",
-      "random",
-      "static",
-      "pvp"
+      "dungeon", "faccion", "mazmorra",
+      "undead", "heretic", "morgana", "keeper", "demon",
+      "hell gate", "corrupted", "mists", "random", "static", "pvp",
+      "contenido de grupo", "mazmorra grupal", "mazmorra en solitario"
     ],
     "updated": "2026-08-03"
   },
@@ -447,16 +422,9 @@
     "title": "Farmeo de fama — mobs por facción T5",
     "file": "mobs-farmeo-fama.md",
     "keywords": [
-      "farmeo",
-      "fama",
-      "fame",
-      "mob",
-      "t5",
-      "dungeon",
-      "grinding",
-      "subir",
-      "destiny board",
-      "xp"
+      "farmeo", "fama", "fame", "mob", "t5",
+      "dungeon", "grinding", "subir nivel", "destiny board", "xp",
+      "fama de combate", "fama de recolección", "subir fama rápido"
     ],
     "updated": "2026-08-03"
   },
@@ -464,25 +432,11 @@
     "title": "Crafteo y edificios — guía completa",
     "file": "crafteo-edificios.md",
     "keywords": [
-      "crafteo",
-      "crafting",
-      "edificio",
-      "building",
-      "forge",
-      "smelter",
-      "lumbermill",
-      "tanner",
-      "weaver",
-      "stonemason",
-      "cook",
-      "alchemist",
-      "focus",
-      "nutricion",
-      "bonus",
-      "ciudad",
-      "fee",
-      "return",
-      "materiales"
+      "crafteo", "crafting", "fabricación", "edificio",
+      "forge", "smelter", "lumbermill", "tanner", "weaver", "stonemason",
+      "cook", "alchemist",
+      "focus", "nutricion", "bonus ciudad", "fee", "return rate",
+      "materiales", "crear item", "fabricar"
     ],
     "updated": "2026-08-03"
   }
