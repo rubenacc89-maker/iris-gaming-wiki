@@ -505,5 +505,88 @@
       "fish"
     ],
     "updated": "2026-08-03"
+  },
+  {
+    "title": "Jefes (Bosses) — stats y fama por facción",
+    "file": "mobs-bosses.md",
+    "keywords": [
+      "boss",
+      "jefe",
+      "elite",
+      "dungeon",
+      "fama",
+      "fame",
+      "hp",
+      "faccion",
+      "undead",
+      "heretic",
+      "morgana",
+      "keeper",
+      "demon"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Facciones y Dungeons — guía completa",
+    "file": "dungeons-facciones.md",
+    "keywords": [
+      "dungeon",
+      "faccion",
+      "undead",
+      "heretic",
+      "morgana",
+      "keeper",
+      "demon",
+      "hell gate",
+      "corrupted",
+      "mists",
+      "random",
+      "static",
+      "pvp"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Farmeo de fama — mobs por facción T5",
+    "file": "mobs-farmeo-fama.md",
+    "keywords": [
+      "farmeo",
+      "fama",
+      "fame",
+      "mob",
+      "t5",
+      "dungeon",
+      "grinding",
+      "subir",
+      "destiny board",
+      "xp"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Crafteo y edificios — guía completa",
+    "file": "crafteo-edificios.md",
+    "keywords": [
+      "crafteo",
+      "crafting",
+      "edificio",
+      "building",
+      "forge",
+      "smelter",
+      "lumbermill",
+      "tanner",
+      "weaver",
+      "stonemason",
+      "cook",
+      "alchemist",
+      "focus",
+      "nutricion",
+      "bonus",
+      "ciudad",
+      "fee",
+      "return",
+      "materiales"
+    ],
+    "updated": "2026-08-03"
   }
 ]
