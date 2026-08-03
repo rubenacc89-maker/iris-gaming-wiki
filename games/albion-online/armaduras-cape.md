@@ -6,68 +6,68 @@
 
 ## General
 
-### Adept's Bridgewatch Cape
-**Pasivas:** Sandstorm
+### Capa de Bridgewatch del iniciado
+**Pasivas:** Tormenta de arena
 
-### Adept's Fort Sterling Cape
-**Pasivas:** Untouchable
+### Capa de Fort Sterling del iniciado
+**Pasivas:** Intocable
 
-### Adept's Lymhurst Cape
-**Pasivas:** Energy Reserve
+### Capa de Lymhurst del iniciado
+**Pasivas:** Reserva de energía
 
-### Adept's Martlock Cape
-**Pasivas:** Shield of Protection
+### Capa de Martlock del iniciado
+**Pasivas:** Escudo de protección
 
-### Adept's Thetford Cape
-**Pasivas:** Chain Lightning
+### Capa de Thetford del iniciado
+**Pasivas:** Corriente de Relámpago
 
-### Equipment Item - Crested Capes offer an additional passive spell.
-**Pasivas:** Opportunist
+### Capa de Caerleon del iniciado
+**Pasivas:** Oportunista
 
-### Equipment Item - Crested Capes offer an additional passive spell.
+### Capeitem Fw Brecilien
 **Pasivas:** Passive Cape Fey
 
-### Equipment Item - Crested Capes offer an additional passive spell.
+### Capeitem Avalon
 **Pasivas:** Passive Cape Avalon
 
-### Equipment Item - Crested Capes offer an additional passive spell.
+### Capeitem Smuggler
 **Pasivas:** Passive Cape Smuggler
 
-### Adept's Heretic Cape
-**Pasivas:** Devious Trap
+### Capa hereje del iniciado
+**Pasivas:** Trampa deshonesta
 
-### Adept's Undead Cape
-**Pasivas:** Vanisher
+### Capa de muerto viviente del iniciado
+**Pasivas:** Desvanecer
 
-### Adept's Keeper Cape
-**Pasivas:** Berserk
+### Capa de guardián del iniciado
+**Pasivas:** Berserker
 
-### Adept's Morgana Cape
-**Pasivas:** Mark of the Raven
+### Capa de Morgana del iniciado
+**Pasivas:** Marca del cuervo
 
-### Adept's Demon Cape
-**Pasivas:** Opening to Hell
+### Capa demoníaca del iniciado
+**Pasivas:** Abriendo el infierno
 
 ---
 
 ## Recolector
 
-### Adept's Harvester Backpack
-**Pasivas:** Fiber Carrier
+### Mochila de cosechador del iniciado
+**Pasivas:** Transportador de fibra
 
-### Adept's Skinner Backpack
-**Pasivas:** Hide Carrier
+### Mochila de peletero del iniciado
+**Pasivas:** Transportador de piel
 
-### Adept's Miner Backpack
-**Pasivas:** Ore Carrier
+### Mochila de minero del iniciado
+**Pasivas:** Transportador de mineral
 
-### Adept's Quarrier Backpack
-**Pasivas:** Stone Carrier
+### Mochila de cantero del iniciado
+**Pasivas:** Transportador de piedra
 
-### Adept's Lumberjack Backpack
-**Pasivas:** Wood Carrier
+### Mochila de leñador del iniciado
+**Pasivas:** Transportador de madera
 
-### Adept's Fisherman Backpack
-**Pasivas:** Fish Carrier
+### Mochila de pescador del iniciado
+**Pasivas:** Transportador de pescado
 
 ---

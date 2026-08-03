@@ -6,251 +6,251 @@
 
 ## Placa (Tanque)
 
-### Adept's Soldier Helmet
+### Casco de soldado del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Block** (CD 40s)
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Bloquear** (CD 40s)
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
-### Adept's Knight Helmet
+### Casco de caballero del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Displacement Immunity** (CD 25s)
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Inmunidad al desplazamiento** (CD 25s)
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
-### Adept's Guardian Helmet
+### Casco de guardián del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Emergency Shield** (CD 30s)
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Escudo de emergencia** (CD 30s)
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
-### Adept's Graveguard Helmet
+### Casco de guardatumbas del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Sacrifice** (CD 50s, 9m)
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Sacrificio** (CD 50s, 9m)
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
-### Adept's Demon Helmet
+### Casco de demonio del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Hush** (CD 25s, 11m)
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Chitón** (CD 25s, 11m)
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
-### Adept's Judicator Helmet
+### Casco de juez del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Electric Discharge** (CD 45s)
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Descarga eléctrica** (CD 45s)
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Spider's Thread** (CD 15s, 17m)
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Telaraña** (CD 15s, 17m)
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Purifying Smoke** (CD 40s, 11m)
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Humo purificante** (CD 40s, 11m)
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
-### Adept's Royal Helmet
+### Casco real del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Stone Skin** (CD 30s)
-- **[E]** **Ballista Support Fire** (CD 30s, 11m) — -61 daño físico AoE 3m
-**Pasivas:** Toughness, Authority, Tenacity
+- **[W]** **Piel de piedra** (CD 30s)
+- **[E]** **Fuego de apoyo de balista** (CD 30s, 11m) — -61 daño físico AoE 3m
+**Pasivas:** Dureza, Autoridad, Tenacidad
 
 ---
 
 ## Cuero (DPS físico)
 
-### Adept's Mercenary Hood
+### Capucha de mercenario del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Howl** (CD 20s, 11m)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Aullido** (CD 20s, 11m)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Hunter Hood
+### Capucha de cazador del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Retaliate** (CD 45s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Contraataque** (CD 45s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Assassin Hood
+### Capucha de asesino del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Meditation** (CD 40s, 11m)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Meditación** (CD 40s, 11m)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Stalker Hood
+### Capucha de acechador del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Mortal Agony** (CD 15s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Agonía mortal** (CD 15s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Hellion Hood
+### Capucha de vándalo del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Smokebomb** (CD 40s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Bomba de humo** (CD 40s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Specter Hood
+### Capucha de espectro del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Flash of Insight** (CD 60s, cast 0.5s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Destello de perspicacia** (CD 60s, cast 0.5s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Nasty Wounds** (CD 30s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Heridas desagradables** (CD 30s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Royal Hood
+### Capucha real del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Growing Rage** (CD 25s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Rabia creciente** (CD 25s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
 ---
 
 ## Tela (Mago/Healer)
 
-### Adept's Scholar Cowl
+### Hábito de erudito del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
-- **[E]** **Energy Shield** (CD 30s)
-**Pasivas:** Aggression, Concentration, Efficiency
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
+- **[E]** **Escudo energético** (CD 30s)
+**Pasivas:** Agresión, Concentración, Eficiencia
 
-### Adept's Cleric Cowl
+### Hábito de clérigo del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
-- **[E]** **Ice Block** (CD 90s)
-**Pasivas:** Aggression, Concentration, Efficiency
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
+- **[E]** **Bloque de hielo** (CD 90s)
+**Pasivas:** Agresión, Concentración, Eficiencia
 
-### Adept's Mage Cowl
+### Hábito de mago del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
 - **[E]** **Helmet Firebreath** (CD 20s, 13m)
-**Pasivas:** Aggression, Concentration, Efficiency
+**Pasivas:** Agresión, Concentración, Eficiencia
 
-### Adept's Druid Cowl
+### Hábito de druida del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
-- **[E]** **Circle of Inspiration** (CD 30s)
-**Pasivas:** Aggression, Concentration, Efficiency
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
+- **[E]** **Círculo de inspiración** (CD 30s)
+**Pasivas:** Agresión, Concentración, Eficiencia
 
-### Adept's Fiend Cowl
+### Hábito de diablo del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
-- **[E]** **Purge** (CD 40s, 9m)
-**Pasivas:** Aggression, Concentration, Efficiency
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
+- **[E]** **Purga** (CD 40s, 9m)
+**Pasivas:** Agresión, Concentración, Eficiencia
 
-### Adept's Cultist Cowl
+### Hábito de sectario del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
-- **[E]** **Inner Corruption** (CD 30s, 9m)
-**Pasivas:** Aggression, Concentration, Efficiency
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
+- **[E]** **Corrupción interna** (CD 30s, 9m)
+**Pasivas:** Agresión, Concentración, Eficiencia
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
-**Pasivas:** Aggression, Concentration, Efficiency
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
+**Pasivas:** Agresión, Concentración, Eficiencia
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
-- **[E]** **Avalonian Beam** (CD 30s, 21m)
-**Pasivas:** Aggression, Concentration, Efficiency
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
+- **[E]** **Rayo avaloniano** (CD 30s, 21m)
+**Pasivas:** Agresión, Concentración, Eficiencia
 
-### Adept's Royal Cowl
+### Hábito real del iniciado
 **Habilidades activas:**
 - **[Q]** **Energy Barrier** (CD 25s)
-- **[W]** **Force Field** (CD 30s) — -67 daño mágico AoE 6m
-- **[E]** **Perpetual Energy** (CD 30s)
-**Pasivas:** Aggression, Concentration, Efficiency
+- **[W]** **Campo de fuerza** (CD 30s) — -67 daño mágico AoE 6m
+- **[E]** **Energía perpetua** (CD 30s)
+**Pasivas:** Agresión, Concentración, Eficiencia
 
 ---
 
 ## Recolector
 
-### Adept's Harvester Cap
+### Gorro de cosechador del iniciado
 **Habilidades activas:**
-- **[Q]** **Block** (CD 40s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Emergency Shield** (CD 30s)
-- **[E]** **Magic Pollen** (CD 90s)
-**Pasivas:** Harvesting Skills
+- **[Q]** **Bloquear** (CD 40s)
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Escudo de emergencia** (CD 30s)
+- **[E]** **Polen mágico** (CD 90s)
+**Pasivas:** Habilidades de recolección
 
-### Adept's Skinner Cap
+### Gorro de peletero del iniciado
 **Habilidades activas:**
-- **[Q]** **Block** (CD 40s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Emergency Shield** (CD 30s)
-- **[E]** **Bear Trap** (CD 30s)
-**Pasivas:** Skinning Skills
+- **[Q]** **Bloquear** (CD 40s)
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Escudo de emergencia** (CD 30s)
+- **[E]** **Trampa para osos** (CD 30s)
+**Pasivas:** Habilidades de despellejadura
 
-### Adept's Miner Cap
+### Gorro de minero del iniciado
 **Habilidades activas:**
-- **[Q]** **Block** (CD 40s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Emergency Shield** (CD 30s)
-- **[E]** **Motivating Worker's Song** (CD 60s)
-**Pasivas:** Mining Skills
+- **[Q]** **Bloquear** (CD 40s)
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Escudo de emergencia** (CD 30s)
+- **[E]** **Canción obrera alentadora** (CD 60s)
+**Pasivas:** Habilidades de minería
 
-### Adept's Quarrier Cap
+### Gorro de cantero del iniciado
 **Habilidades activas:**
-- **[Q]** **Block** (CD 40s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Emergency Shield** (CD 30s)
-- **[E]** **Fatigue-Proof** (CD 60s)
-**Pasivas:** Quarrying Skills
+- **[Q]** **Bloquear** (CD 40s)
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Escudo de emergencia** (CD 30s)
+- **[E]** **Antifatiga** (CD 60s)
+**Pasivas:** Habilidades de excavación
 
-### Adept's Lumberjack Cap
+### Gorro de leñador del iniciado
 **Habilidades activas:**
-- **[Q]** **Block** (CD 40s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Emergency Shield** (CD 30s)
-- **[E]** **Tree Trunks** (CD 60s)
-**Pasivas:** Lumberjack Skills
+- **[Q]** **Bloquear** (CD 40s)
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Escudo de emergencia** (CD 30s)
+- **[E]** **Troncos de árbol** (CD 60s)
+**Pasivas:** Habilidades de leñador
 
-### Adept's Fisherman Cap
+### Gorro de pescador del iniciado
 **Habilidades activas:**
-- **[Q]** **Block** (CD 40s)
-- **[W]** **Cleanse** (CD 20s)
-- **[E]** **Emergency Shield** (CD 30s)
-- **[E]** **Rotten Fish** (CD 60s, 15m)
-**Pasivas:** Fisherman Skills
+- **[Q]** **Bloquear** (CD 40s)
+- **[W]** **Purificación** (CD 20s)
+- **[E]** **Escudo de emergencia** (CD 30s)
+- **[E]** **Pez podrido** (CD 60s, 15m)
+**Pasivas:** Habilidades de pescador
 
 ---

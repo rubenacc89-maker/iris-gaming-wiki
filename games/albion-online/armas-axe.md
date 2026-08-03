@@ -2,152 +2,152 @@
 
 > Datos extraídos de los archivos del juego.
 
-## Adept's Battleaxe (1H)
+## Hacha de guerra del iniciado (1H)
 
 **Q:**
-- **Rending Strike** (CD 2s, 3m) — -59 daño físico
-- **Rending Spin** (CD 3s, 5m)
-- **Rending Rage** (sin CD, 3m)
+- **Golpe desgarrador** (CD 2s, 3m) — -59 daño físico
+- **Vuelta desgarradora** (CD 3s, 5m)
+- **Furia desgarradora** (sin CD, 3m)
 
 **W (elegís uno):**
-- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
-- **Adrenaline Boost** (CD 20s)
-- **Battle Rush** (CD 18s, 12m)
-- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
-- **Raging Blades** (CD 12s, 5m)
+- **Corte mortal** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Aumento de adrenalina** (CD 20s)
+- **Carrera de batalla** (CD 18s, 12m)
+- **Sangrado interno** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Cuchillas enfurecidas** (CD 12s, 5m)
 
 **E — definitiva:**
-- **Blood Bandit** (CD 10s, 18m)
+- **Bandido de sangre** (CD 10s, 18m)
 
 ---
 
-## Adept's Greataxe (2H)
+## Gran hacha del iniciado (2H)
 
 **Q:**
-- **Rending Strike** (CD 2s, 3m) — -59 daño físico
-- **Rending Spin** (CD 3s, 5m)
-- **Rending Rage** (sin CD, 3m)
+- **Golpe desgarrador** (CD 2s, 3m) — -59 daño físico
+- **Vuelta desgarradora** (CD 3s, 5m)
+- **Furia desgarradora** (sin CD, 3m)
 
 **W (elegís uno):**
-- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
-- **Adrenaline Boost** (CD 20s)
-- **Battle Rush** (CD 18s, 12m)
-- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
-- **Raging Blades** (CD 12s, 5m)
+- **Corte mortal** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Aumento de adrenalina** (CD 20s)
+- **Carrera de batalla** (CD 18s, 12m)
+- **Sangrado interno** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Cuchillas enfurecidas** (CD 12s, 5m)
 
 **E — definitiva:**
-- **Whirlwind** (CD 25s, 5m)
+- **Torbellino** (CD 25s, 5m)
 
 ---
 
-## Adept's Halberd (2H)
+## Alabarda del iniciado (2H)
 
 **Q:**
-- **Rending Strike** (CD 2s, 3m) — -59 daño físico
-- **Rending Spin** (CD 3s, 5m)
-- **Rending Rage** (sin CD, 3m)
+- **Golpe desgarrador** (CD 2s, 3m) — -59 daño físico
+- **Vuelta desgarradora** (CD 3s, 5m)
+- **Furia desgarradora** (sin CD, 3m)
 
 **W (elegís uno):**
-- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
-- **Adrenaline Boost** (CD 20s)
-- **Battle Rush** (CD 18s, 12m)
-- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
-- **Raging Blades** (CD 12s, 5m)
+- **Corte mortal** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Aumento de adrenalina** (CD 20s)
+- **Carrera de batalla** (CD 18s, 12m)
+- **Sangrado interno** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Cuchillas enfurecidas** (CD 12s, 5m)
 
 **E — definitiva:**
-- **Tear Apart** (CD 15s, 7m)
+- **Desgarrar** (CD 15s, 7m)
 
 ---
 
-## Adept's Carrioncaller (2H)
+## Llamacarroña del iniciado (2H)
 
 **Q:**
-- **Rending Strike** (CD 2s, 3m) — -59 daño físico
-- **Rending Spin** (CD 3s, 5m)
-- **Rending Rage** (sin CD, 3m)
+- **Golpe desgarrador** (CD 2s, 3m) — -59 daño físico
+- **Vuelta desgarradora** (CD 3s, 5m)
+- **Furia desgarradora** (sin CD, 3m)
 
 **W (elegís uno):**
-- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
-- **Adrenaline Boost** (CD 20s)
-- **Battle Rush** (CD 18s, 12m)
-- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
-- **Raging Blades** (CD 12s, 5m)
+- **Corte mortal** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Aumento de adrenalina** (CD 20s)
+- **Carrera de batalla** (CD 18s, 12m)
+- **Sangrado interno** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Cuchillas enfurecidas** (CD 12s, 5m)
 
 **E — definitiva:**
-- **Morgana Raven** (CD 15s, 20m)
+- **Cuervo de Morgana** (CD 15s, 20m)
 
 ---
 
-## Adept's Infernal Scythe (2H)
+## Guadaña infernal del iniciado (2H)
 
 **Q:**
-- **Rending Strike** (CD 2s, 3m) — -59 daño físico
-- **Rending Spin** (CD 3s, 5m)
-- **Rending Rage** (sin CD, 3m)
+- **Golpe desgarrador** (CD 2s, 3m) — -59 daño físico
+- **Vuelta desgarradora** (CD 3s, 5m)
+- **Furia desgarradora** (sin CD, 3m)
 
 **W (elegís uno):**
-- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
-- **Adrenaline Boost** (CD 20s)
-- **Battle Rush** (CD 18s, 12m)
-- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
-- **Raging Blades** (CD 12s, 5m)
+- **Corte mortal** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Aumento de adrenalina** (CD 20s)
+- **Carrera de batalla** (CD 18s, 12m)
+- **Sangrado interno** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Cuchillas enfurecidas** (CD 12s, 5m)
 
 **E — definitiva:**
-- **Bloody Reap** (CD 20s)
+- **Segada sangrienta** (CD 20s)
 
 ---
 
-## Adept's Bear Paws (2H)
+## Patas de oso del iniciado (2H)
 
 **Q:**
-- **Rending Strike** (CD 2s, 3m) — -59 daño físico
-- **Rending Spin** (CD 3s, 5m)
-- **Rending Rage** (sin CD, 3m)
+- **Golpe desgarrador** (CD 2s, 3m) — -59 daño físico
+- **Vuelta desgarradora** (CD 3s, 5m)
+- **Furia desgarradora** (sin CD, 3m)
 
 **W (elegís uno):**
-- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
-- **Adrenaline Boost** (CD 20s)
-- **Battle Rush** (CD 18s, 12m)
-- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
-- **Raging Blades** (CD 12s, 5m)
+- **Corte mortal** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Aumento de adrenalina** (CD 20s)
+- **Carrera de batalla** (CD 18s, 12m)
+- **Sangrado interno** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Cuchillas enfurecidas** (CD 12s, 5m)
 
 **E — definitiva:**
-- **Razor Cut** (CD 20s, 8m)
+- **Corte al ras** (CD 20s, 8m)
 
 ---
 
-## Adept's Realmbreaker (2H)
+## Romperreinos del iniciado (2H)
 
 **Q:**
-- **Rending Strike** (CD 2s, 3m) — -59 daño físico
-- **Rending Spin** (CD 3s, 5m)
-- **Rending Rage** (sin CD, 3m)
+- **Golpe desgarrador** (CD 2s, 3m) — -59 daño físico
+- **Vuelta desgarradora** (CD 3s, 5m)
+- **Furia desgarradora** (sin CD, 3m)
 
 **W (elegís uno):**
-- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
-- **Adrenaline Boost** (CD 20s)
-- **Battle Rush** (CD 18s, 12m)
-- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
-- **Raging Blades** (CD 12s, 5m)
+- **Corte mortal** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Aumento de adrenalina** (CD 20s)
+- **Carrera de batalla** (CD 18s, 12m)
+- **Sangrado interno** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Cuchillas enfurecidas** (CD 12s, 5m)
 
 **E — definitiva:**
-- **Aftershock** (CD 25s, 10m)
+- **Después del shock** (CD 25s, 10m)
 
 ---
 
 ## Scythe Crystal (2H)
 
 **Q:**
-- **Rending Strike** (CD 2s, 3m) — -59 daño físico
-- **Rending Spin** (CD 3s, 5m)
-- **Rending Rage** (sin CD, 3m)
+- **Golpe desgarrador** (CD 2s, 3m) — -59 daño físico
+- **Vuelta desgarradora** (CD 3s, 5m)
+- **Furia desgarradora** (sin CD, 3m)
 
 **W (elegís uno):**
-- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
-- **Adrenaline Boost** (CD 20s)
-- **Battle Rush** (CD 18s, 12m)
-- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
-- **Raging Blades** (CD 12s, 5m)
+- **Corte mortal** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Aumento de adrenalina** (CD 20s)
+- **Carrera de batalla** (CD 18s, 12m)
+- **Sangrado interno** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Cuchillas enfurecidas** (CD 12s, 5m)
 
 **E — definitiva:**
 - **Crystal Scythe Dash Zone** (CD 3s, 3m)

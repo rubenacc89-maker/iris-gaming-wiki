@@ -2,152 +2,152 @@
 
 > Datos extraídos de los archivos del juego.
 
-## Adept's Cursed Staff (1H)
+## Bastón maldito del iniciado (1H)
 
 **Q:**
-- **Vile Curse** (CD 2.4s, 9m) — -21 daño 
-- **Cursed Sickle** (CD 5s, 16m)
-- **Cursed Tar** (CD 5s, 15m, cast 0.2s)
+- **Maldición vil** (CD 2.4s, 9m) — -21 daño 
+- **Hoz maldita** (CD 5s, 16m)
+- **Brea maldita** (CD 5s, 15m, cast 0.2s)
 
 **W (elegís uno):**
-- **Armor Piercer** (CD 15s, 22m)
-- **Desecrate** (CD 15s, 13m)
-- **Grudge** (CD 20s, 8m)
-- **Cursed Beam** (CD 10s, 13m)
-- **Dark Matter** (CD 15s, 13m, cast 0.5s)
+- **Perforador de armaduras** (CD 15s, 22m)
+- **Profanar** (CD 15s, 13m)
+- **Rencor** (CD 20s, 8m)
+- **Rayo maldito** (CD 10s, 13m)
+- **Materia oscura** (CD 15s, 13m, cast 0.5s)
 
 **E — definitiva:**
-- **Death Curse** (CD 15s, 11m, cast 0.6s)
+- **Maldición letal** (CD 15s, 11m, cast 0.6s)
 
 ---
 
-## Adept's Great Cursed Staff (2H)
+## Gran bastón maldito del iniciado (2H)
 
 **Q:**
-- **Vile Curse** (CD 2.4s, 9m) — -21 daño 
-- **Cursed Sickle** (CD 5s, 16m)
-- **Cursed Tar** (CD 5s, 15m, cast 0.2s)
+- **Maldición vil** (CD 2.4s, 9m) — -21 daño 
+- **Hoz maldita** (CD 5s, 16m)
+- **Brea maldita** (CD 5s, 15m, cast 0.2s)
 
 **W (elegís uno):**
-- **Armor Piercer** (CD 15s, 22m)
-- **Desecrate** (CD 15s, 13m)
-- **Grudge** (CD 20s, 8m)
-- **Cursed Beam** (CD 10s, 13m)
-- **Dark Matter** (CD 15s, 13m, cast 0.5s)
+- **Perforador de armaduras** (CD 15s, 22m)
+- **Profanar** (CD 15s, 13m)
+- **Rencor** (CD 20s, 8m)
+- **Rayo maldito** (CD 10s, 13m)
+- **Materia oscura** (CD 15s, 13m, cast 0.5s)
 
 **E — definitiva:**
-- **Area of Decay** (CD 20s, 15m)
+- **Área de putrefacción** (CD 20s, 15m)
 
 ---
 
-## Adept's Demonic Staff (2H)
+## Bastón demoníaco del iniciado (2H)
 
 **Q:**
-- **Vile Curse** (CD 2.4s, 9m) — -21 daño 
-- **Cursed Sickle** (CD 5s, 16m)
-- **Cursed Tar** (CD 5s, 15m, cast 0.2s)
+- **Maldición vil** (CD 2.4s, 9m) — -21 daño 
+- **Hoz maldita** (CD 5s, 16m)
+- **Brea maldita** (CD 5s, 15m, cast 0.2s)
 
 **W (elegís uno):**
-- **Armor Piercer** (CD 15s, 22m)
-- **Desecrate** (CD 15s, 13m)
-- **Grudge** (CD 20s, 8m)
-- **Cursed Beam** (CD 10s, 13m)
-- **Dark Matter** (CD 15s, 13m, cast 0.5s)
+- **Perforador de armaduras** (CD 15s, 22m)
+- **Profanar** (CD 15s, 13m)
+- **Rencor** (CD 20s, 8m)
+- **Rayo maldito** (CD 10s, 13m)
+- **Materia oscura** (CD 15s, 13m, cast 0.5s)
 
 **E — definitiva:**
-- **Anguished Soul** (CD 25s, 22m)
+- **Alma angustiada** (CD 25s, 22m)
 
 ---
 
-## Adept's Lifecurse Staff (1H)
+## Bastón de maldición de vida del iniciado (1H)
 
 **Q:**
-- **Vile Curse** (CD 2.4s, 9m) — -21 daño 
-- **Cursed Sickle** (CD 5s, 16m)
-- **Cursed Tar** (CD 5s, 15m, cast 0.2s)
+- **Maldición vil** (CD 2.4s, 9m) — -21 daño 
+- **Hoz maldita** (CD 5s, 16m)
+- **Brea maldita** (CD 5s, 15m, cast 0.2s)
 
 **W (elegís uno):**
-- **Armor Piercer** (CD 15s, 22m)
-- **Desecrate** (CD 15s, 13m)
-- **Grudge** (CD 20s, 8m)
-- **Cursed Beam** (CD 10s, 13m)
-- **Dark Matter** (CD 15s, 13m, cast 0.5s)
+- **Perforador de armaduras** (CD 15s, 22m)
+- **Profanar** (CD 15s, 13m)
+- **Rencor** (CD 20s, 8m)
+- **Rayo maldito** (CD 10s, 13m)
+- **Materia oscura** (CD 15s, 13m, cast 0.5s)
 
 **E — definitiva:**
-- **Enfeeble Blades** (CD 63s, 15m, cast 0.4s)
+- **Cuchillas debilitantes** (CD 63s, 15m, cast 0.4s)
 
 ---
 
-## Adept's Cursed Skull (2H)
+## Calavera maldita del iniciado (2H)
 
 **Q:**
-- **Vile Curse** (CD 2.4s, 9m) — -21 daño 
-- **Cursed Sickle** (CD 5s, 16m)
-- **Cursed Tar** (CD 5s, 15m, cast 0.2s)
+- **Maldición vil** (CD 2.4s, 9m) — -21 daño 
+- **Hoz maldita** (CD 5s, 16m)
+- **Brea maldita** (CD 5s, 15m, cast 0.2s)
 
 **W (elegís uno):**
-- **Armor Piercer** (CD 15s, 22m)
-- **Desecrate** (CD 15s, 13m)
-- **Grudge** (CD 20s, 8m)
-- **Cursed Beam** (CD 10s, 13m)
-- **Dark Matter** (CD 15s, 13m, cast 0.5s)
+- **Perforador de armaduras** (CD 15s, 22m)
+- **Profanar** (CD 15s, 13m)
+- **Rencor** (CD 20s, 8m)
+- **Rayo maldito** (CD 10s, 13m)
+- **Materia oscura** (CD 15s, 13m, cast 0.5s)
 
 **E — definitiva:**
-- **Haunting Screams** (CD 30s, 15m, cast 0.4s)
+- **Gritos embrujados** (CD 30s, 15m, cast 0.4s)
 
 ---
 
-## Adept's Damnation Staff (2H)
+## Bastón de maldiciones del iniciado (2H)
 
 **Q:**
-- **Vile Curse** (CD 2.4s, 9m) — -21 daño 
-- **Cursed Sickle** (CD 5s, 16m)
-- **Cursed Tar** (CD 5s, 15m, cast 0.2s)
+- **Maldición vil** (CD 2.4s, 9m) — -21 daño 
+- **Hoz maldita** (CD 5s, 16m)
+- **Brea maldita** (CD 5s, 15m, cast 0.2s)
 
 **W (elegís uno):**
-- **Armor Piercer** (CD 15s, 22m)
-- **Desecrate** (CD 15s, 13m)
-- **Grudge** (CD 20s, 8m)
-- **Cursed Beam** (CD 10s, 13m)
-- **Dark Matter** (CD 15s, 13m, cast 0.5s)
+- **Perforador de armaduras** (CD 15s, 22m)
+- **Profanar** (CD 15s, 13m)
+- **Rencor** (CD 20s, 8m)
+- **Rayo maldito** (CD 10s, 13m)
+- **Materia oscura** (CD 15s, 13m, cast 0.5s)
 
 **E — definitiva:**
-- **Cataclysm** (CD 30s, 12m, cast 2s)
+- **Cataclismo** (CD 30s, 12m, cast 2s)
 
 ---
 
-## Adept's Shadowcaller (1H)
+## Invocador oscuro del iniciado (1H)
 
 **Q:**
-- **Vile Curse** (CD 2.4s, 9m) — -21 daño 
-- **Cursed Sickle** (CD 5s, 16m)
-- **Cursed Tar** (CD 5s, 15m, cast 0.2s)
+- **Maldición vil** (CD 2.4s, 9m) — -21 daño 
+- **Hoz maldita** (CD 5s, 16m)
+- **Brea maldita** (CD 5s, 15m, cast 0.2s)
 
 **W (elegís uno):**
-- **Armor Piercer** (CD 15s, 22m)
-- **Desecrate** (CD 15s, 13m)
-- **Grudge** (CD 20s, 8m)
-- **Cursed Beam** (CD 10s, 13m)
-- **Dark Matter** (CD 15s, 13m, cast 0.5s)
+- **Perforador de armaduras** (CD 15s, 22m)
+- **Profanar** (CD 15s, 13m)
+- **Rencor** (CD 20s, 8m)
+- **Rayo maldito** (CD 10s, 13m)
+- **Materia oscura** (CD 15s, 13m, cast 0.5s)
 
 **E — definitiva:**
-- **Inner Shadow** (CD 30s, 15m, cast 0.4s)
+- **Sombra interior** (CD 30s, 15m, cast 0.4s)
 
 ---
 
 ## Cursedstaff Crystal (1H)
 
 **Q:**
-- **Vile Curse** (CD 2.4s, 9m) — -21 daño 
-- **Cursed Sickle** (CD 5s, 16m)
-- **Cursed Tar** (CD 5s, 15m, cast 0.2s)
+- **Maldición vil** (CD 2.4s, 9m) — -21 daño 
+- **Hoz maldita** (CD 5s, 16m)
+- **Brea maldita** (CD 5s, 15m, cast 0.2s)
 
 **W (elegís uno):**
-- **Armor Piercer** (CD 15s, 22m)
-- **Desecrate** (CD 15s, 13m)
-- **Grudge** (CD 20s, 8m)
-- **Cursed Beam** (CD 10s, 13m)
-- **Dark Matter** (CD 15s, 13m, cast 0.5s)
+- **Perforador de armaduras** (CD 15s, 22m)
+- **Profanar** (CD 15s, 13m)
+- **Rencor** (CD 20s, 8m)
+- **Rayo maldito** (CD 10s, 13m)
+- **Materia oscura** (CD 15s, 13m, cast 0.5s)
 
 **E — definitiva:**
 - **Curse Skeleton Barf Fdhr** (CD 30s, 3m)

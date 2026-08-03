@@ -6,252 +6,252 @@
 
 ## Placa (Tanque)
 
-### Adept's Soldier Boots
+### Botas de soldado del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Wanderlust** (CD 60s)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Espíritu viajero** (CD 60s)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
-### Adept's Knight Boots
+### Botas de caballero del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Shield Charge** (CD 18s, 15m)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Carga de escudo** (CD 18s, 15m)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
-### Adept's Guardian Boots
+### Botas de guardián del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Giant** (CD 40s)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Gigante** (CD 40s)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
-### Adept's Graveguard Boots
+### Botas de guardatumbas del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Battle Frenzy** (CD 30s)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Frenesí de batalla** (CD 30s)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
-### Adept's Demon Boots
+### Botas de demonio del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Vengeful Sprint** (CD 30s)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Sprint vengativo** (CD 30s)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
-### Adept's Judicator Boots
+### Botas de juez del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Elbow Smash** (CD 20s, 10m)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Codazo aplastante** (CD 20s, 10m)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Crush Charge** (CD 25s, 12m, cast 0.6s)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Embestida aplastante** (CD 25s, 12m, cast 0.6s)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Premonition** (CD 20s)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Premonición** (CD 20s)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
-### Adept's Royal Boots
+### Botas reales del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Royal March** (CD 30s, 10m)
-**Pasivas:** Courier, Toughness, Authority, Tenacity
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Marcha real** (CD 30s, 10m)
+**Pasivas:** Mensajero, Dureza, Autoridad, Tenacidad
 
 ---
 
 ## Cuero (DPS físico)
 
-### Adept's Mercenary Shoes
+### Zapatos de mercenario del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **Break Free** (CD 30s, 12m)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Libérate** (CD 30s, 12m)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Hunter Shoes
+### Zapatos de cazador del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **Rush** (CD 30s)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Ráfaga** (CD 30s)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Assassin Shoes
+### Zapatos de asesino del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **Swift Cut** (CD 14s, 15m)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Corte veloz** (CD 14s, 15m)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Stalker Shoes
+### Zapatos de acechador del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **Raging Blink** (CD 25s, 7m)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Destello embravecido** (CD 25s, 7m)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Hellion Shoes
+### Zapatos de vándalo del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **Mark of Sacrifice** (CD 15s, 15m)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Marca de sacrificio** (CD 15s, 15m)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Specter Shoes
+### Zapatos de espectro del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **Spectral Run** (CD 60s)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Carrera espectral** (CD 60s)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **After Image** (CD 12s, 10m)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Imagen posterior** (CD 12s, 10m)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **Blind Spot** (CD 12s)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Punto ciego** (CD 12s)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Royal Shoes
+### Zapatos reales del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Refreshing Sprint** (CD 32.5s)
-- **[E]** **Evasive Jump** (CD 20s, 14m)
-**Pasivas:** Courier, Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint vigorizante** (CD 32.5s)
+- **[E]** **Salto evasivo** (CD 20s, 14m)
+**Pasivas:** Mensajero, Mente equilibrada, Prontitud, Decisiones rápidas
 
 ---
 
 ## Tela (Mago/Healer)
 
-### Adept's Scholar Sandals
+### Sandalias de erudito del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-- **[E]** **Focused Run** (CD 30s)
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+- **[E]** **Carrera centrada** (CD 30s)
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
-### Adept's Cleric Sandals
+### Sandalias de clérigo del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-- **[E]** **Blink** (CD 20s, 10m)
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+- **[E]** **Destello** (CD 20s, 10m)
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
-### Adept's Mage Sandals
+### Sandalias de mago del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-- **[E]** **Delayed Teleport** (CD 15s, 15m)
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+- **[E]** **Teletransporte retardado** (CD 15s, 15m)
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
-### Adept's Druid Sandals
+### Sandalias de druida del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-- **[E]** **Frost Walk** (CD 30s)
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+- **[E]** **Paseo congelado** (CD 30s)
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
-### Adept's Fiend Sandals
+### Sandalias de diablo del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-- **[E]** **Position Swap** (CD 20s, 10m)
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+- **[E]** **Cambio de posición** (CD 20s, 10m)
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
-### Adept's Cultist Sandals
+### Sandalias de sectario del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-- **[E]** **Rotten Ground** (CD 30s)
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+- **[E]** **Suelo putrefacto** (CD 30s)
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-- **[E]** **Ethereal Form** (CD 45s)
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+- **[E]** **Forma etérea** (CD 45s)
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
-### Equipment Item
+### Objeto de equipo
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-- **[E]** **Hover** (CD 10s)
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+- **[E]** **Flotar** (CD 10s)
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
-### Adept's Royal Sandals
+### Sandalias reales del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Energetic Sprint** (CD 30s) — 16 DoT
-**Pasivas:** Courier, Aggression, Concentration, Efficiency
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint energético** (CD 30s) — 16 DoT
+**Pasivas:** Mensajero, Agresión, Concentración, Eficiencia
 
 ---
 
 ## Recolector
 
-### Adept's Harvester Workboots
+### Botas de trabajo de cosechador del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Wanderlust** (CD 60s)
-- **[E]** **Ethereal Path** (CD 60s, 16m)
-**Pasivas:** Harvesting Skills
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Espíritu viajero** (CD 60s)
+- **[E]** **Camino etéreo** (CD 60s, 16m)
+**Pasivas:** Habilidades de recolección
 
-### Adept's Skinner Workboots
+### Botas de trabajo de peletero del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Wanderlust** (CD 60s)
-- **[E]** **Scent of the Wilderness** (CD 180s)
-**Pasivas:** Skinning Skills
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Espíritu viajero** (CD 60s)
+- **[E]** **Esencia de la naturaleza** (CD 180s)
+**Pasivas:** Habilidades de despellejadura
 
-### Adept's Miner Workboots
+### Botas de trabajo de minero del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Wanderlust** (CD 60s)
-- **[E]** **Flee** (CD 120s)
-**Pasivas:** Mining Skills
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Espíritu viajero** (CD 60s)
+- **[E]** **Huida** (CD 120s)
+**Pasivas:** Habilidades de minería
 
-### Adept's Quarrier Workboots
+### Botas de trabajo de cantero del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Wanderlust** (CD 60s)
-- **[E]** **Motivating Pain** (CD 150s)
-**Pasivas:** Quarrying Skills
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Espíritu viajero** (CD 60s)
+- **[E]** **Sufrimiento motivador** (CD 150s)
+**Pasivas:** Habilidades de excavación
 
-### Adept's Lumberjack Workboots
+### Botas de trabajo de leñador del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Wanderlust** (CD 60s)
-- **[E]** **Sprint Shield** (CD 60s)
-**Pasivas:** Lumberjack Skills
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Espíritu viajero** (CD 60s)
+- **[E]** **Escudo de velocidad** (CD 60s)
+**Pasivas:** Habilidades de leñador
 
-### Adept's Fisherman Workboots
+### Botas de trabajo de pescador del iniciado
 **Habilidades activas:**
-- **[Q]** **Dodge** (CD 20s, 5m)
-- **[W]** **Rejuvenating Sprint** (CD 30s) — 58 DoT
-- **[E]** **Wanderlust** (CD 60s)
-- **[E]** **Splash Wave** (CD 60s, 18m)
-**Pasivas:** Fisherman Skills
+- **[Q]** **Esquivar** (CD 20s, 5m)
+- **[W]** **Sprint rejuvenecedor** (CD 30s) — 58 DoT
+- **[E]** **Espíritu viajero** (CD 60s)
+- **[E]** **Ola violenta** (CD 60s, 18m)
+**Pasivas:** Habilidades de pescador
 
 ---

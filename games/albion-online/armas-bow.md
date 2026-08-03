@@ -2,141 +2,141 @@
 
 > Datos extraídos de los archivos del juego.
 
-## Adept's Bow (2H)
+## Arco del iniciado (2H)
 
 **Q:**
-- **Multishot** (CD 3s, 13m)
-- **Deadly Shot** (CD 2s, 18m)
-- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
+- **Multidisparo** (CD 3s, 13m)
+- **Disparo mortal** (CD 2s, 18m)
+- **Flecha envenenada** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
 **W (elegís uno):**
-- **Ray of Light** (CD 10s, 15m)
-- **Frost Shot** (CD 18s, 2m, cast 0.3s)
-- **Speed Shot** (CD 10s, 15m) — -25 daño físico
-- **Explosive Arrows** (CD 20s)
+- **Rayo de luz** (CD 10s, 15m)
+- **Disparo helado** (CD 18s, 2m, cast 0.3s)
+- **Disparo rápido** (CD 10s, 15m) — -25 daño físico
+- **Flechas explosivas** (CD 20s)
 
 **E — definitiva:**
-- **Enchanted Quiver** (sin CD)
+- **Aljaba embrujada** (sin CD)
 
 ---
 
-## Adept's Warbow (2H)
+## Arco de guerra del iniciado (2H)
 
 **Q:**
-- **Multishot** (CD 3s, 13m)
-- **Deadly Shot** (CD 2s, 18m)
-- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
+- **Multidisparo** (CD 3s, 13m)
+- **Disparo mortal** (CD 2s, 18m)
+- **Flecha envenenada** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
 **W (elegís uno):**
-- **Ray of Light** (CD 10s, 15m)
-- **Frost Shot** (CD 18s, 2m, cast 0.3s)
-- **Speed Shot** (CD 10s, 15m) — -25 daño físico
-- **Explosive Arrows** (CD 20s)
+- **Rayo de luz** (CD 10s, 15m)
+- **Disparo helado** (CD 18s, 2m, cast 0.3s)
+- **Disparo rápido** (CD 10s, 15m) — -25 daño físico
+- **Flechas explosivas** (CD 20s)
 
 **E — definitiva:**
-- **Magic Arrow** (CD 10s, 26m)
+- **Flecha mágica** (CD 10s, 26m)
 
 ---
 
-## Adept's Longbow (2H)
+## Arco largo del iniciado (2H)
 
 **Q:**
-- **Multishot** (CD 3s, 13m)
-- **Deadly Shot** (CD 2s, 18m)
-- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
+- **Multidisparo** (CD 3s, 13m)
+- **Disparo mortal** (CD 2s, 18m)
+- **Flecha envenenada** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
 **W (elegís uno):**
-- **Ray of Light** (CD 10s, 15m)
-- **Frost Shot** (CD 18s, 2m, cast 0.3s)
-- **Speed Shot** (CD 10s, 15m) — -25 daño físico
-- **Explosive Arrows** (CD 20s)
+- **Rayo de luz** (CD 10s, 15m)
+- **Disparo helado** (CD 18s, 2m, cast 0.3s)
+- **Disparo rápido** (CD 10s, 15m) — -25 daño físico
+- **Flechas explosivas** (CD 20s)
 
 **E — definitiva:**
-- **Rain of Arrows** (CD 15s, 15m)
+- **Lluvia de flechas** (CD 15s, 15m)
 
 ---
 
-## Adept's Whispering Bow (2H)
+## Arco susurrante del iniciado (2H)
 
 **Q:**
-- **Multishot** (CD 3s, 13m)
-- **Deadly Shot** (CD 2s, 18m)
-- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
+- **Multidisparo** (CD 3s, 13m)
+- **Disparo mortal** (CD 2s, 18m)
+- **Flecha envenenada** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
 **W (elegís uno):**
-- **Ray of Light** (CD 10s, 15m)
-- **Frost Shot** (CD 18s, 2m, cast 0.3s)
-- **Speed Shot** (CD 10s, 15m) — -25 daño físico
-- **Explosive Arrows** (CD 20s)
+- **Rayo de luz** (CD 10s, 15m)
+- **Disparo helado** (CD 18s, 2m, cast 0.3s)
+- **Disparo rápido** (CD 10s, 15m) — -25 daño físico
+- **Flechas explosivas** (CD 20s)
 
 ---
 
-## Adept's Wailing Bow (2H)
+## Arco de lamentaciones del iniciado (2H)
 
 **Q:**
-- **Multishot** (CD 3s, 13m)
-- **Deadly Shot** (CD 2s, 18m)
-- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
+- **Multidisparo** (CD 3s, 13m)
+- **Disparo mortal** (CD 2s, 18m)
+- **Flecha envenenada** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
 **W (elegís uno):**
-- **Ray of Light** (CD 10s, 15m)
-- **Frost Shot** (CD 18s, 2m, cast 0.3s)
-- **Speed Shot** (CD 10s, 15m) — -25 daño físico
-- **Explosive Arrows** (CD 20s)
+- **Rayo de luz** (CD 10s, 15m)
+- **Disparo helado** (CD 18s, 2m, cast 0.3s)
+- **Disparo rápido** (CD 10s, 15m) — -25 daño físico
+- **Flechas explosivas** (CD 20s)
 
 **E — definitiva:**
-- **Demon Arrow** (CD 25s, 24m)
+- **Flecha demoníaca** (CD 25s, 24m)
 
 ---
 
-## Adept's Bow of Badon (2H)
+## Arco de Badon del iniciado (2H)
 
 **Q:**
-- **Multishot** (CD 3s, 13m)
-- **Deadly Shot** (CD 2s, 18m)
-- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
+- **Multidisparo** (CD 3s, 13m)
+- **Disparo mortal** (CD 2s, 18m)
+- **Flecha envenenada** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
 **W (elegís uno):**
-- **Ray of Light** (CD 10s, 15m)
-- **Frost Shot** (CD 18s, 2m, cast 0.3s)
-- **Speed Shot** (CD 10s, 15m) — -25 daño físico
-- **Explosive Arrows** (CD 20s)
+- **Rayo de luz** (CD 10s, 15m)
+- **Disparo helado** (CD 18s, 2m, cast 0.3s)
+- **Disparo rápido** (CD 10s, 15m) — -25 daño físico
+- **Flechas explosivas** (CD 20s)
 
 **E — definitiva:**
-- **Raging Storm** (CD 30s, 26m)
+- **Tormenta furiosa** (CD 30s, 26m)
 
 ---
 
-## Adept's Mistpiercer (2H)
+## Perforador de niebla del iniciado (2H)
 
 **Q:**
-- **Multishot** (CD 3s, 13m)
-- **Deadly Shot** (CD 2s, 18m)
-- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
+- **Multidisparo** (CD 3s, 13m)
+- **Disparo mortal** (CD 2s, 18m)
+- **Flecha envenenada** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
 **W (elegís uno):**
-- **Ray of Light** (CD 10s, 15m)
-- **Frost Shot** (CD 18s, 2m, cast 0.3s)
-- **Speed Shot** (CD 10s, 15m) — -25 daño físico
-- **Explosive Arrows** (CD 20s)
+- **Rayo de luz** (CD 10s, 15m)
+- **Disparo helado** (CD 18s, 2m, cast 0.3s)
+- **Disparo rápido** (CD 10s, 15m) — -25 daño físico
+- **Flechas explosivas** (CD 20s)
 
 **E — definitiva:**
-- **Lucent Hawk** (sin CD, 24m, cast 0.6s)
+- **Halcón translúcido** (sin CD, 24m, cast 0.6s)
 
 ---
 
 ## Bow Crystal (2H)
 
 **Q:**
-- **Multishot** (CD 3s, 13m)
-- **Deadly Shot** (CD 2s, 18m)
-- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
+- **Multidisparo** (CD 3s, 13m)
+- **Disparo mortal** (CD 2s, 18m)
+- **Flecha envenenada** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
 **W (elegís uno):**
-- **Ray of Light** (CD 10s, 15m)
-- **Frost Shot** (CD 18s, 2m, cast 0.3s)
-- **Speed Shot** (CD 10s, 15m) — -25 daño físico
-- **Explosive Arrows** (CD 20s)
+- **Rayo de luz** (CD 10s, 15m)
+- **Disparo helado** (CD 18s, 2m, cast 0.3s)
+- **Disparo rápido** (CD 10s, 15m) — -25 daño físico
+- **Flechas explosivas** (CD 20s)
 
 **E — definitiva:**
 - **Air Raid** (CD 25s, 10m)

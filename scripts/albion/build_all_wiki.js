@@ -24,7 +24,7 @@ const locale = {}
   const key = entry['@tuid']; if (!key) return
   const tuv = entry.tuv
   let text = null
-  if (Array.isArray(tuv)) { const en = tuv.find(t => t['@xml:lang'] === 'EN-US'); text = en ? en.seg : tuv[0]?.seg }
+  if (Array.isArray(tuv)) { const es = tuv.find(t => t['@xml:lang'] === 'ES-ES') || tuv.find(t => t['@xml:lang'] === 'EN-US'); text = es ? es.seg : tuv[0]?.seg }
   else text = tuv?.seg
   if (text) locale[key] = (typeof text === 'string' ? text : String(text)).replace(/\[[^\]]+\]/g, '').replace(/\$+[^$\s,]+\$/g, '?').trim()
 })
@@ -172,22 +172,22 @@ function itemName(id) {
 
 // ── WEAPON ARTICLES ──────────────────────────────────────────────────────────
 const WEAPON_CATS = {
-  sword:        { title: 'Espadas',                  tags: ['espada','sword','claymore','dualsword','melee'] },
-  dagger:       { title: 'Dagas',                    tags: ['daga','dagger','garras','claw','melee','ganking'] },
-  axe:          { title: 'Hachas',                   tags: ['hacha','axe','alabarda','halberd','melee'] },
-  hammer:       { title: 'Martillos',                tags: ['martillo','hammer','polehammer','melee','zvz'] },
-  mace:         { title: 'Mazas',                    tags: ['maza','mace','mangual','flail','melee','cc'] },
-  spear:        { title: 'Lanzas',                   tags: ['lanza','spear','glaive','melee','movilidad'] },
-  quarterstaff: { title: 'Bastones de Cuarto',       tags: ['quarterstaff','bastón de cuarto','melee'] },
-  knuckles:     { title: 'Puños',                    tags: ['puños','knuckles','gauntlets','melee','burst'] },
-  bow:          { title: 'Arcos',                    tags: ['arco','bow','warbow','longbow','distancia'] },
-  crossbow:     { title: 'Ballestas',                tags: ['ballesta','crossbow','distancia','zvz'] },
-  firestaff:    { title: 'Bastones de Fuego',        tags: ['fuego','fire','firestaff','pyroblast','meteor','mago'] },
-  froststaff:   { title: 'Bastones de Hielo',        tags: ['hielo','frost','froststaff','glacial','mago','slow'] },
-  cursestaff:   { title: 'Bastones Malditos',        tags: ['maldito','curse','cursestaff','demonic','dot','mago'] },
-  holystaff:    { title: 'Bastones Sagrados',        tags: ['sagrado','holy','holystaff','divine','healer','curar'] },
-  naturestaff:  { title: 'Bastones de Naturaleza',   tags: ['naturaleza','nature','naturestaff','wild','healer'] },
-  arcanestaff:  { title: 'Bastones Arcanos',         tags: ['arcano','arcane','arcanestaff','enigmatic','mago'] },
+  sword:        { title: 'Espadas',                  tags: ['espada','espadón','espada dual','claymore','dualsword','melee','daño físico','burst','1v1'] },
+  dagger:       { title: 'Dagas',                    tags: ['daga','garras','claw','melee','ganking','sangrado','bleed','sigiloso','invisible','rogue'] },
+  axe:          { title: 'Hachas',                   tags: ['hacha','alabarda','halberd','melee','daño','zona','aoe físico'] },
+  hammer:       { title: 'Martillos',                tags: ['martillo','martillo de guerra','polehammer','melee','zvz','tanque','control de masas','cc','stun'] },
+  mace:         { title: 'Mazas',                    tags: ['maza','mangual','flail','melee','cc','control','silence','knock','tanque','soporte'] },
+  spear:        { title: 'Lanzas',                   tags: ['lanza','glaive','melee','movilidad','dash','carga','sangrado','dot físico'] },
+  quarterstaff: { title: 'Bastones de Cuarto',       tags: ['bastón de cuarto','quarterstaff','melee','control','cc','stun','soporte','físico'] },
+  knuckles:     { title: 'Puños',                    tags: ['puños','guantes','knuckles','gauntlets','melee','burst','físico','velocidad','combo'] },
+  bow:          { title: 'Arcos',                    tags: ['arco','arco de guerra','warbow','longbow','distancia','ranged','físico','flechas','sniper'] },
+  crossbow:     { title: 'Ballestas',                tags: ['ballesta','crossbow','distancia','ranged','zvz','fuego de área','aoe','soporte'] },
+  firestaff:    { title: 'Bastones de Fuego',        tags: ['bastón ígneo','gran bastón ígneo','bastón infernal','canción del despertar','bastón de fuego incontrolable','bastón de azufre','bastón flamígero','bastón de caminallamas','fuego','fire','firestaff','pyroblast','meteor','mago de fuego','llamas','aoe fuego','daño en área','bastón de fuego'] },
+  froststaff:   { title: 'Bastones de Hielo',        tags: ['bastón glacial','gran bastón glacial','bastón de permafrost','bastón de las nieves eternas','bastón de neblina','hielo','frost','froststaff','glacial','congelación','slow','ralentizar','mago de hielo','control'] },
+  cursestaff:   { title: 'Bastones Malditos',        tags: ['bastón maldito','gran bastón maldito','bastón demoníaco','bastón de las almas perdidas','bastón espectral','maldición','curse','cursestaff','demonic','dot','veneno','debuff','mago oscuro'] },
+  holystaff:    { title: 'Bastones Sagrados',        tags: ['bastón sagrado','gran bastón sagrado','bastón divino','bastón del arcángel','bastón celestial','sagrado','holy','holystaff','divine','healer','curación','curar','sanar','heal','soporte'] },
+  naturestaff:  { title: 'Bastones de Naturaleza',   tags: ['bastón de naturaleza','gran bastón de naturaleza','bastón silvestre','bastón de raíces','bastón druídico','naturaleza','nature','naturestaff','healer','curación','raíces','root','heal'] },
+  arcanestaff:  { title: 'Bastones Arcanos',         tags: ['bastón arcano','gran bastón arcano','bastón enigmático','bastón del portal','bastón de las runas','arcano','arcane','arcanestaff','enigmatic','mago','portal','reducción de cooldown','purge'] },
 }
 
 function makeWeaponArticle(cat, weapons) {
@@ -206,11 +206,11 @@ function makeWeaponArticle(cat, weapons) {
 
 // ── ARMOR ARTICLES ───────────────────────────────────────────────────────────
 const ARMOR_SLOTS = {
-  head:    { title: 'Cascos',         tags: ['casco','helmet','cabeza','head','armadura'] },
-  armor:   { title: 'Pecheras',       tags: ['pecho','chest','armadura','torso','pechera'] },
-  shoes:   { title: 'Botas',          tags: ['botas','shoes','pies','boots','armadura'] },
-  offhand: { title: 'Offhand',        tags: ['offhand','escudo','shield','libro','book','antorcha','torch','secundario'] },
-  cape:    { title: 'Capas',          tags: ['capa','cape','accesorio'] },
+  head:    { title: 'Cascos',         tags: ['casco','yelmo','capucha','sombrero','helmet','cabeza','head','armadura','tela','cuero','placa'] },
+  armor:   { title: 'Pecheras',       tags: ['túnica','hábito','pechera','coraza','peto','cuerpo','chest','armadura','torso','tela','cuero','placa','clérigo','erudito','mago','guardián','cazador'] },
+  shoes:   { title: 'Botas',          tags: ['botas','sandalias','zapatos','calzado','shoes','pies','boots','armadura','tela','cuero','placa','movilidad'] },
+  offhand: { title: 'Secundarias',    tags: ['offhand','secundario','escudo','sarcófago','rompecaras','égida astral','antorcha','cetro sagrado','neblina densa','criptavelas','tomo','libro de hechizos','muérdago','ojo de los secretos','raíz durmiente','incensario','shield','book','torch','mano izquierda'] },
+  cape:    { title: 'Capas',          tags: ['capa','capa de travesía','capa de mago','capa de cazador','cape','accesorio','resistencia','movilidad'] },
 }
 
 function armorType(id) {
@@ -257,12 +257,18 @@ function makeArmorArticle(slotKey, items) {
 
 // ── BUILD EVERYTHING ─────────────────────────────────────────────────────────
 const existingIndex = JSON.parse(fs.readFileSync(path.join(OUT_DIR, 'index.json'), 'utf8'))
+// Manual articles (not auto-generated) — preserve these across patch regenerations
+const MANUAL_ARTICLES = new Set(['armas-secundarias.md', 'artefactos.md', 'equipo-recoleccion.md'])
+
 const indexEntries = existingIndex.filter(e =>
-  !e.file.startsWith('armas-') &&
-  !e.file.startsWith('armaduras-') &&
-  e.file !== 'bastones-fuego.md' &&
-  e.file !== 'monturas.md' &&
-  e.file !== 'consumibles.md'
+  MANUAL_ARTICLES.has(e.file) ||
+  (
+    !e.file.startsWith('armas-') &&
+    !e.file.startsWith('armaduras-') &&
+    e.file !== 'bastones-fuego.md' &&
+    e.file !== 'monturas.md' &&
+    e.file !== 'consumibles.md'
+  )
 )
 
 // 1. Weapons

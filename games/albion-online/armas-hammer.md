@@ -2,136 +2,136 @@
 
 > Datos extraídos de los archivos del juego.
 
-## Adept's Hammer (1H)
+## Martillo del iniciado (1H)
 
 **Q:**
 - **Hammer Shove** (CD 4s, 2m)
-- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
-- **Iron Breaker** (CD 6s, 3m)
+- **Golpe amenazante** (CD 2s, 3m) — -100 daño físico
+- **Triturahierro** (CD 6s, 3m)
 
 **W (elegís uno):**
 - **Hammer Tremor** (CD 10s, 3m)
-- **Slowing Charge** (CD 15s, 12m)
-- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, 1.5m) — -57 daño físico
-- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
+- **Carga ralentizadora** (CD 15s, 12m)
+- **Géiser de poder** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **K.O.** (CD 15s, 1.5m) — -57 daño físico
+- **Anillo inercial** (CD 20s, 8m, cast 0.5s)
 
 **E — definitiva:**
-- **Earth Shatter** (CD 15s) — -67 daño físico AoE 5.5m
+- **Revientatierra** (CD 15s) — -67 daño físico AoE 5.5m
 
 ---
 
-## Adept's Polehammer (2H)
+## Martillo largo del iniciado (2H)
 
 **Q:**
 - **Hammer Shove** (CD 4s, 2m)
-- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
-- **Iron Breaker** (CD 6s, 3m)
+- **Golpe amenazante** (CD 2s, 3m) — -100 daño físico
+- **Triturahierro** (CD 6s, 3m)
 
 **W (elegís uno):**
 - **Hammer Tremor** (CD 10s, 3m)
-- **Slowing Charge** (CD 15s, 12m)
-- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, 1.5m) — -57 daño físico
-- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
+- **Carga ralentizadora** (CD 15s, 12m)
+- **Géiser de poder** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **K.O.** (CD 15s, 1.5m) — -57 daño físico
+- **Anillo inercial** (CD 20s, 8m, cast 0.5s)
 
 **E — definitiva:**
-- **Groundbreaker** (CD 15s, 20m)
+- **Rompetierra** (CD 15s, 20m)
 
 ---
 
-## Adept's Great Hammer (2H)
+## Gran martillo del iniciado (2H)
 
 **Q:**
 - **Hammer Shove** (CD 4s, 2m)
-- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
-- **Iron Breaker** (CD 6s, 3m)
+- **Golpe amenazante** (CD 2s, 3m) — -100 daño físico
+- **Triturahierro** (CD 6s, 3m)
 
 **W (elegís uno):**
 - **Hammer Tremor** (CD 10s, 3m)
-- **Slowing Charge** (CD 15s, 12m)
-- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, 1.5m) — -57 daño físico
-- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
+- **Carga ralentizadora** (CD 15s, 12m)
+- **Géiser de poder** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **K.O.** (CD 15s, 1.5m) — -57 daño físico
+- **Anillo inercial** (CD 20s, 8m, cast 0.5s)
 
 **E — definitiva:**
-- **Tackle** (CD 20s, 11m)
+- **Placaje** (CD 20s, 11m)
 
 ---
 
-## Adept's Tombhammer (2H)
+## Martillo de la tumba del iniciado (2H)
 
 **Q:**
 - **Hammer Shove** (CD 4s, 2m)
-- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
-- **Iron Breaker** (CD 6s, 3m)
+- **Golpe amenazante** (CD 2s, 3m) — -100 daño físico
+- **Triturahierro** (CD 6s, 3m)
 
 **W (elegís uno):**
 - **Hammer Tremor** (CD 10s, 3m)
-- **Slowing Charge** (CD 15s, 12m)
-- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, 1.5m) — -57 daño físico
-- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
+- **Carga ralentizadora** (CD 15s, 12m)
+- **Géiser de poder** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **K.O.** (CD 15s, 1.5m) — -57 daño físico
+- **Anillo inercial** (CD 20s, 8m, cast 0.5s)
 
 **E — definitiva:**
-- **Grasp of the Undead** (CD 14s, 12m) — -100 daño físico AoE 2.5m
+- **Agarrón de muerto viviente** (CD 14s, 12m) — -100 daño físico AoE 2.5m
 
 ---
 
-## Adept's Forge Hammers (2H)
+## Martillos de forja del iniciado (2H)
 
 **Q:**
 - **Hammer Shove** (CD 4s, 2m)
-- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
-- **Iron Breaker** (CD 6s, 3m)
+- **Golpe amenazante** (CD 2s, 3m) — -100 daño físico
+- **Triturahierro** (CD 6s, 3m)
 
 **W (elegís uno):**
 - **Hammer Tremor** (CD 10s, 3m)
-- **Slowing Charge** (CD 15s, 12m)
-- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, 1.5m) — -57 daño físico
-- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
+- **Carga ralentizadora** (CD 15s, 12m)
+- **Géiser de poder** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **K.O.** (CD 15s, 1.5m) — -57 daño físico
+- **Anillo inercial** (CD 20s, 8m, cast 0.5s)
 
 **E — definitiva:**
-- **Giant Steps** (CD 30s)
+- **Pasos gigantes** (CD 30s)
 
 ---
 
-## Adept's Grovekeeper (2H)
+## Guardabosques del iniciado (2H)
 
 **Q:**
 - **Hammer Shove** (CD 4s, 2m)
-- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
-- **Iron Breaker** (CD 6s, 3m)
+- **Golpe amenazante** (CD 2s, 3m) — -100 daño físico
+- **Triturahierro** (CD 6s, 3m)
 
 **W (elegís uno):**
 - **Hammer Tremor** (CD 10s, 3m)
-- **Slowing Charge** (CD 15s, 12m)
-- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, 1.5m) — -57 daño físico
-- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
+- **Carga ralentizadora** (CD 15s, 12m)
+- **Géiser de poder** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **K.O.** (CD 15s, 1.5m) — -57 daño físico
+- **Anillo inercial** (CD 20s, 8m, cast 0.5s)
 
 **E — definitiva:**
-- **Ground Pound** (CD 30s, 16m, cast 0.4s)
+- **Salto bomba** (CD 30s, 16m, cast 0.4s)
 
 ---
 
-## Adept's Hand of Justice (2H)
+## Mano de justicia del iniciado (2H)
 
 **Q:**
 - **Hammer Shove** (CD 4s, 2m)
-- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
-- **Iron Breaker** (CD 6s, 3m)
+- **Golpe amenazante** (CD 2s, 3m) — -100 daño físico
+- **Triturahierro** (CD 6s, 3m)
 
 **W (elegís uno):**
 - **Hammer Tremor** (CD 10s, 3m)
-- **Slowing Charge** (CD 15s, 12m)
-- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, 1.5m) — -57 daño físico
-- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
+- **Carga ralentizadora** (CD 15s, 12m)
+- **Géiser de poder** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **K.O.** (CD 15s, 1.5m) — -57 daño físico
+- **Anillo inercial** (CD 20s, 8m, cast 0.5s)
 
 **E — definitiva:**
-- **Onslaught** (CD 30s, 13m)
+- **Masacre** (CD 30s, 13m)
 
 ---
 
@@ -139,15 +139,15 @@
 
 **Q:**
 - **Hammer Shove** (CD 4s, 2m)
-- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
-- **Iron Breaker** (CD 6s, 3m)
+- **Golpe amenazante** (CD 2s, 3m) — -100 daño físico
+- **Triturahierro** (CD 6s, 3m)
 
 **W (elegís uno):**
 - **Hammer Tremor** (CD 10s, 3m)
-- **Slowing Charge** (CD 15s, 12m)
-- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, 1.5m) — -57 daño físico
-- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
+- **Carga ralentizadora** (CD 15s, 12m)
+- **Géiser de poder** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **K.O.** (CD 15s, 1.5m) — -57 daño físico
+- **Anillo inercial** (CD 20s, 8m, cast 0.5s)
 
 **E — definitiva:**
 - **Crystalwave** (CD 25s, 15m)

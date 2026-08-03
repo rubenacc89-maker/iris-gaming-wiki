@@ -6,256 +6,254 @@
 
 ## Placa (Tanque)
 
-### Adept's Soldier Armor
+### Armadura de soldado del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-- **[E]** **Fury** (CD 35s)
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+- **[E]** **Furia** (CD 35s)
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
-### Adept's Knight Armor
+### Armadura de caballero del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-- **[E]** **Wind Wall** (CD 40s, 3m)
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+- **[E]** **Muro de viento** (CD 40s, 3m)
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
-### Adept's Guardian Armor
+### Armadura de guardián del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
-### Adept's Graveguard Armor
+### Armadura de guardatumbas del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-- **[E]** **Soul Chain** (CD 40s, 2m) — -61 daño mágico
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+- **[E]** **Encadenar alma** (CD 40s, 2m) — -61 daño mágico
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
-### Adept's Demon Armor
+### Armadura de demonio del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-- **[E]** **Protection of the Fiends** (CD 40s, 15m)
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+- **[E]** **Protección de los diablos** (CD 40s, 15m)
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
-### Adept's Judicator Armor
+### Armadura de juez del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-- **[E]** **Force Shield** (CD 50s)
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+- **[E]** **Escudo de fuerza** (CD 50s)
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
-### Equipment Item
-Plate Armors offer high defense, but are low on offense.
+### Objeto de equipo
+Las armaduras de placas ofrecen mucha defensa pero poco ataque
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-- **[E]** **Mythical Web** (CD 40s, cast 0.4s)
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+- **[E]** **Red mítica** (CD 40s, cast 0.4s)
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
-### Equipment Item
-Plate Armors offer high defense, but are low on offense.
+### Objeto de equipo
+Las armaduras de placas ofrecen mucha defensa pero poco ataque
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-- **[E]** **Requite** (CD 30s)
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+- **[E]** **Retribución** (CD 30s)
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
-### Adept's Royal Armor
+### Armadura real del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Taunt** (CD 10s, 11m) — -1 daño 
-- **[E]** **Energy Source** (CD 30s)
-**Pasivas:** Toughness, Authority, Tenacity, Spirit Crush, Protective Instinct
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Provocar** (CD 10s, 11m) — -1 daño 
+- **[E]** **Fuente de energía** (CD 30s)
+**Pasivas:** Dureza, Autoridad, Tenacidad, Aplastamiento del espíritu, Instinto protector
 
 ---
 
 ## Cuero (DPS físico)
 
-### Adept's Mercenary Jacket
+### Chaqueta de mercenario del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-- **[E]** **Bloodlust** (CD 60s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+- **[E]** **Sed de sangre** (CD 60s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Hunter Jacket
+### Chaqueta de cazador del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-- **[E]** **Haste** (CD 30s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+- **[E]** **Premura** (CD 30s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Assassin Jacket
+### Chaqueta de asesino del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-- **[E]** **Ambush** (CD 50s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+- **[E]** **Emboscada** (CD 50s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Stalker Jacket
+### Chaqueta de acechador del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-- **[E]** **Electric Field** (CD 40s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+- **[E]** **Campo eléctrico** (CD 40s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Hellion Jacket
+### Chaqueta de vándalo del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-- **[E]** **Life Steal Aura** (CD 40s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+- **[E]** **Aura de robo vital** (CD 40s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Specter Jacket
+### Chaqueta de espectro del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Equipment Item
-Leather Armors are balanced between defense and offense.
+### Chaqueta de caminanieblas del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Equipment Item
-Leather Armors are balanced between defense and offense.
+### Chaqueta de tenacidad del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-- **[E]** **Dynamic Defense** (CD 20s, 15m)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+- **[E]** **Defensa dinámica** (CD 20s, 15m)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
-### Adept's Royal Jacket
+### Chaqueta real del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Inferno Shield** (CD 40s)
-- **[E]** **Royal Banner** (CD 50s)
-**Pasivas:** Balanced Mind, Swiftness, Quick Thinker
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo Inferno** (CD 40s)
+- **[E]** **Estandarte real** (CD 50s)
+**Pasivas:** Mente equilibrada, Prontitud, Decisiones rápidas
 
 ---
 
 ## Tela (Mago/Healer)
 
-### Adept's Scholar Robe
+### Túnica de erudito del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Speed Caster** (CD 30s)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Lanzador rápido** (CD 30s)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
-### Adept's Cleric Robe
+### Túnica de clérigo del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Everlasting Spirit** (CD 45s)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Espíritu infinito** (CD 45s)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
-### Adept's Mage Robe
+### Túnica de mago del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Purging Shield** (CD 35s)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Escudo purgador** (CD 35s)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
-### Adept's Druid Robe
+### Túnica de druida del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Obsessive Burst** (CD 45s)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Estallido obsesivo** (CD 45s)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
-### Adept's Fiend Robe
+### Túnica de diablo del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Fear Aura** (CD 30s)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Aura de miedo** (CD 30s)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
-### Adept's Cultist Robe
+### Túnica de sectario del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Levitate** (CD 45s)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Levitar** (CD 45s)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
-### Equipment Item
-Cloth Armors offer limited defense, but excel at offense.
+### Objeto de equipo
+Las armaduras de tela ofrecen poca defensa pero mucho ataque.
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Wild Magic** (sin CD)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Magia salvaje** (sin CD)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
-### Equipment Item
-Cloth Armors offer limited defense, but excel at offense.
+### Objeto de equipo
+Las armaduras de tela ofrecen poca defensa pero mucho ataque.
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Energy Emission** (CD 40s)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Emisión energética** (CD 40s)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
-### Adept's Royal Robe
+### Túnica real del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Frost Shield** (CD 40s)
-- **[E]** **Magic Rune** (CD 40s)
-**Pasivas:** Aggression, Passive Armor Increased Castspeed, Efficiency
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Escudo de hielo** (CD 40s)
+- **[E]** **Runa mágica** (CD 40s)
+**Pasivas:** Agresión, Passive Armor Increased Castspeed, Eficiencia
 
 ---
 
 ## Recolector
 
-### Adept's Harvester Garb
+### Atuendo de cosechador del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Ambush** (CD 50s)
-- **[E]** **Wind Wall** (CD 40s, 3m)
-- **[E]** **Spirit of Vengeance** (CD 120s)
-**Pasivas:** Harvesting Skills
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Emboscada** (CD 50s)
+- **[E]** **Muro de viento** (CD 40s, 3m)
+- **[E]** **Espíritu de venganza** (CD 120s)
+**Pasivas:** Habilidades de recolección
 
-### Adept's Skinner Garb
+### Atuendo de peletero del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Ambush** (CD 50s)
-- **[E]** **Wind Wall** (CD 40s, 3m)
-- **[E]** **Hide Animal Poison** (CD 30s, 9m)
-**Pasivas:** Skinning Skills
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Emboscada** (CD 50s)
+- **[E]** **Muro de viento** (CD 40s, 3m)
+- **[E]** **Veneno para animales** (CD 30s, 9m)
+**Pasivas:** Habilidades de despellejadura
 
-### Adept's Miner Garb
+### Atuendo de minero del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Ambush** (CD 50s)
-- **[E]** **Wind Wall** (CD 40s, 3m)
-- **[E]** **Wind Shield** (CD 120s)
-**Pasivas:** Mining Skills
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Emboscada** (CD 50s)
+- **[E]** **Muro de viento** (CD 40s, 3m)
+- **[E]** **Escudo de viento** (CD 120s)
+**Pasivas:** Habilidades de minería
 
-### Adept's Quarrier Garb
+### Atuendo de cantero del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Ambush** (CD 50s)
-- **[E]** **Wind Wall** (CD 40s, 3m)
-- **[E]** **Flow** (CD 120s)
-**Pasivas:** Quarrying Skills
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Emboscada** (CD 50s)
+- **[E]** **Muro de viento** (CD 40s, 3m)
+- **[E]** **Flujo** (CD 120s)
+**Pasivas:** Habilidades de excavación
 
-### Adept's Lumberjack Garb
+### Atuendo de leñador del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Ambush** (CD 50s)
-- **[E]** **Wind Wall** (CD 40s, 3m)
-- **[E]** **Purging Shield** (CD 120s)
-**Pasivas:** Lumberjack Skills
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Emboscada** (CD 50s)
+- **[E]** **Muro de viento** (CD 40s, 3m)
+- **[E]** **Escudo purgador** (CD 120s)
+**Pasivas:** Habilidades de leñador
 
-### Adept's Fisherman Garb
+### Atuendo de pescador del iniciado
 **Habilidades activas:**
-- **[Q]** **Mend Wounds** (CD 30s)
-- **[W]** **Ambush** (CD 50s)
-- **[E]** **Wind Wall** (CD 40s, 3m)
-- **[E]** **Water Shield** (CD 120s)
-**Pasivas:** Fisherman Skills
+- **[Q]** **Curar heridas** (CD 30s)
+- **[W]** **Emboscada** (CD 50s)
+- **[E]** **Muro de viento** (CD 40s, 3m)
+- **[E]** **Escudo de agua** (CD 120s)
+**Pasivas:** Habilidades de pescador
 
 ---
