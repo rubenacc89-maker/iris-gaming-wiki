@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Farmeo de pieles — zonas y tips",
+    "file": "farmeo-pieles.md",
+    "keywords": ["pieles", "farmeo", "recolectar", "recolector", "zona", "elven forest", "mistwood", "highland", "tier", "cuero"],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Builds para recolector",
+    "file": "builds-recolector.md",
+    "keywords": ["build", "equipo", "recolector", "armadura", "herramienta", "botas", "mochila", "silverback", "resistencia"],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Zonas PvE — dónde farmear seguro",
+    "file": "zonas-pve.md",
+    "keywords": ["zona", "pve", "seguro", "yellow", "blue", "red", "black", "mapa", "riesgo", "muerte", "penalidad"],
+    "updated": "2026-08-03"
+  }
+]
