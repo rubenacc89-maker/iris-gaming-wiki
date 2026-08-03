@@ -1,177 +1,147 @@
-# 🎯 Ballestas en Albion Online
+# Ballestas — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Control de área y daño de largo alcance. Fuertes en ZvZ.
+## Adept's Crossbow (2H)
 
----
+**Q:**
+- **Auto Fire** (CD 5s, 13m)
+- **Explosive Bolt** (CD 2s, 13m) — -130 daño mágico AoE 3m
 
-## Ballesta 2H (2H)
+**W (elegís uno):**
+- **Acid Bomb** (CD 12s, 11m) — -135 daño físico AoE 4.5m
+- **Sunder Shot** (CD 7s, 11m, cast 1s) — -91 daño físico
+- **Caltrops** (CD 5s, 13m)
+- **Knockback Shot** (CD 12s, 14m)
+- **Noise Eraser** (CD 15s, 20m, cast 0.7s)
 
-**Q (slot 1):**
-- **Autofire2** (CD 5s, alcance 13m)
-- **Boltshot** (CD 2s, alcance 13m)
-  - -130 daño mágico AoE 3m
-
-**W (slot 2) — elegís una:**
-- **Acid bomb** (CD 12s, alcance 11m)
-  - -135 daño físico AoE 4.5m
-- **Sundershot** (CD 7s, alcance 11m, casteo 1s)
-  - -91 daño físico
-- **Caltrops** (CD 5s, alcance 13m)
-- **Knockbackshot2** (CD 12s, alcance 14m)
-- **Silencingbolt** (CD 15s, alcance 20m, casteo 0.7s)
-
-**E (slot 3 — definitiva):**
-- **Snipeshot crossbow** (CD 15s, alcance 16m, casteo 2s)
-  - -386 daño físico
+**E — definitiva:**
+- **Snipe Shot** (CD 15s, 16m, cast 2s) — -386 daño físico
 
 ---
 
-## Ballesta Pesada (2H)
+## Adept's Heavy Crossbow (2H)
 
-**Q (slot 1):**
-- **Autofire2** (CD 5s, alcance 13m)
-- **Boltshot** (CD 2s, alcance 13m)
-  - -130 daño mágico AoE 3m
+**Q:**
+- **Auto Fire** (CD 5s, 13m)
+- **Explosive Bolt** (CD 2s, 13m) — -130 daño mágico AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Acid bomb** (CD 12s, alcance 11m)
-  - -135 daño físico AoE 4.5m
-- **Sundershot** (CD 7s, alcance 11m, casteo 1s)
-  - -91 daño físico
-- **Caltrops** (CD 5s, alcance 13m)
-- **Knockbackshot2** (CD 12s, alcance 14m)
-- **Silencingbolt** (CD 15s, alcance 20m, casteo 0.7s)
+**W (elegís uno):**
+- **Acid Bomb** (CD 12s, 11m) — -135 daño físico AoE 4.5m
+- **Sunder Shot** (CD 7s, 11m, cast 1s) — -91 daño físico
+- **Caltrops** (CD 5s, 13m)
+- **Knockback Shot** (CD 12s, 14m)
+- **Noise Eraser** (CD 15s, 20m, cast 0.7s)
 
-**E (slot 3 — definitiva):**
-- **Crossbow armorpiercer** (CD 20s, alcance 24m)
+**E — definitiva:**
+- **Sweeping Bolt** (CD 20s, 24m)
 
 ---
 
-## Ballesta 1H (1H)
+## Adept's Light Crossbow (1H)
 
-**Q (slot 1):**
-- **Autofire2** (CD 5s, alcance 13m)
-- **Boltshot** (CD 2s, alcance 13m)
-  - -130 daño mágico AoE 3m
+**Q:**
+- **Auto Fire** (CD 5s, 13m)
+- **Explosive Bolt** (CD 2s, 13m) — -130 daño mágico AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Acid bomb** (CD 12s, alcance 11m)
-  - -135 daño físico AoE 4.5m
-- **Sundershot** (CD 7s, alcance 11m, casteo 1s)
-  - -91 daño físico
-- **Caltrops** (CD 5s, alcance 13m)
-- **Knockbackshot2** (CD 12s, alcance 14m)
-- **Silencingbolt** (CD 15s, alcance 20m, casteo 0.7s)
+**W (elegís uno):**
+- **Acid Bomb** (CD 12s, 11m) — -135 daño físico AoE 4.5m
+- **Sunder Shot** (CD 7s, 11m, cast 1s) — -91 daño físico
+- **Caltrops** (CD 5s, 13m)
+- **Knockback Shot** (CD 12s, 14m)
+- **Noise Eraser** (CD 15s, 20m, cast 0.7s)
 
-**E (slot 3 — definitiva):**
-- **Exploding shot** (CD 15s, alcance 11m)
-  - -51 daño físico
+**E — definitiva:**
+- **Exploding Shot** (CD 15s, 11m) — -51 daño físico
 
 ---
 
-## REPEATINGCROSSBOW UNDEAD (2H)
+## Adept's Weeping Repeater (2H)
 
-**Q (slot 1):**
-- **Autofire2** (CD 5s, alcance 13m)
-- **Boltshot** (CD 2s, alcance 13m)
-  - -130 daño mágico AoE 3m
+**Q:**
+- **Auto Fire** (CD 5s, 13m)
+- **Explosive Bolt** (CD 2s, 13m) — -130 daño mágico AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Acid bomb** (CD 12s, alcance 11m)
-  - -135 daño físico AoE 4.5m
-- **Sundershot** (CD 7s, alcance 11m, casteo 1s)
-  - -91 daño físico
-- **Caltrops** (CD 5s, alcance 13m)
-- **Knockbackshot2** (CD 12s, alcance 14m)
-- **Silencingbolt** (CD 15s, alcance 20m, casteo 0.7s)
+**W (elegís uno):**
+- **Acid Bomb** (CD 12s, 11m) — -135 daño físico AoE 4.5m
+- **Sunder Shot** (CD 7s, 11m, cast 1s) — -91 daño físico
+- **Caltrops** (CD 5s, 13m)
+- **Knockback Shot** (CD 12s, 14m)
+- **Noise Eraser** (CD 15s, 20m, cast 0.7s)
 
-**E (slot 3 — definitiva):**
-- **Groundmine** (CD 20s, alcance 15m)
+**E — definitiva:**
+- **Explosive Mine** (CD 20s, 15m)
 
 ---
 
-## DUALCROSSBOW HELL (2H)
+## Adept's Boltcasters (2H)
 
-**Q (slot 1):**
-- **Autofire2** (CD 5s, alcance 13m)
-- **Boltshot** (CD 2s, alcance 13m)
-  - -130 daño mágico AoE 3m
+**Q:**
+- **Auto Fire** (CD 5s, 13m)
+- **Explosive Bolt** (CD 2s, 13m) — -130 daño mágico AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Acid bomb** (CD 12s, alcance 11m)
-  - -135 daño físico AoE 4.5m
-- **Sundershot** (CD 7s, alcance 11m, casteo 1s)
-  - -91 daño físico
-- **Caltrops** (CD 5s, alcance 13m)
-- **Knockbackshot2** (CD 12s, alcance 14m)
-- **Silencingbolt** (CD 15s, alcance 20m, casteo 0.7s)
+**W (elegís uno):**
+- **Acid Bomb** (CD 12s, 11m) — -135 daño físico AoE 4.5m
+- **Sunder Shot** (CD 7s, 11m, cast 1s) — -91 daño físico
+- **Caltrops** (CD 5s, 13m)
+- **Knockback Shot** (CD 12s, 14m)
+- **Noise Eraser** (CD 15s, 20m, cast 0.7s)
 
-**E (slot 3 — definitiva):**
-- **Dual rapidfire** (CD 20s, alcance 13m)
+**E — definitiva:**
+- **Deathward Climax** (CD 20s, 13m)
 
 ---
 
-## CROSSBOWLARGE MORGANA (2H)
+## Adept's Siegebow (2H)
 
-**Q (slot 1):**
-- **Autofire2** (CD 5s, alcance 13m)
-- **Boltshot** (CD 2s, alcance 13m)
-  - -130 daño mágico AoE 3m
+**Q:**
+- **Auto Fire** (CD 5s, 13m)
+- **Explosive Bolt** (CD 2s, 13m) — -130 daño mágico AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Acid bomb** (CD 12s, alcance 11m)
-  - -135 daño físico AoE 4.5m
-- **Sundershot** (CD 7s, alcance 11m, casteo 1s)
-  - -91 daño físico
-- **Caltrops** (CD 5s, alcance 13m)
-- **Knockbackshot2** (CD 12s, alcance 14m)
-- **Silencingbolt** (CD 15s, alcance 20m, casteo 0.7s)
+**W (elegís uno):**
+- **Acid Bomb** (CD 12s, 11m) — -135 daño físico AoE 4.5m
+- **Sunder Shot** (CD 7s, 11m, cast 1s) — -91 daño físico
+- **Caltrops** (CD 5s, 13m)
+- **Knockback Shot** (CD 12s, 14m)
+- **Noise Eraser** (CD 15s, 20m, cast 0.7s)
 
-**E (slot 3 — definitiva):**
-- **Crossbow cone ultimate** (CD 30s, alcance 20m, casteo 0.5s)
+**E — definitiva:**
+- **Vicious Barrage** (CD 30s, 20m, cast 0.5s)
 
 ---
 
-## CROSSBOW CANNON AVALON (2H)
+## Adept's Energy Shaper (2H)
 
-**Q (slot 1):**
-- **Autofire2** (CD 5s, alcance 13m)
-- **Boltshot** (CD 2s, alcance 13m)
-  - -130 daño mágico AoE 3m
+**Q:**
+- **Auto Fire** (CD 5s, 13m)
+- **Explosive Bolt** (CD 2s, 13m) — -130 daño mágico AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Acid bomb** (CD 12s, alcance 11m)
-  - -135 daño físico AoE 4.5m
-- **Sundershot** (CD 7s, alcance 11m, casteo 1s)
-  - -91 daño físico
-- **Caltrops** (CD 5s, alcance 13m)
-- **Knockbackshot2** (CD 12s, alcance 14m)
-- **Silencingbolt** (CD 15s, alcance 20m, casteo 0.7s)
+**W (elegís uno):**
+- **Acid Bomb** (CD 12s, 11m) — -135 daño físico AoE 4.5m
+- **Sunder Shot** (CD 7s, 11m, cast 1s) — -91 daño físico
+- **Caltrops** (CD 5s, 13m)
+- **Knockback Shot** (CD 12s, 14m)
+- **Noise Eraser** (CD 15s, 20m, cast 0.7s)
 
-**E (slot 3 — definitiva):**
-- **Crossbow divine shot** (CD 35s, alcance 26m, casteo 0.7s)
+**E — definitiva:**
+- **Divine Engine** (CD 35s, 26m, cast 0.7s)
 
 ---
 
-## DUALCROSSBOW CRYSTAL (2H)
+## Dualcrossbow Crystal (2H)
 
-**Q (slot 1):**
-- **Autofire2** (CD 5s, alcance 13m)
-- **Boltshot** (CD 2s, alcance 13m)
-  - -130 daño mágico AoE 3m
+**Q:**
+- **Auto Fire** (CD 5s, 13m)
+- **Explosive Bolt** (CD 2s, 13m) — -130 daño mágico AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Acid bomb** (CD 12s, alcance 11m)
-  - -135 daño físico AoE 4.5m
-- **Sundershot** (CD 7s, alcance 11m, casteo 1s)
-  - -91 daño físico
-- **Caltrops** (CD 5s, alcance 13m)
-- **Knockbackshot2** (CD 12s, alcance 14m)
-- **Silencingbolt** (CD 15s, alcance 20m, casteo 0.7s)
+**W (elegís uno):**
+- **Acid Bomb** (CD 12s, 11m) — -135 daño físico AoE 4.5m
+- **Sunder Shot** (CD 7s, 11m, cast 1s) — -91 daño físico
+- **Caltrops** (CD 5s, 13m)
+- **Knockback Shot** (CD 12s, 14m)
+- **Noise Eraser** (CD 15s, 20m, cast 0.7s)
 
-**E (slot 3 — definitiva):**
-- **Crystalxbow** (CD 10s, alcance 8m)
+**E — definitiva:**
+- **Crystalxbow** (CD 10s, 8m)
 
 ---

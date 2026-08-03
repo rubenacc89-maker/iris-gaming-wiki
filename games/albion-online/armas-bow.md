@@ -1,164 +1,144 @@
-# 🏹 Arcos en Albion Online
+# Arcos — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Daño a distancia puro. Los mejores en kiting y PvP de largo alcance.
+## Adept's Bow (2H)
 
----
+**Q:**
+- **Multishot** (CD 3s, 13m)
+- **Deadly Shot** (CD 2s, 18m)
+- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
-## Arco (2H)
+**W (elegís uno):**
+- **Ray of Light** (CD 10s, 15m)
+- **Frost Shot** (CD 18s, 2m, cast 0.3s)
+- **Speed Shot** (CD 10s, 15m) — -25 daño físico
+- **Explosive Arrows** (CD 20s)
 
-**Q (slot 1):**
-- **Multishot2** (CD 3s, alcance 13m)
-- **Deadlyshot** (CD 2s, alcance 18m)
-- **Poisonarrow** (CD 3s, alcance 13m)
-  - -23 daño físico + 56 daño total DoT (6 ticks)
-
-**W (slot 2) — elegís una:**
-- **Groundarrow** (CD 10s, alcance 15m)
-- **Jumpshot2** (CD 18s, alcance 2m, casteo 0.3s)
-- **Speedshot2** (CD 10s, alcance 15m)
-  - -25 daño físico
-- **Burningarrows** (CD 20s)
-
-**E (slot 3 — definitiva):**
-- **Speedarcher kite** (sin CD)
+**E — definitiva:**
+- **Enchanted Quiver** (sin CD)
 
 ---
 
-## Arco de Guerra (2H)
+## Adept's Warbow (2H)
 
-**Q (slot 1):**
-- **Multishot2** (CD 3s, alcance 13m)
-- **Deadlyshot** (CD 2s, alcance 18m)
-- **Poisonarrow** (CD 3s, alcance 13m)
-  - -23 daño físico + 56 daño total DoT (6 ticks)
+**Q:**
+- **Multishot** (CD 3s, 13m)
+- **Deadly Shot** (CD 2s, 18m)
+- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
-**W (slot 2) — elegís una:**
-- **Groundarrow** (CD 10s, alcance 15m)
-- **Jumpshot2** (CD 18s, alcance 2m, casteo 0.3s)
-- **Speedshot2** (CD 10s, alcance 15m)
-  - -25 daño físico
-- **Burningarrows** (CD 20s)
+**W (elegís uno):**
+- **Ray of Light** (CD 10s, 15m)
+- **Frost Shot** (CD 18s, 2m, cast 0.3s)
+- **Speed Shot** (CD 10s, 15m) — -25 daño físico
+- **Explosive Arrows** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Skillshot stun** (CD 10s, alcance 26m)
+**E — definitiva:**
+- **Magic Arrow** (CD 10s, 26m)
 
 ---
 
-## Arco Largo (2H)
+## Adept's Longbow (2H)
 
-**Q (slot 1):**
-- **Multishot2** (CD 3s, alcance 13m)
-- **Deadlyshot** (CD 2s, alcance 18m)
-- **Poisonarrow** (CD 3s, alcance 13m)
-  - -23 daño físico + 56 daño total DoT (6 ticks)
+**Q:**
+- **Multishot** (CD 3s, 13m)
+- **Deadly Shot** (CD 2s, 18m)
+- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
-**W (slot 2) — elegís una:**
-- **Groundarrow** (CD 10s, alcance 15m)
-- **Jumpshot2** (CD 18s, alcance 2m, casteo 0.3s)
-- **Speedshot2** (CD 10s, alcance 15m)
-  - -25 daño físico
-- **Burningarrows** (CD 20s)
+**W (elegís uno):**
+- **Ray of Light** (CD 10s, 15m)
+- **Frost Shot** (CD 18s, 2m, cast 0.3s)
+- **Speed Shot** (CD 10s, 15m) — -25 daño físico
+- **Explosive Arrows** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Arrowrain** (CD 15s, alcance 15m)
+**E — definitiva:**
+- **Rain of Arrows** (CD 15s, 15m)
 
 ---
 
-## LONGBOW UNDEAD (2H)
+## Adept's Whispering Bow (2H)
 
-**Q (slot 1):**
-- **Multishot2** (CD 3s, alcance 13m)
-- **Deadlyshot** (CD 2s, alcance 18m)
-- **Poisonarrow** (CD 3s, alcance 13m)
-  - -23 daño físico + 56 daño total DoT (6 ticks)
+**Q:**
+- **Multishot** (CD 3s, 13m)
+- **Deadly Shot** (CD 2s, 18m)
+- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
-**W (slot 2) — elegís una:**
-- **Groundarrow** (CD 10s, alcance 15m)
-- **Jumpshot2** (CD 18s, alcance 2m, casteo 0.3s)
-- **Speedshot2** (CD 10s, alcance 15m)
-  - -25 daño físico
-- **Burningarrows** (CD 20s)
+**W (elegís uno):**
+- **Ray of Light** (CD 10s, 15m)
+- **Frost Shot** (CD 18s, 2m, cast 0.3s)
+- **Speed Shot** (CD 10s, 15m) — -25 daño físico
+- **Explosive Arrows** (CD 20s)
 
 ---
 
-## Arco del Infierno (2H)
+## Adept's Wailing Bow (2H)
 
-**Q (slot 1):**
-- **Multishot2** (CD 3s, alcance 13m)
-- **Deadlyshot** (CD 2s, alcance 18m)
-- **Poisonarrow** (CD 3s, alcance 13m)
-  - -23 daño físico + 56 daño total DoT (6 ticks)
+**Q:**
+- **Multishot** (CD 3s, 13m)
+- **Deadly Shot** (CD 2s, 18m)
+- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
-**W (slot 2) — elegís una:**
-- **Groundarrow** (CD 10s, alcance 15m)
-- **Jumpshot2** (CD 18s, alcance 2m, casteo 0.3s)
-- **Speedshot2** (CD 10s, alcance 15m)
-  - -25 daño físico
-- **Burningarrows** (CD 20s)
+**W (elegís uno):**
+- **Ray of Light** (CD 10s, 15m)
+- **Frost Shot** (CD 18s, 2m, cast 0.3s)
+- **Speed Shot** (CD 10s, 15m) — -25 daño físico
+- **Explosive Arrows** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Hell arrow** (CD 25s, alcance 24m)
+**E — definitiva:**
+- **Demon Arrow** (CD 25s, 24m)
 
 ---
 
-## Arco Keeper (2H)
+## Adept's Bow of Badon (2H)
 
-**Q (slot 1):**
-- **Multishot2** (CD 3s, alcance 13m)
-- **Deadlyshot** (CD 2s, alcance 18m)
-- **Poisonarrow** (CD 3s, alcance 13m)
-  - -23 daño físico + 56 daño total DoT (6 ticks)
+**Q:**
+- **Multishot** (CD 3s, 13m)
+- **Deadly Shot** (CD 2s, 18m)
+- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
-**W (slot 2) — elegís una:**
-- **Groundarrow** (CD 10s, alcance 15m)
-- **Jumpshot2** (CD 18s, alcance 2m, casteo 0.3s)
-- **Speedshot2** (CD 10s, alcance 15m)
-  - -25 daño físico
-- **Burningarrows** (CD 20s)
+**W (elegís uno):**
+- **Ray of Light** (CD 10s, 15m)
+- **Frost Shot** (CD 18s, 2m, cast 0.3s)
+- **Speed Shot** (CD 10s, 15m) — -25 daño físico
+- **Explosive Arrows** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Lightning arrow** (CD 30s, alcance 26m)
+**E — definitiva:**
+- **Raging Storm** (CD 30s, 26m)
 
 ---
 
-## BOW AVALON (2H)
+## Adept's Mistpiercer (2H)
 
-**Q (slot 1):**
-- **Multishot2** (CD 3s, alcance 13m)
-- **Deadlyshot** (CD 2s, alcance 18m)
-- **Poisonarrow** (CD 3s, alcance 13m)
-  - -23 daño físico + 56 daño total DoT (6 ticks)
+**Q:**
+- **Multishot** (CD 3s, 13m)
+- **Deadly Shot** (CD 2s, 18m)
+- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
-**W (slot 2) — elegís una:**
-- **Groundarrow** (CD 10s, alcance 15m)
-- **Jumpshot2** (CD 18s, alcance 2m, casteo 0.3s)
-- **Speedshot2** (CD 10s, alcance 15m)
-  - -25 daño físico
-- **Burningarrows** (CD 20s)
+**W (elegís uno):**
+- **Ray of Light** (CD 10s, 15m)
+- **Frost Shot** (CD 18s, 2m, cast 0.3s)
+- **Speed Shot** (CD 10s, 15m) — -25 daño físico
+- **Explosive Arrows** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Hawk shot multi1** (sin CD, alcance 24m, casteo 0.6s)
+**E — definitiva:**
+- **Lucent Hawk** (sin CD, 24m, cast 0.6s)
 
 ---
 
-## Arco de Cristal (2H)
+## Bow Crystal (2H)
 
-**Q (slot 1):**
-- **Multishot2** (CD 3s, alcance 13m)
-- **Deadlyshot** (CD 2s, alcance 18m)
-- **Poisonarrow** (CD 3s, alcance 13m)
-  - -23 daño físico + 56 daño total DoT (6 ticks)
+**Q:**
+- **Multishot** (CD 3s, 13m)
+- **Deadly Shot** (CD 2s, 18m)
+- **Poisoned Arrow** (CD 3s, 13m) — -23 daño físico + 56 DoT
 
-**W (slot 2) — elegís una:**
-- **Groundarrow** (CD 10s, alcance 15m)
-- **Jumpshot2** (CD 18s, alcance 2m, casteo 0.3s)
-- **Speedshot2** (CD 10s, alcance 15m)
-  - -25 daño físico
-- **Burningarrows** (CD 20s)
+**W (elegís uno):**
+- **Ray of Light** (CD 10s, 15m)
+- **Frost Shot** (CD 18s, 2m, cast 0.3s)
+- **Speed Shot** (CD 10s, 15m) — -25 daño físico
+- **Explosive Arrows** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Air raid** (CD 25s, alcance 10m)
+**E — definitiva:**
+- **Air Raid** (CD 25s, 10m)
 
 ---

@@ -1,192 +1,155 @@
-# ✨ Bastones Sagrados en Albion Online
+# Bastones Sagrados — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Curación y soporte. Imprescindibles en grupos y ZvZ.
+## Adept's Holy Staff (1H)
 
----
+**Q:**
+- **Generous Heal** (CD 1.5s, 15m, cast 0.5s) — +100 daño 
+- **Smite** (CD 3s, 13m, cast 0.5s) — -136 daño  AoE 2.5m
+- **Holy Flash** (CD 3.5s, 13m, cast 0.4s) — +117 daño mágico AoE 5m
 
-## Bastón Sagrado (1H)
+**W (elegís uno):**
+- **Sacred Pulse** (CD 12s, 13m) — +94 daño 
+- **Holy Beam** (CD 12s, 12m)
+- **Holy Blessing** (CD 15s, 13m)
+- **Holy Orb** (CD 15s, 25m)
+- **Reawaken** (CD 30s, 12m, cast 1s)
 
-**Q (slot 1):**
-- **Generousheal** (CD 1.5s, alcance 15m, casteo 0.5s)
-  - +100 daño 
-- **Smite aoe** (CD 3s, alcance 13m, casteo 0.5s)
-  - -136 daño  AoE 2.5m
-- **Holyflash** (CD 3.5s, alcance 13m, casteo 0.4s)
-  - +117 daño mágico AoE 5m
-
-**W (slot 2) — elegís una:**
-- **Pulsingheal** (CD 12s, alcance 13m)
-  - +94 daño 
-- **Healingbeam** (CD 12s, alcance 12m)
-- **Holyhot** (CD 15s, alcance 13m)
-- **Holyorb** (CD 15s, alcance 25m)
-- **Resurrection** (CD 30s, alcance 12m, casteo 1s)
-
-**E (slot 3 — definitiva):**
-- **Holydesperateprayer2** (CD 10s, alcance 13m)
+**E — definitiva:**
+- **Desperate Prayer** (CD 10s, 13m)
 
 ---
 
-## Bastón Sagrado 2H (2H)
+## Adept's Great Holy Staff (2H)
 
-**Q (slot 1):**
-- **Generousheal** (CD 1.5s, alcance 15m, casteo 0.5s)
-  - +100 daño 
-- **Smite aoe** (CD 3s, alcance 13m, casteo 0.5s)
-  - -136 daño  AoE 2.5m
-- **Holyflash** (CD 3.5s, alcance 13m, casteo 0.4s)
-  - +117 daño mágico AoE 5m
+**Q:**
+- **Generous Heal** (CD 1.5s, 15m, cast 0.5s) — +100 daño 
+- **Smite** (CD 3s, 13m, cast 0.5s) — -136 daño  AoE 2.5m
+- **Holy Flash** (CD 3.5s, 13m, cast 0.4s) — +117 daño mágico AoE 5m
 
-**W (slot 2) — elegís una:**
-- **Pulsingheal** (CD 12s, alcance 13m)
-  - +94 daño 
-- **Healingbeam** (CD 12s, alcance 12m)
-- **Holyhot** (CD 15s, alcance 13m)
-- **Holyorb** (CD 15s, alcance 25m)
-- **Resurrection** (CD 30s, alcance 12m, casteo 1s)
+**W (elegís uno):**
+- **Sacred Pulse** (CD 12s, 13m) — +94 daño 
+- **Holy Beam** (CD 12s, 12m)
+- **Holy Blessing** (CD 15s, 13m)
+- **Holy Orb** (CD 15s, 25m)
+- **Reawaken** (CD 30s, 12m, cast 1s)
 
-**E (slot 3 — definitiva):**
-- **Holyexplosion** (CD 18s)
+**E — definitiva:**
+- **Holy Explosion** (CD 18s)
 
 ---
 
-## Bastón Divino (2H)
+## Adept's Divine Staff (2H)
 
-**Q (slot 1):**
-- **Generousheal** (CD 1.5s, alcance 15m, casteo 0.5s)
-  - +100 daño 
-- **Smite aoe** (CD 3s, alcance 13m, casteo 0.5s)
-  - -136 daño  AoE 2.5m
-- **Holyflash** (CD 3.5s, alcance 13m, casteo 0.4s)
-  - +117 daño mágico AoE 5m
+**Q:**
+- **Generous Heal** (CD 1.5s, 15m, cast 0.5s) — +100 daño 
+- **Smite** (CD 3s, 13m, cast 0.5s) — -136 daño  AoE 2.5m
+- **Holy Flash** (CD 3.5s, 13m, cast 0.4s) — +117 daño mágico AoE 5m
 
-**W (slot 2) — elegís una:**
-- **Pulsingheal** (CD 12s, alcance 13m)
-  - +94 daño 
-- **Healingbeam** (CD 12s, alcance 12m)
-- **Holyhot** (CD 15s, alcance 13m)
-- **Holyorb** (CD 15s, alcance 25m)
-- **Resurrection** (CD 30s, alcance 12m, casteo 1s)
+**W (elegís uno):**
+- **Sacred Pulse** (CD 12s, 13m) — +94 daño 
+- **Holy Beam** (CD 12s, 12m)
+- **Holy Blessing** (CD 15s, 13m)
+- **Holy Orb** (CD 15s, 25m)
+- **Reawaken** (CD 30s, 12m, cast 1s)
 
-**E (slot 3 — definitiva):**
-- **Holyshield** (sin CD, alcance 13m)
+**E — definitiva:**
+- **Divine Protection** (sin CD, 13m)
 
 ---
 
-## Bastón Morgana Sagrado (1H)
+## Adept's Lifetouch Staff (1H)
 
-**Q (slot 1):**
-- **Generousheal** (CD 1.5s, alcance 15m, casteo 0.5s)
-  - +100 daño 
-- **Smite aoe** (CD 3s, alcance 13m, casteo 0.5s)
-  - -136 daño  AoE 2.5m
-- **Holyflash** (CD 3.5s, alcance 13m, casteo 0.4s)
-  - +117 daño mágico AoE 5m
+**Q:**
+- **Generous Heal** (CD 1.5s, 15m, cast 0.5s) — +100 daño 
+- **Smite** (CD 3s, 13m, cast 0.5s) — -136 daño  AoE 2.5m
+- **Holy Flash** (CD 3.5s, 13m, cast 0.4s) — +117 daño mágico AoE 5m
 
-**W (slot 2) — elegís una:**
-- **Pulsingheal** (CD 12s, alcance 13m)
-  - +94 daño 
-- **Healingbeam** (CD 12s, alcance 12m)
-- **Holyhot** (CD 15s, alcance 13m)
-- **Holyorb** (CD 15s, alcance 25m)
-- **Resurrection** (CD 30s, alcance 12m, casteo 1s)
+**W (elegís uno):**
+- **Sacred Pulse** (CD 12s, 13m) — +94 daño 
+- **Holy Beam** (CD 12s, 12m)
+- **Holy Blessing** (CD 15s, 13m)
+- **Holy Orb** (CD 15s, 25m)
+- **Reawaken** (CD 30s, 12m, cast 1s)
 
-**E (slot 3 — definitiva):**
-- **Holytouch** (CD 20s, alcance 11m)
+**E — definitiva:**
+- **Holy Touch** (CD 20s, 11m)
 
 ---
 
-## HOLYSTAFF HELL (2H)
+## Adept's Fallen Staff (2H)
 
-**Q (slot 1):**
-- **Generousheal** (CD 1.5s, alcance 15m, casteo 0.5s)
-  - +100 daño 
-- **Smite aoe** (CD 3s, alcance 13m, casteo 0.5s)
-  - -136 daño  AoE 2.5m
-- **Holyflash** (CD 3.5s, alcance 13m, casteo 0.4s)
-  - +117 daño mágico AoE 5m
+**Q:**
+- **Generous Heal** (CD 1.5s, 15m, cast 0.5s) — +100 daño 
+- **Smite** (CD 3s, 13m, cast 0.5s) — -136 daño  AoE 2.5m
+- **Holy Flash** (CD 3.5s, 13m, cast 0.4s) — +117 daño mágico AoE 5m
 
-**W (slot 2) — elegís una:**
-- **Pulsingheal** (CD 12s, alcance 13m)
-  - +94 daño 
-- **Healingbeam** (CD 12s, alcance 12m)
-- **Holyhot** (CD 15s, alcance 13m)
-- **Holyorb** (CD 15s, alcance 25m)
-- **Resurrection** (CD 30s, alcance 12m, casteo 1s)
+**W (elegís uno):**
+- **Sacred Pulse** (CD 12s, 13m) — +94 daño 
+- **Holy Beam** (CD 12s, 12m)
+- **Holy Blessing** (CD 15s, 13m)
+- **Holy Orb** (CD 15s, 25m)
+- **Reawaken** (CD 30s, 12m, cast 1s)
 
-**E (slot 3 — definitiva):**
-- **Holy ultimate** (CD 30s, alcance 14m, casteo 1s)
-  - +270 daño  AoE 5.5m
+**E — definitiva:**
+- **Salvation** (CD 30s, 14m, cast 1s) — +270 daño  AoE 5.5m
 
 ---
 
-## HOLYSTAFF UNDEAD (2H)
+## Adept's Redemption Staff (2H)
 
-**Q (slot 1):**
-- **Generousheal** (CD 1.5s, alcance 15m, casteo 0.5s)
-  - +100 daño 
-- **Smite aoe** (CD 3s, alcance 13m, casteo 0.5s)
-  - -136 daño  AoE 2.5m
-- **Holyflash** (CD 3.5s, alcance 13m, casteo 0.4s)
-  - +117 daño mágico AoE 5m
+**Q:**
+- **Generous Heal** (CD 1.5s, 15m, cast 0.5s) — +100 daño 
+- **Smite** (CD 3s, 13m, cast 0.5s) — -136 daño  AoE 2.5m
+- **Holy Flash** (CD 3.5s, 13m, cast 0.4s) — +117 daño mágico AoE 5m
 
-**W (slot 2) — elegís una:**
-- **Pulsingheal** (CD 12s, alcance 13m)
-  - +94 daño 
-- **Healingbeam** (CD 12s, alcance 12m)
-- **Holyhot** (CD 15s, alcance 13m)
-- **Holyorb** (CD 15s, alcance 25m)
-- **Resurrection** (CD 30s, alcance 12m, casteo 1s)
+**W (elegís uno):**
+- **Sacred Pulse** (CD 12s, 13m) — +94 daño 
+- **Holy Beam** (CD 12s, 12m)
+- **Holy Blessing** (CD 15s, 13m)
+- **Holy Orb** (CD 15s, 25m)
+- **Reawaken** (CD 30s, 12m, cast 1s)
 
-**E (slot 3 — definitiva):**
-- **Celestial sphere** (CD 25s, alcance 10m, casteo 0.5s)
+**E — definitiva:**
+- **Celestial Sphere** (CD 25s, 10m, cast 0.5s)
 
 ---
 
-## HOLYSTAFF AVALON (1H)
+## Adept's Hallowfall (1H)
 
-**Q (slot 1):**
-- **Generousheal** (CD 1.5s, alcance 15m, casteo 0.5s)
-  - +100 daño 
-- **Smite aoe** (CD 3s, alcance 13m, casteo 0.5s)
-  - -136 daño  AoE 2.5m
-- **Holyflash** (CD 3.5s, alcance 13m, casteo 0.4s)
-  - +117 daño mágico AoE 5m
+**Q:**
+- **Generous Heal** (CD 1.5s, 15m, cast 0.5s) — +100 daño 
+- **Smite** (CD 3s, 13m, cast 0.5s) — -136 daño  AoE 2.5m
+- **Holy Flash** (CD 3.5s, 13m, cast 0.4s) — +117 daño mágico AoE 5m
 
-**W (slot 2) — elegís una:**
-- **Pulsingheal** (CD 12s, alcance 13m)
-  - +94 daño 
-- **Healingbeam** (CD 12s, alcance 12m)
-- **Holyhot** (CD 15s, alcance 13m)
-- **Holyorb** (CD 15s, alcance 25m)
-- **Resurrection** (CD 30s, alcance 12m, casteo 1s)
+**W (elegís uno):**
+- **Sacred Pulse** (CD 12s, 13m) — +94 daño 
+- **Holy Beam** (CD 12s, 12m)
+- **Holy Blessing** (CD 15s, 13m)
+- **Holy Orb** (CD 15s, 25m)
+- **Reawaken** (CD 30s, 12m, cast 1s)
 
-**E (slot 3 — definitiva):**
-- **Divine jump** (CD 30s, alcance 11m)
+**E — definitiva:**
+- **Divine Intervention** (CD 30s, 11m)
 
 ---
 
-## HOLYSTAFF CRYSTAL (2H)
+## Holystaff Crystal (2H)
 
-**Q (slot 1):**
-- **Generousheal** (CD 1.5s, alcance 15m, casteo 0.5s)
-  - +100 daño 
-- **Smite aoe** (CD 3s, alcance 13m, casteo 0.5s)
-  - -136 daño  AoE 2.5m
-- **Holyflash** (CD 3.5s, alcance 13m, casteo 0.4s)
-  - +117 daño mágico AoE 5m
+**Q:**
+- **Generous Heal** (CD 1.5s, 15m, cast 0.5s) — +100 daño 
+- **Smite** (CD 3s, 13m, cast 0.5s) — -136 daño  AoE 2.5m
+- **Holy Flash** (CD 3.5s, 13m, cast 0.4s) — +117 daño mágico AoE 5m
 
-**W (slot 2) — elegís una:**
-- **Pulsingheal** (CD 12s, alcance 13m)
-  - +94 daño 
-- **Healingbeam** (CD 12s, alcance 12m)
-- **Holyhot** (CD 15s, alcance 13m)
-- **Holyorb** (CD 15s, alcance 25m)
-- **Resurrection** (CD 30s, alcance 12m, casteo 1s)
+**W (elegís uno):**
+- **Sacred Pulse** (CD 12s, 13m) — +94 daño 
+- **Holy Beam** (CD 12s, 12m)
+- **Holy Blessing** (CD 15s, 13m)
+- **Holy Orb** (CD 15s, 25m)
+- **Reawaken** (CD 30s, 12m, cast 1s)
 
-**E (slot 3 — definitiva):**
-- **Holy dispel** (CD 65s, alcance 12m, casteo 0.6s)
+**E — definitiva:**
+- **Holy Dispel** (CD 65s, 12m, cast 0.6s)
 
 ---

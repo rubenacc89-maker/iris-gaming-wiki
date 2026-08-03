@@ -1,175 +1,155 @@
-# 🏹 Lanzas en Albion Online
+# Lanzas — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Excelente movilidad y alcance. Ideales para recolectores y ganking.
+## Adept's Spear (1H)
 
----
+**Q:**
+- **Lunging Strike** (CD 3s, 10m)
+- **Spirit Spear** (CD 2s)
 
-## Lanza (1H)
+**W (elegís uno):**
+- **Forest of Spears** (CD 12s, 11m)
+- **Inner Focus** (CD 15s)
+- **Cripple** (CD 18s, 4m) — -120 daño físico
+- **Deflecting Spin** (CD 10s)
+- **Impaler** (CD 12s, 12m) — -155 daño físico AoE 2.5m
+- **Harpoon** (CD 20s, 20m)
 
-**Q (slot 1):**
-- **Spear lunge** (CD 3s, alcance 10m)
-- **Spiritspear** (CD 2s)
-
-**W (slot 2) — elegís una:**
-- **Forestofspears** (CD 12s, alcance 11m)
-- **Chargingblade** (CD 15s)
-- **Legbreaker** (CD 18s, alcance 4m)
-  - -120 daño físico
-- **Deflectingstance** (CD 10s)
-- **Groundspear** (CD 12s, alcance 12m)
-  - -155 daño físico AoE 2.5m
-- **Skillshot pull** (CD 20s, alcance 20m)
-
-**E (slot 3 — definitiva):**
-- **Dashdmg** (CD 20s, alcance 13m)
+**E — definitiva:**
+- **Reckless Charge** (CD 20s, 13m)
 
 ---
 
-## Lanza 2H (2H)
+## Adept's Pike (2H)
 
-**Q (slot 1):**
-- **Spear lunge** (CD 3s, alcance 10m)
-- **Spiritspear** (CD 2s)
+**Q:**
+- **Lunging Strike** (CD 3s, 10m)
+- **Spirit Spear** (CD 2s)
 
-**W (slot 2) — elegís una:**
-- **Forestofspears** (CD 12s, alcance 11m)
-- **Chargingblade** (CD 15s)
-- **Legbreaker** (CD 18s, alcance 4m)
-  - -120 daño físico
-- **Deflectingstance** (CD 10s)
-- **Groundspear** (CD 12s, alcance 12m)
-  - -155 daño físico AoE 2.5m
-- **Skillshot pull** (CD 20s, alcance 20m)
+**W (elegís uno):**
+- **Forest of Spears** (CD 12s, 11m)
+- **Inner Focus** (CD 15s)
+- **Cripple** (CD 18s, 4m) — -120 daño físico
+- **Deflecting Spin** (CD 10s)
+- **Impaler** (CD 12s, 12m) — -155 daño físico AoE 2.5m
+- **Harpoon** (CD 20s, 20m)
 
-**E (slot 3 — definitiva):**
-- **Halberdsmash** (CD 15s, alcance 5.5m)
+**E — definitiva:**
+- **Rooting Smash** (CD 15s, 5.5m) — -69 daño físico
 
 ---
 
-## Glaive (2H)
+## Adept's Glaive (2H)
 
-**Q (slot 1):**
-- **Spear lunge** (CD 3s, alcance 10m)
-- **Spiritspear** (CD 2s)
+**Q:**
+- **Lunging Strike** (CD 3s, 10m)
+- **Spirit Spear** (CD 2s)
 
-**W (slot 2) — elegís una:**
-- **Forestofspears** (CD 12s, alcance 11m)
-- **Chargingblade** (CD 15s)
-- **Legbreaker** (CD 18s, alcance 4m)
-  - -120 daño físico
-- **Deflectingstance** (CD 10s)
-- **Groundspear** (CD 12s, alcance 12m)
-  - -155 daño físico AoE 2.5m
-- **Skillshot pull** (CD 20s, alcance 20m)
+**W (elegís uno):**
+- **Forest of Spears** (CD 12s, 11m)
+- **Inner Focus** (CD 15s)
+- **Cripple** (CD 18s, 4m) — -120 daño físico
+- **Deflecting Spin** (CD 10s)
+- **Impaler** (CD 12s, 12m) — -155 daño físico AoE 2.5m
+- **Harpoon** (CD 20s, 20m)
 
-**E (slot 3 — definitiva):**
-- **Shovel** (CD 18s, alcance 5m)
+**E — definitiva:**
+- **Fling** (CD 18s, 5m) — -56 daño físico
 
 ---
 
-## Lanza Keeper (1H)
+## Adept's Heron Spear (1H)
 
-**Q (slot 1):**
-- **Spear lunge** (CD 3s, alcance 10m)
-- **Spiritspear** (CD 2s)
+**Q:**
+- **Lunging Strike** (CD 3s, 10m)
+- **Spirit Spear** (CD 2s)
 
-**W (slot 2) — elegís una:**
-- **Forestofspears** (CD 12s, alcance 11m)
-- **Chargingblade** (CD 15s)
-- **Legbreaker** (CD 18s, alcance 4m)
-  - -120 daño físico
-- **Deflectingstance** (CD 10s)
-- **Groundspear** (CD 12s, alcance 12m)
-  - -155 daño físico AoE 2.5m
-- **Skillshot pull** (CD 20s, alcance 20m)
+**W (elegís uno):**
+- **Forest of Spears** (CD 12s, 11m)
+- **Inner Focus** (CD 15s)
+- **Cripple** (CD 18s, 4m) — -120 daño físico
+- **Deflecting Spin** (CD 10s)
+- **Impaler** (CD 12s, 12m) — -155 daño físico AoE 2.5m
+- **Harpoon** (CD 20s, 20m)
 
-**E (slot 3 — definitiva):**
-- **Spearthrow** (CD 20s, alcance 22m)
+**E — definitiva:**
+- **Spear Throw** (CD 20s, 22m)
 
 ---
 
-## HARPOON HELL (2H)
+## Adept's Spirithunter (2H)
 
-**Q (slot 1):**
-- **Spear lunge** (CD 3s, alcance 10m)
-- **Spiritspear** (CD 2s)
+**Q:**
+- **Lunging Strike** (CD 3s, 10m)
+- **Spirit Spear** (CD 2s)
 
-**W (slot 2) — elegís una:**
-- **Forestofspears** (CD 12s, alcance 11m)
-- **Chargingblade** (CD 15s)
-- **Legbreaker** (CD 18s, alcance 4m)
-  - -120 daño físico
-- **Deflectingstance** (CD 10s)
-- **Groundspear** (CD 12s, alcance 12m)
-  - -155 daño físico AoE 2.5m
-- **Skillshot pull** (CD 20s, alcance 20m)
+**W (elegís uno):**
+- **Forest of Spears** (CD 12s, 11m)
+- **Inner Focus** (CD 15s)
+- **Cripple** (CD 18s, 4m) — -120 daño físico
+- **Deflecting Spin** (CD 10s)
+- **Impaler** (CD 12s, 12m) — -155 daño físico AoE 2.5m
+- **Harpoon** (CD 20s, 20m)
 
-**E (slot 3 — definitiva):**
-- **Tainted steel** (CD 30s, alcance 26m)
+**E — definitiva:**
+- **Corrupting Steel** (CD 30s, 26m)
 
 ---
 
-## TRIDENT UNDEAD (2H)
+## Adept's Trinity Spear (2H)
 
-**Q (slot 1):**
-- **Spear lunge** (CD 3s, alcance 10m)
-- **Spiritspear** (CD 2s)
+**Q:**
+- **Lunging Strike** (CD 3s, 10m)
+- **Spirit Spear** (CD 2s)
 
-**W (slot 2) — elegís una:**
-- **Forestofspears** (CD 12s, alcance 11m)
-- **Chargingblade** (CD 15s)
-- **Legbreaker** (CD 18s, alcance 4m)
-  - -120 daño físico
-- **Deflectingstance** (CD 10s)
-- **Groundspear** (CD 12s, alcance 12m)
-  - -155 daño físico AoE 2.5m
-- **Skillshot pull** (CD 20s, alcance 20m)
+**W (elegís uno):**
+- **Forest of Spears** (CD 12s, 11m)
+- **Inner Focus** (CD 15s)
+- **Cripple** (CD 18s, 4m) — -120 daño físico
+- **Deflecting Spin** (CD 10s)
+- **Impaler** (CD 12s, 12m) — -155 daño físico AoE 2.5m
+- **Harpoon** (CD 20s, 20m)
 
-**E (slot 3 — definitiva):**
-- **Tridentthrow** (CD 30s, alcance 12m)
+**E — definitiva:**
+- **Spectral Trident** (CD 30s, 12m)
 
 ---
 
-## SPEAR LANCE AVALON (1H)
+## Adept's Daybreaker (1H)
 
-**Q (slot 1):**
-- **Spear lunge** (CD 3s, alcance 10m)
-- **Spiritspear** (CD 2s)
+**Q:**
+- **Lunging Strike** (CD 3s, 10m)
+- **Spirit Spear** (CD 2s)
 
-**W (slot 2) — elegís una:**
-- **Forestofspears** (CD 12s, alcance 11m)
-- **Chargingblade** (CD 15s)
-- **Legbreaker** (CD 18s, alcance 4m)
-  - -120 daño físico
-- **Deflectingstance** (CD 10s)
-- **Groundspear** (CD 12s, alcance 12m)
-  - -155 daño físico AoE 2.5m
-- **Skillshot pull** (CD 20s, alcance 20m)
+**W (elegís uno):**
+- **Forest of Spears** (CD 12s, 11m)
+- **Inner Focus** (CD 15s)
+- **Cripple** (CD 18s, 4m) — -120 daño físico
+- **Deflecting Spin** (CD 10s)
+- **Impaler** (CD 12s, 12m) — -155 daño físico AoE 2.5m
+- **Harpoon** (CD 20s, 20m)
 
-**E (slot 3 — definitiva):**
-- **Lance charge** (CD 25s, alcance 16m, casteo 0.35s)
+**E — definitiva:**
+- **Breakthrough** (CD 25s, 16m, cast 0.35s)
 
 ---
 
-## GLAIVE CRYSTAL (2H)
+## Glaive Crystal (2H)
 
-**Q (slot 1):**
-- **Spear lunge** (CD 3s, alcance 10m)
-- **Spiritspear** (CD 2s)
+**Q:**
+- **Lunging Strike** (CD 3s, 10m)
+- **Spirit Spear** (CD 2s)
 
-**W (slot 2) — elegís una:**
-- **Forestofspears** (CD 12s, alcance 11m)
-- **Chargingblade** (CD 15s)
-- **Legbreaker** (CD 18s, alcance 4m)
-  - -120 daño físico
-- **Deflectingstance** (CD 10s)
-- **Groundspear** (CD 12s, alcance 12m)
-  - -155 daño físico AoE 2.5m
-- **Skillshot pull** (CD 20s, alcance 20m)
+**W (elegís uno):**
+- **Forest of Spears** (CD 12s, 11m)
+- **Inner Focus** (CD 15s)
+- **Cripple** (CD 18s, 4m) — -120 daño físico
+- **Deflecting Spin** (CD 10s)
+- **Impaler** (CD 12s, 12m) — -155 daño físico AoE 2.5m
+- **Harpoon** (CD 20s, 20m)
 
-**E (slot 3 — definitiva):**
-- **Spear aoe finisher** (CD 30s, alcance 17m, casteo 0.4s)
+**E — definitiva:**
+- **Spear Aoe Finisher** (CD 30s, 17m, cast 0.4s)
 
 ---

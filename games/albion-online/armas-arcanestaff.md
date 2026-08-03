@@ -1,168 +1,155 @@
-# 🔮 Bastones Arcanos en Albion Online
+# Bastones Arcanos — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Purgas, escudos y daño arcano. Versatilidad mágica.
+## Adept's Arcane Staff (1H)
 
----
+**Q:**
+- **Chain Missile** (CD 3s, 17m, cast 0.2s)
+- **Arcane Protection** (CD 6s, 11m)
+- **Magic Shock** (CD 5s, 14m, cast 0.35s) — -150 daño  AoE 3m
 
-## Bastón Arcano (1H)
+**W (elegís uno):**
+- **Enigma Blade** (CD 15s, 10m)
+- **Motivating Cleanse** (CD 18s, 11m)
+- **Frazzle** (CD 12s, 15m, cast 0.5s)
+- **Empowering Beam** (CD 15s, 9m)
+- **Mimic** (sin CD, 15m)
 
-**Q (slot 1):**
-- **Arcane chain missile** (CD 3s, alcance 17m, casteo 0.2s)
-- **Shieldfriendly** (CD 6s, alcance 11m)
-- **Magicshock** (CD 5s, alcance 14m, casteo 0.35s)
-  - -150 daño  AoE 3m
-
-**W (slot 2) — elegís una:**
-- **Enigma blade** (CD 15s, alcance 10m)
-- **Cleansespeed2** (CD 18s, alcance 11m)
-- **Frazzle2** (CD 12s, alcance 15m, casteo 0.5s)
-- **Empowerbeam** (CD 15s, alcance 9m)
-- **Mimic** (sin CD, alcance 15m)
-
-**E (slot 3 — definitiva):**
-- **Arcaneorb2** (CD 20s, alcance 25m)
+**E — definitiva:**
+- **Arcane Orb** (CD 20s, 25m)
 
 ---
 
-## Bastón Arcano 2H (2H)
+## Adept's Great Arcane Staff (2H)
 
-**Q (slot 1):**
-- **Arcane chain missile** (CD 3s, alcance 17m, casteo 0.2s)
-- **Shieldfriendly** (CD 6s, alcance 11m)
-- **Magicshock** (CD 5s, alcance 14m, casteo 0.35s)
-  - -150 daño  AoE 3m
+**Q:**
+- **Chain Missile** (CD 3s, 17m, cast 0.2s)
+- **Arcane Protection** (CD 6s, 11m)
+- **Magic Shock** (CD 5s, 14m, cast 0.35s) — -150 daño  AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Enigma blade** (CD 15s, alcance 10m)
-- **Cleansespeed2** (CD 18s, alcance 11m)
-- **Frazzle2** (CD 12s, alcance 15m, casteo 0.5s)
-- **Empowerbeam** (CD 15s, alcance 9m)
-- **Mimic** (sin CD, alcance 15m)
+**W (elegís uno):**
+- **Enigma Blade** (CD 15s, 10m)
+- **Motivating Cleanse** (CD 18s, 11m)
+- **Frazzle** (CD 12s, 15m, cast 0.5s)
+- **Empowering Beam** (CD 15s, 9m)
+- **Mimic** (sin CD, 15m)
 
-**E (slot 3 — definitiva):**
-- **Time freeze** (CD 72s, alcance 14m)
-
----
-
-## Bastón Enigmático (2H)
-
-**Q (slot 1):**
-- **Arcane chain missile** (CD 3s, alcance 17m, casteo 0.2s)
-- **Shieldfriendly** (CD 6s, alcance 11m)
-- **Magicshock** (CD 5s, alcance 14m, casteo 0.35s)
-  - -150 daño  AoE 3m
-
-**W (slot 2) — elegís una:**
-- **Enigma blade** (CD 15s, alcance 10m)
-- **Cleansespeed2** (CD 18s, alcance 11m)
-- **Frazzle2** (CD 12s, alcance 15m, casteo 0.5s)
-- **Empowerbeam** (CD 15s, alcance 9m)
-- **Mimic** (sin CD, alcance 15m)
-
-**E (slot 3 — definitiva):**
-- **Invulnerability** (CD 30s, alcance 14m)
+**E — definitiva:**
+- **Time Freeze** (CD 72s, 14m)
 
 ---
 
-## Bastón No-muerto Arcano (1H)
+## Adept's Enigmatic Staff (2H)
 
-**Q (slot 1):**
-- **Arcane chain missile** (CD 3s, alcance 17m, casteo 0.2s)
-- **Shieldfriendly** (CD 6s, alcance 11m)
-- **Magicshock** (CD 5s, alcance 14m, casteo 0.35s)
-  - -150 daño  AoE 3m
+**Q:**
+- **Chain Missile** (CD 3s, 17m, cast 0.2s)
+- **Arcane Protection** (CD 6s, 11m)
+- **Magic Shock** (CD 5s, 14m, cast 0.35s) — -150 daño  AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Enigma blade** (CD 15s, alcance 10m)
-- **Cleansespeed2** (CD 18s, alcance 11m)
-- **Frazzle2** (CD 12s, alcance 15m, casteo 0.5s)
-- **Empowerbeam** (CD 15s, alcance 9m)
-- **Mimic** (sin CD, alcance 15m)
+**W (elegís uno):**
+- **Enigma Blade** (CD 15s, 10m)
+- **Motivating Cleanse** (CD 18s, 11m)
+- **Frazzle** (CD 12s, 15m, cast 0.5s)
+- **Empowering Beam** (CD 15s, 9m)
+- **Mimic** (sin CD, 15m)
 
-**E (slot 3 — definitiva):**
-- **Blackhole** (CD 20s, alcance 14m)
-
----
-
-## ARCANESTAFF HELL (2H)
-
-**Q (slot 1):**
-- **Arcane chain missile** (CD 3s, alcance 17m, casteo 0.2s)
-- **Shieldfriendly** (CD 6s, alcance 11m)
-- **Magicshock** (CD 5s, alcance 14m, casteo 0.35s)
-  - -150 daño  AoE 3m
-
-**W (slot 2) — elegís una:**
-- **Enigma blade** (CD 15s, alcance 10m)
-- **Cleansespeed2** (CD 18s, alcance 11m)
-- **Frazzle2** (CD 12s, alcance 15m, casteo 0.5s)
-- **Empowerbeam** (CD 15s, alcance 9m)
-- **Mimic** (sin CD, alcance 15m)
-
-**E (slot 3 — definitiva):**
-- **Arcanecorridor** (CD 44s, alcance 25m)
+**E — definitiva:**
+- **Protective Beam** (CD 30s, 14m)
 
 ---
 
-## ENIGMATICORB MORGANA (2H)
+## Adept's Witchwork Staff (1H)
 
-**Q (slot 1):**
-- **Arcane chain missile** (CD 3s, alcance 17m, casteo 0.2s)
-- **Shieldfriendly** (CD 6s, alcance 11m)
-- **Magicshock** (CD 5s, alcance 14m, casteo 0.35s)
-  - -150 daño  AoE 3m
+**Q:**
+- **Chain Missile** (CD 3s, 17m, cast 0.2s)
+- **Arcane Protection** (CD 6s, 11m)
+- **Magic Shock** (CD 5s, 14m, cast 0.35s) — -150 daño  AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Enigma blade** (CD 15s, alcance 10m)
-- **Cleansespeed2** (CD 18s, alcance 11m)
-- **Frazzle2** (CD 12s, alcance 15m, casteo 0.5s)
-- **Empowerbeam** (CD 15s, alcance 9m)
-- **Mimic** (sin CD, alcance 15m)
+**W (elegís uno):**
+- **Enigma Blade** (CD 15s, 10m)
+- **Motivating Cleanse** (CD 18s, 11m)
+- **Frazzle** (CD 12s, 15m, cast 0.5s)
+- **Empowering Beam** (CD 15s, 9m)
+- **Mimic** (sin CD, 15m)
 
-**E (slot 3 — definitiva):**
-- **Void** (CD 62s, alcance 15m, casteo 0.5s)
-
----
-
-## ARCANE RINGPAIR AVALON (2H)
-
-**Q (slot 1):**
-- **Arcane chain missile** (CD 3s, alcance 17m, casteo 0.2s)
-- **Shieldfriendly** (CD 6s, alcance 11m)
-- **Magicshock** (CD 5s, alcance 14m, casteo 0.35s)
-  - -150 daño  AoE 3m
-
-**W (slot 2) — elegís una:**
-- **Enigma blade** (CD 15s, alcance 10m)
-- **Cleansespeed2** (CD 18s, alcance 11m)
-- **Frazzle2** (CD 12s, alcance 15m, casteo 0.5s)
-- **Empowerbeam** (CD 15s, alcance 9m)
-- **Mimic** (sin CD, alcance 15m)
-
-**E (slot 3 — definitiva):**
-- **Arcane meteor** (CD 38s, alcance 15m, casteo 0.4s)
-  - -112 daño mágico AoE 5m
+**E — definitiva:**
+- **Black Hole** (CD 20s, 14m)
 
 ---
 
-## ARCANESTAFF CRYSTAL (2H)
+## Adept's Occult Staff (2H)
 
-**Q (slot 1):**
-- **Arcane chain missile** (CD 3s, alcance 17m, casteo 0.2s)
-- **Shieldfriendly** (CD 6s, alcance 11m)
-- **Magicshock** (CD 5s, alcance 14m, casteo 0.35s)
-  - -150 daño  AoE 3m
+**Q:**
+- **Chain Missile** (CD 3s, 17m, cast 0.2s)
+- **Arcane Protection** (CD 6s, 11m)
+- **Magic Shock** (CD 5s, 14m, cast 0.35s) — -150 daño  AoE 3m
 
-**W (slot 2) — elegís una:**
-- **Enigma blade** (CD 15s, alcance 10m)
-- **Cleansespeed2** (CD 18s, alcance 11m)
-- **Frazzle2** (CD 12s, alcance 15m, casteo 0.5s)
-- **Empowerbeam** (CD 15s, alcance 9m)
-- **Mimic** (sin CD, alcance 15m)
+**W (elegís uno):**
+- **Enigma Blade** (CD 15s, 10m)
+- **Motivating Cleanse** (CD 18s, 11m)
+- **Frazzle** (CD 12s, 15m, cast 0.5s)
+- **Empowering Beam** (CD 15s, 9m)
+- **Mimic** (sin CD, 15m)
 
-**E (slot 3 — definitiva):**
-- **Starfall dot** (CD 30s)
+**E — definitiva:**
+- **Time Corridor** (CD 44s, 25m)
+
+---
+
+## Adept's Malevolent Locus (2H)
+
+**Q:**
+- **Chain Missile** (CD 3s, 17m, cast 0.2s)
+- **Arcane Protection** (CD 6s, 11m)
+- **Magic Shock** (CD 5s, 14m, cast 0.35s) — -150 daño  AoE 3m
+
+**W (elegís uno):**
+- **Enigma Blade** (CD 15s, 10m)
+- **Motivating Cleanse** (CD 18s, 11m)
+- **Frazzle** (CD 12s, 15m, cast 0.5s)
+- **Empowering Beam** (CD 15s, 9m)
+- **Mimic** (sin CD, 15m)
+
+**E — definitiva:**
+- **The Void** (CD 62s, 15m, cast 0.5s)
+
+---
+
+## Adept's Evensong (2H)
+
+**Q:**
+- **Chain Missile** (CD 3s, 17m, cast 0.2s)
+- **Arcane Protection** (CD 6s, 11m)
+- **Magic Shock** (CD 5s, 14m, cast 0.35s) — -150 daño  AoE 3m
+
+**W (elegís uno):**
+- **Enigma Blade** (CD 15s, 10m)
+- **Motivating Cleanse** (CD 18s, 11m)
+- **Frazzle** (CD 12s, 15m, cast 0.5s)
+- **Empowering Beam** (CD 15s, 9m)
+- **Mimic** (sin CD, 15m)
+
+**E — definitiva:**
+- **Dark Sphere** (CD 38s, 15m, cast 0.4s) — -112 daño mágico AoE 5m
+
+---
+
+## Arcanestaff Crystal (2H)
+
+**Q:**
+- **Chain Missile** (CD 3s, 17m, cast 0.2s)
+- **Arcane Protection** (CD 6s, 11m)
+- **Magic Shock** (CD 5s, 14m, cast 0.35s) — -150 daño  AoE 3m
+
+**W (elegís uno):**
+- **Enigma Blade** (CD 15s, 10m)
+- **Motivating Cleanse** (CD 18s, 11m)
+- **Frazzle** (CD 12s, 15m, cast 0.5s)
+- **Empowering Beam** (CD 15s, 9m)
+- **Mimic** (sin CD, 15m)
+
+**E — definitiva:**
+- **Starfall Dot** (CD 30s)
 
 ---

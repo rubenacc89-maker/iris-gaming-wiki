@@ -1,159 +1,155 @@
-# ❄️ Bastones de Hielo en Albion Online
+# Bastones de Hielo — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Control y slow. Dominan en kiting y soporte de CC mágico.
+## Adept's Frost Staff (1H)
 
----
+**Q:**
+- **Frostbite** (CD 1.2s, 18m, cast 0.3s)
+- **Ice Shard** (sin CD, 14m, cast 1.2s) — -130 daño mágico AoE 3m
+- **Frozen Surge** (CD 3s, 16m)
 
-## Bastón de Hielo (1H)
+**W (elegís uno):**
+- **Frost Bomb** (CD 10s, 11m)
+- **Frost Beam** (CD 15s, 12m)
+- **Frost Nova** (CD 20s, 11m)
+- **Frost Lance** (CD 8s, 9m)
+- **Glacial Obelisk** (CD 16s, 12m, cast 0.4s)
 
-**Q (slot 1):**
-- **Frost bite** (CD 1.2s, alcance 18m, casteo 0.3s)
-- **Iceshard** (sin CD, alcance 14m, casteo 1.2s)
-- **Shatter q** (CD 3s, alcance 16m)
-
-**W (slot 2) — elegís una:**
-- **Frostbomb castslow** (CD 10s, alcance 11m)
-- **Rayo de Hielo** (CD 15s, alcance 12m)
-- **Frostnova** (CD 20s, alcance 11m)
-- **Frost lance** (CD 8s, alcance 9m)
-- **Ice sculpture** (CD 16s, alcance 12m, casteo 0.4s)
-
-**E (slot 3 — definitiva):**
-- **Freezingwind** (CD 18s, alcance 12m)
+**E — definitiva:**
+- **Freezing Wind** (CD 18s, 12m)
 
 ---
 
-## Bastón de Hielo 2H (2H)
+## Adept's Great Frost Staff (2H)
 
-**Q (slot 1):**
-- **Frost bite** (CD 1.2s, alcance 18m, casteo 0.3s)
-- **Iceshard** (sin CD, alcance 14m, casteo 1.2s)
-- **Shatter q** (CD 3s, alcance 16m)
+**Q:**
+- **Frostbite** (CD 1.2s, 18m, cast 0.3s)
+- **Ice Shard** (sin CD, 14m, cast 1.2s) — -130 daño mágico AoE 3m
+- **Frozen Surge** (CD 3s, 16m)
 
-**W (slot 2) — elegís una:**
-- **Frostbomb castslow** (CD 10s, alcance 11m)
-- **Rayo de Hielo** (CD 15s, alcance 12m)
-- **Frostnova** (CD 20s, alcance 11m)
-- **Frost lance** (CD 8s, alcance 9m)
-- **Ice sculpture** (CD 16s, alcance 12m, casteo 0.4s)
+**W (elegís uno):**
+- **Frost Bomb** (CD 10s, 11m)
+- **Frost Beam** (CD 15s, 12m)
+- **Frost Nova** (CD 20s, 11m)
+- **Frost Lance** (CD 8s, 9m)
+- **Glacial Obelisk** (CD 16s, 12m, cast 0.4s)
 
-**E (slot 3 — definitiva):**
-- **Hail multi 1** (CD 1s, alcance 15m)
-
----
-
-## Bastón Glacial (2H)
-
-**Q (slot 1):**
-- **Frost bite** (CD 1.2s, alcance 18m, casteo 0.3s)
-- **Iceshard** (sin CD, alcance 14m, casteo 1.2s)
-- **Shatter q** (CD 3s, alcance 16m)
-
-**W (slot 2) — elegís una:**
-- **Frostbomb castslow** (CD 10s, alcance 11m)
-- **Rayo de Hielo** (CD 15s, alcance 12m)
-- **Frostnova** (CD 20s, alcance 11m)
-- **Frost lance** (CD 8s, alcance 9m)
-- **Ice sculpture** (CD 16s, alcance 12m, casteo 0.4s)
-
-**E (slot 3 — definitiva):**
-- **Icestorm2** (CD 30s, alcance 10m, casteo 0.5s)
+**E — definitiva:**
+- **Hail** (CD 1s, 15m)
 
 ---
 
-## Bastón Keeper de Hielo (1H)
+## Adept's Glacial Staff (2H)
 
-**Q (slot 1):**
-- **Frost bite** (CD 1.2s, alcance 18m, casteo 0.3s)
-- **Iceshard** (sin CD, alcance 14m, casteo 1.2s)
-- **Shatter q** (CD 3s, alcance 16m)
+**Q:**
+- **Frostbite** (CD 1.2s, 18m, cast 0.3s)
+- **Ice Shard** (sin CD, 14m, cast 1.2s) — -130 daño mágico AoE 3m
+- **Frozen Surge** (CD 3s, 16m)
 
-**W (slot 2) — elegís una:**
-- **Frostbomb castslow** (CD 10s, alcance 11m)
-- **Rayo de Hielo** (CD 15s, alcance 12m)
-- **Frostnova** (CD 20s, alcance 11m)
-- **Frost lance** (CD 8s, alcance 9m)
-- **Ice sculpture** (CD 16s, alcance 12m, casteo 0.4s)
+**W (elegís uno):**
+- **Frost Bomb** (CD 10s, 11m)
+- **Frost Beam** (CD 15s, 12m)
+- **Frost Nova** (CD 20s, 11m)
+- **Frost Lance** (CD 8s, 9m)
+- **Glacial Obelisk** (CD 16s, 12m, cast 0.4s)
 
-**E (slot 3 — definitiva):**
-- **Icerock explode** (CD 20s, alcance 26m)
-
----
-
-## ICEGAUNTLETS HELL (2H)
-
-**Q (slot 1):**
-- **Frost bite** (CD 1.2s, alcance 18m, casteo 0.3s)
-- **Iceshard** (sin CD, alcance 14m, casteo 1.2s)
-- **Shatter q** (CD 3s, alcance 16m)
-
-**W (slot 2) — elegís una:**
-- **Frostbomb castslow** (CD 10s, alcance 11m)
-- **Rayo de Hielo** (CD 15s, alcance 12m)
-- **Frostnova** (CD 20s, alcance 11m)
-- **Frost lance** (CD 8s, alcance 9m)
-- **Ice sculpture** (CD 16s, alcance 12m, casteo 0.4s)
-
-**E (slot 3 — definitiva):**
-- **Glacialfield** (CD 30s, alcance 14m)
+**E — definitiva:**
+- **Ice Storm** (CD 30s, 10m, cast 0.5s)
 
 ---
 
-## ICECRYSTAL UNDEAD (2H)
+## Adept's Hoarfrost Staff (1H)
 
-**Q (slot 1):**
-- **Frost bite** (CD 1.2s, alcance 18m, casteo 0.3s)
-- **Iceshard** (sin CD, alcance 14m, casteo 1.2s)
-- **Shatter q** (CD 3s, alcance 16m)
+**Q:**
+- **Frostbite** (CD 1.2s, 18m, cast 0.3s)
+- **Ice Shard** (sin CD, 14m, cast 1.2s) — -130 daño mágico AoE 3m
+- **Frozen Surge** (CD 3s, 16m)
 
-**W (slot 2) — elegís una:**
-- **Frostbomb castslow** (CD 10s, alcance 11m)
-- **Rayo de Hielo** (CD 15s, alcance 12m)
-- **Frostnova** (CD 20s, alcance 11m)
-- **Frost lance** (CD 8s, alcance 9m)
-- **Ice sculpture** (CD 16s, alcance 12m, casteo 0.4s)
+**W (elegís uno):**
+- **Frost Bomb** (CD 10s, 11m)
+- **Frost Beam** (CD 15s, 12m)
+- **Frost Nova** (CD 20s, 11m)
+- **Frost Lance** (CD 8s, 9m)
+- **Glacial Obelisk** (CD 16s, 12m, cast 0.4s)
 
-**E (slot 3 — definitiva):**
-- **Frost ultimate** (CD 30s, alcance 15m, casteo 0.7s)
-
----
-
-## FROSTSTAFF AVALON (1H)
-
-**Q (slot 1):**
-- **Frost bite** (CD 1.2s, alcance 18m, casteo 0.3s)
-- **Iceshard** (sin CD, alcance 14m, casteo 1.2s)
-- **Shatter q** (CD 3s, alcance 16m)
-
-**W (slot 2) — elegís una:**
-- **Frostbomb castslow** (CD 10s, alcance 11m)
-- **Rayo de Hielo** (CD 15s, alcance 12m)
-- **Frostnova** (CD 20s, alcance 11m)
-- **Frost lance** (CD 8s, alcance 9m)
-- **Ice sculpture** (CD 16s, alcance 12m, casteo 0.4s)
-
-**E (slot 3 — definitiva):**
-- **Frozen crystal** (CD 25s, alcance 12m)
+**E — definitiva:**
+- **Avalanche** (CD 20s, 26m)
 
 ---
 
-## FROSTSTAFF CRYSTAL (2H)
+## Adept's Icicle Staff (2H)
 
-**Q (slot 1):**
-- **Frost bite** (CD 1.2s, alcance 18m, casteo 0.3s)
-- **Iceshard** (sin CD, alcance 14m, casteo 1.2s)
-- **Shatter q** (CD 3s, alcance 16m)
+**Q:**
+- **Frostbite** (CD 1.2s, 18m, cast 0.3s)
+- **Ice Shard** (sin CD, 14m, cast 1.2s) — -130 daño mágico AoE 3m
+- **Frozen Surge** (CD 3s, 16m)
 
-**W (slot 2) — elegís una:**
-- **Frostbomb castslow** (CD 10s, alcance 11m)
-- **Rayo de Hielo** (CD 15s, alcance 12m)
-- **Frostnova** (CD 20s, alcance 11m)
-- **Frost lance** (CD 8s, alcance 9m)
-- **Ice sculpture** (CD 16s, alcance 12m, casteo 0.4s)
+**W (elegís uno):**
+- **Frost Bomb** (CD 10s, 11m)
+- **Frost Beam** (CD 15s, 12m)
+- **Frost Nova** (CD 20s, 11m)
+- **Frost Lance** (CD 8s, 9m)
+- **Glacial Obelisk** (CD 16s, 12m, cast 0.4s)
 
-**E (slot 3 — definitiva):**
-- **Frost targeted channel** (CD 12s, alcance 22m)
+**E — definitiva:**
+- **Frozen Hell** (CD 30s, 14m)
+
+---
+
+## Adept's Permafrost Prism (2H)
+
+**Q:**
+- **Frostbite** (CD 1.2s, 18m, cast 0.3s)
+- **Ice Shard** (sin CD, 14m, cast 1.2s) — -130 daño mágico AoE 3m
+- **Frozen Surge** (CD 3s, 16m)
+
+**W (elegís uno):**
+- **Frost Bomb** (CD 10s, 11m)
+- **Frost Beam** (CD 15s, 12m)
+- **Frost Nova** (CD 20s, 11m)
+- **Frost Lance** (CD 8s, 9m)
+- **Glacial Obelisk** (CD 16s, 12m, cast 0.4s)
+
+**E — definitiva:**
+- **Ice Crystal** (CD 30s, 15m, cast 0.7s)
+
+---
+
+## Adept's Chillhowl (1H)
+
+**Q:**
+- **Frostbite** (CD 1.2s, 18m, cast 0.3s)
+- **Ice Shard** (sin CD, 14m, cast 1.2s) — -130 daño mágico AoE 3m
+- **Frozen Surge** (CD 3s, 16m)
+
+**W (elegís uno):**
+- **Frost Bomb** (CD 10s, 11m)
+- **Frost Beam** (CD 15s, 12m)
+- **Frost Nova** (CD 20s, 11m)
+- **Frost Lance** (CD 8s, 9m)
+- **Glacial Obelisk** (CD 16s, 12m, cast 0.4s)
+
+**E — definitiva:**
+- **Glacial Prison** (CD 25s, 12m)
+
+---
+
+## Froststaff Crystal (2H)
+
+**Q:**
+- **Frostbite** (CD 1.2s, 18m, cast 0.3s)
+- **Ice Shard** (sin CD, 14m, cast 1.2s) — -130 daño mágico AoE 3m
+- **Frozen Surge** (CD 3s, 16m)
+
+**W (elegís uno):**
+- **Frost Bomb** (CD 10s, 11m)
+- **Frost Beam** (CD 15s, 12m)
+- **Frost Nova** (CD 20s, 11m)
+- **Frost Lance** (CD 8s, 9m)
+- **Glacial Obelisk** (CD 16s, 12m, cast 0.4s)
+
+**E — definitiva:**
+- **Frost Targeted Channel** (CD 12s, 22m)
 
 ---

@@ -1,178 +1,155 @@
-# 🔥 Bastones de Fuego en Albion Online
+# Bastones de Fuego — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Daño mágico explosivo. Fuertes en burst y AoE.
+## Adept's Fire Staff (1H)
 
----
+**Q:**
+- **Fire Bolt** (sin CD, 13m, cast 0.8s) — -62 daño mágico + 16 DoT
+- **Burning Field** (CD 4s, 15m, cast 0.5s) — -70 daño mágico AoE 3m
+- **Searing Flame** (CD 1.5s, 18m, cast 0.3s)
 
-## Bastón de Fuego (1H)
+**W (elegís uno):**
+- **Flame Blast** (CD 12s, 11m)
+- **Wall of Flames** (CD 15s, 3m)
+- **Raging Flare** (CD 20s, 22m, cast 0.4s)
+- **Fire Wave** (CD 12s, 12m)
+- **Fire Artillery** (CD 15s, 18m, cast 1.5s)
 
-**Q (slot 1):**
-- **Firestaffbolt2** (sin CD, alcance 13m, casteo 0.8s)
-  - -62 daño mágico + 16 daño total DoT (4 ticks)
-- **Firestaffbolt aoe** (CD 4s, alcance 15m, casteo 0.5s)
-  - -70 daño mágico AoE 3m
-- **Searing flame** (CD 1.5s, alcance 18m, casteo 0.3s)
-
-**W (slot 2) — elegís una:**
-- **Firestaffignite2 spread** (CD 12s, alcance 11m)
-- **Muro de Fuego** (CD 15s, alcance 3m)
-- **Skillshot fireball** (CD 20s, alcance 22m, casteo 0.4s)
-- **Firecone** (CD 12s, alcance 12m)
-- **Fireartillery** (CD 15s, alcance 18m, casteo 1.5s)
-
-**E (slot 3 — definitiva):**
-- **Pyroblast** (CD 15s, alcance 15m)
+**E — definitiva:**
+- **Pyroblast** (CD 15s, 15m)
 
 ---
 
-## Bastón de Fuego 2H (2H)
+## Adept's Great Fire Staff (2H)
 
-**Q (slot 1):**
-- **Firestaffbolt2** (sin CD, alcance 13m, casteo 0.8s)
-  - -62 daño mágico + 16 daño total DoT (4 ticks)
-- **Firestaffbolt aoe** (CD 4s, alcance 15m, casteo 0.5s)
-  - -70 daño mágico AoE 3m
-- **Searing flame** (CD 1.5s, alcance 18m, casteo 0.3s)
+**Q:**
+- **Fire Bolt** (sin CD, 13m, cast 0.8s) — -62 daño mágico + 16 DoT
+- **Burning Field** (CD 4s, 15m, cast 0.5s) — -70 daño mágico AoE 3m
+- **Searing Flame** (CD 1.5s, 18m, cast 0.3s)
 
-**W (slot 2) — elegís una:**
-- **Firestaffignite2 spread** (CD 12s, alcance 11m)
-- **Muro de Fuego** (CD 15s, alcance 3m)
-- **Skillshot fireball** (CD 20s, alcance 22m, casteo 0.4s)
-- **Firecone** (CD 12s, alcance 12m)
-- **Fireartillery** (CD 15s, alcance 18m, casteo 1.5s)
+**W (elegís uno):**
+- **Flame Blast** (CD 12s, 11m)
+- **Wall of Flames** (CD 15s, 3m)
+- **Raging Flare** (CD 20s, 22m, cast 0.4s)
+- **Fire Wave** (CD 12s, 12m)
+- **Fire Artillery** (CD 15s, 18m, cast 1.5s)
 
-**E (slot 3 — definitiva):**
-- **Pilar de Llamas** (CD 15s, alcance 15m)
-  - -200 daño mágico AoE 4m
+**E — definitiva:**
+- **Flame Pillar** (CD 15s, 15m) — -200 daño mágico AoE 4m
 
 ---
 
-## Bastón del Infierno (2H)
+## Adept's Infernal Staff (2H)
 
-**Q (slot 1):**
-- **Firestaffbolt2** (sin CD, alcance 13m, casteo 0.8s)
-  - -62 daño mágico + 16 daño total DoT (4 ticks)
-- **Firestaffbolt aoe** (CD 4s, alcance 15m, casteo 0.5s)
-  - -70 daño mágico AoE 3m
-- **Searing flame** (CD 1.5s, alcance 18m, casteo 0.3s)
+**Q:**
+- **Fire Bolt** (sin CD, 13m, cast 0.8s) — -62 daño mágico + 16 DoT
+- **Burning Field** (CD 4s, 15m, cast 0.5s) — -70 daño mágico AoE 3m
+- **Searing Flame** (CD 1.5s, 18m, cast 0.3s)
 
-**W (slot 2) — elegís una:**
-- **Firestaffignite2 spread** (CD 12s, alcance 11m)
-- **Muro de Fuego** (CD 15s, alcance 3m)
-- **Skillshot fireball** (CD 20s, alcance 22m, casteo 0.4s)
-- **Firecone** (CD 12s, alcance 12m)
-- **Fireartillery** (CD 15s, alcance 18m, casteo 1.5s)
+**W (elegís uno):**
+- **Flame Blast** (CD 12s, 11m)
+- **Wall of Flames** (CD 15s, 3m)
+- **Raging Flare** (CD 20s, 22m, cast 0.4s)
+- **Fire Wave** (CD 12s, 12m)
+- **Fire Artillery** (CD 15s, 18m, cast 1.5s)
 
-**E (slot 3 — definitiva):**
-- **Human torch** (CD 20s, alcance 12m, casteo 0.7s)
-  - 176 daño total DoT (11 ticks)
+**E — definitiva:**
+- **Combustion** (CD 20s, 12m, cast 0.7s) — 176 DoT
 
 ---
 
-## Bastón Keeper (1H)
+## Adept's Wildfire Staff (1H)
 
-**Q (slot 1):**
-- **Firestaffbolt2** (sin CD, alcance 13m, casteo 0.8s)
-  - -62 daño mágico + 16 daño total DoT (4 ticks)
-- **Firestaffbolt aoe** (CD 4s, alcance 15m, casteo 0.5s)
-  - -70 daño mágico AoE 3m
-- **Searing flame** (CD 1.5s, alcance 18m, casteo 0.3s)
+**Q:**
+- **Fire Bolt** (sin CD, 13m, cast 0.8s) — -62 daño mágico + 16 DoT
+- **Burning Field** (CD 4s, 15m, cast 0.5s) — -70 daño mágico AoE 3m
+- **Searing Flame** (CD 1.5s, 18m, cast 0.3s)
 
-**W (slot 2) — elegís una:**
-- **Firestaffignite2 spread** (CD 12s, alcance 11m)
-- **Muro de Fuego** (CD 15s, alcance 3m)
-- **Skillshot fireball** (CD 20s, alcance 22m, casteo 0.4s)
-- **Firecone** (CD 12s, alcance 12m)
-- **Fireartillery** (CD 15s, alcance 18m, casteo 1.5s)
+**W (elegís uno):**
+- **Flame Blast** (CD 12s, 11m)
+- **Wall of Flames** (CD 15s, 3m)
+- **Raging Flare** (CD 20s, 22m, cast 0.4s)
+- **Fire Wave** (CD 12s, 12m)
+- **Fire Artillery** (CD 15s, 18m, cast 1.5s)
 
-**E (slot 3 — definitiva):**
-- **Esfera de Magma** (CD 30s, alcance 25m, casteo 0.6s)
+**E — definitiva:**
+- **Magma Sphere** (CD 30s, 25m, cast 0.6s)
 
 ---
 
-## FIRESTAFF HELL (2H)
+## Adept's Brimstone Staff (2H)
 
-**Q (slot 1):**
-- **Firestaffbolt2** (sin CD, alcance 13m, casteo 0.8s)
-  - -62 daño mágico + 16 daño total DoT (4 ticks)
-- **Firestaffbolt aoe** (CD 4s, alcance 15m, casteo 0.5s)
-  - -70 daño mágico AoE 3m
-- **Searing flame** (CD 1.5s, alcance 18m, casteo 0.3s)
+**Q:**
+- **Fire Bolt** (sin CD, 13m, cast 0.8s) — -62 daño mágico + 16 DoT
+- **Burning Field** (CD 4s, 15m, cast 0.5s) — -70 daño mágico AoE 3m
+- **Searing Flame** (CD 1.5s, 18m, cast 0.3s)
 
-**W (slot 2) — elegís una:**
-- **Firestaffignite2 spread** (CD 12s, alcance 11m)
-- **Muro de Fuego** (CD 15s, alcance 3m)
-- **Skillshot fireball** (CD 20s, alcance 22m, casteo 0.4s)
-- **Firecone** (CD 12s, alcance 12m)
-- **Fireartillery** (CD 15s, alcance 18m, casteo 1.5s)
+**W (elegís uno):**
+- **Flame Blast** (CD 12s, 11m)
+- **Wall of Flames** (CD 15s, 3m)
+- **Raging Flare** (CD 20s, 22m, cast 0.4s)
+- **Fire Wave** (CD 12s, 12m)
+- **Fire Artillery** (CD 15s, 18m, cast 1.5s)
 
-**E (slot 3 — definitiva):**
-- **Meteoro** (CD 30s, alcance 15m, casteo 2s)
-  - -434 daño mágico AoE 5m
+**E — definitiva:**
+- **Meteor** (CD 30s, 15m, cast 2s) — -434 daño mágico AoE 5m
 
 ---
 
-## INFERNOSTAFF MORGANA (2H)
+## Adept's Blazing Staff (2H)
 
-**Q (slot 1):**
-- **Firestaffbolt2** (sin CD, alcance 13m, casteo 0.8s)
-  - -62 daño mágico + 16 daño total DoT (4 ticks)
-- **Firestaffbolt aoe** (CD 4s, alcance 15m, casteo 0.5s)
-  - -70 daño mágico AoE 3m
-- **Searing flame** (CD 1.5s, alcance 18m, casteo 0.3s)
+**Q:**
+- **Fire Bolt** (sin CD, 13m, cast 0.8s) — -62 daño mágico + 16 DoT
+- **Burning Field** (CD 4s, 15m, cast 0.5s) — -70 daño mágico AoE 3m
+- **Searing Flame** (CD 1.5s, 18m, cast 0.3s)
 
-**W (slot 2) — elegís una:**
-- **Firestaffignite2 spread** (CD 12s, alcance 11m)
-- **Muro de Fuego** (CD 15s, alcance 3m)
-- **Skillshot fireball** (CD 20s, alcance 22m, casteo 0.4s)
-- **Firecone** (CD 12s, alcance 12m)
-- **Fireartillery** (CD 15s, alcance 18m, casteo 1.5s)
+**W (elegís uno):**
+- **Flame Blast** (CD 12s, 11m)
+- **Wall of Flames** (CD 15s, 3m)
+- **Raging Flare** (CD 20s, 22m, cast 0.4s)
+- **Fire Wave** (CD 12s, 12m)
+- **Fire Artillery** (CD 15s, 18m, cast 1.5s)
 
-**E (slot 3 — definitiva):**
-- **Flametornado** (CD 35s, alcance 15m, casteo 1s)
+**E — definitiva:**
+- **Flame Tornado** (CD 35s, 15m, cast 1s)
 
 ---
 
-## FIRE RINGPAIR AVALON (2H)
+## Adept's Dawnsong (2H)
 
-**Q (slot 1):**
-- **Firestaffbolt2** (sin CD, alcance 13m, casteo 0.8s)
-  - -62 daño mágico + 16 daño total DoT (4 ticks)
-- **Firestaffbolt aoe** (CD 4s, alcance 15m, casteo 0.5s)
-  - -70 daño mágico AoE 3m
-- **Searing flame** (CD 1.5s, alcance 18m, casteo 0.3s)
+**Q:**
+- **Fire Bolt** (sin CD, 13m, cast 0.8s) — -62 daño mágico + 16 DoT
+- **Burning Field** (CD 4s, 15m, cast 0.5s) — -70 daño mágico AoE 3m
+- **Searing Flame** (CD 1.5s, 18m, cast 0.3s)
 
-**W (slot 2) — elegís una:**
-- **Firestaffignite2 spread** (CD 12s, alcance 11m)
-- **Muro de Fuego** (CD 15s, alcance 3m)
-- **Skillshot fireball** (CD 20s, alcance 22m, casteo 0.4s)
-- **Firecone** (CD 12s, alcance 12m)
-- **Fireartillery** (CD 15s, alcance 18m, casteo 1.5s)
+**W (elegís uno):**
+- **Flame Blast** (CD 12s, 11m)
+- **Wall of Flames** (CD 15s, 3m)
+- **Raging Flare** (CD 20s, 22m, cast 0.4s)
+- **Fire Wave** (CD 12s, 12m)
+- **Fire Artillery** (CD 15s, 18m, cast 1.5s)
 
-**E (slot 3 — definitiva):**
-- **Firephoenix** (CD 30s, alcance 15m, casteo 0.6s)
+**E — definitiva:**
+- **Flaming Phoenix** (CD 30s, 15m, cast 0.6s)
 
 ---
 
-## Bastón de Cristal (1H)
+## Firestaff Crystal (1H)
 
-**Q (slot 1):**
-- **Firestaffbolt2** (sin CD, alcance 13m, casteo 0.8s)
-  - -62 daño mágico + 16 daño total DoT (4 ticks)
-- **Firestaffbolt aoe** (CD 4s, alcance 15m, casteo 0.5s)
-  - -70 daño mágico AoE 3m
-- **Searing flame** (CD 1.5s, alcance 18m, casteo 0.3s)
+**Q:**
+- **Fire Bolt** (sin CD, 13m, cast 0.8s) — -62 daño mágico + 16 DoT
+- **Burning Field** (CD 4s, 15m, cast 0.5s) — -70 daño mágico AoE 3m
+- **Searing Flame** (CD 1.5s, 18m, cast 0.3s)
 
-**W (slot 2) — elegís una:**
-- **Firestaffignite2 spread** (CD 12s, alcance 11m)
-- **Muro de Fuego** (CD 15s, alcance 3m)
-- **Skillshot fireball** (CD 20s, alcance 22m, casteo 0.4s)
-- **Firecone** (CD 12s, alcance 12m)
-- **Fireartillery** (CD 15s, alcance 18m, casteo 1.5s)
+**W (elegís uno):**
+- **Flame Blast** (CD 12s, 11m)
+- **Wall of Flames** (CD 15s, 3m)
+- **Raging Flare** (CD 20s, 22m, cast 0.4s)
+- **Fire Wave** (CD 12s, 12m)
+- **Fire Artillery** (CD 15s, 18m, cast 1.5s)
 
-**E (slot 3 — definitiva):**
-- **Flame Dash** (CD 40s, alcance 14m)
+**E — definitiva:**
+- **Flamedash** (CD 40s, 14m)
 
 ---

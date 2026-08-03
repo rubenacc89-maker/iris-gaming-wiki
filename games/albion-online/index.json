@@ -117,269 +117,392 @@
     "updated": "2026-08-03"
   },
   {
-    "title": "Espadas — tipos y habilidades (Q/W/E)",
-    "file": "armas-sword.md",
+    "title": "Arcos — habilidades Q/W/E",
+    "file": "armas-bow.md",
     "keywords": [
-      "espada",
-      "sword",
-      "claymore",
-      "espadas dobles",
-      "dualsword",
-      "heroic strike",
-      "cleave",
-      "mighty blow",
-      "claymore charge",
+      "arco",
+      "bow",
+      "warbow",
+      "longbow",
+      "distancia",
       "arma",
-      "melee"
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Dagas — tipos y habilidades (Q/W/E)",
+    "title": "Ballestas — habilidades Q/W/E",
+    "file": "armas-crossbow.md",
+    "keywords": [
+      "ballesta",
+      "crossbow",
+      "distancia",
+      "zvz",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones Malditos — habilidades Q/W/E",
+    "file": "armas-cursestaff.md",
+    "keywords": [
+      "maldito",
+      "curse",
+      "cursestaff",
+      "demonic",
+      "dot",
+      "mago",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones de Fuego — habilidades Q/W/E",
+    "file": "armas-firestaff.md",
+    "keywords": [
+      "fuego",
+      "fire",
+      "firestaff",
+      "pyroblast",
+      "meteor",
+      "mago",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones de Hielo — habilidades Q/W/E",
+    "file": "armas-froststaff.md",
+    "keywords": [
+      "hielo",
+      "frost",
+      "froststaff",
+      "glacial",
+      "mago",
+      "slow",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones Arcanos — habilidades Q/W/E",
+    "file": "armas-arcanestaff.md",
+    "keywords": [
+      "arcano",
+      "arcane",
+      "arcanestaff",
+      "enigmatic",
+      "mago",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones Sagrados — habilidades Q/W/E",
+    "file": "armas-holystaff.md",
+    "keywords": [
+      "sagrado",
+      "holy",
+      "holystaff",
+      "divine",
+      "healer",
+      "curar",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones de Naturaleza — habilidades Q/W/E",
+    "file": "armas-naturestaff.md",
+    "keywords": [
+      "naturaleza",
+      "nature",
+      "naturestaff",
+      "wild",
+      "healer",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Dagas — habilidades Q/W/E",
     "file": "armas-dagger.md",
     "keywords": [
       "daga",
       "dagger",
       "garras",
       "claw",
-      "par de dagas",
-      "dagger pair",
-      "arma",
       "melee",
       "ganking",
-      "sigilo"
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Hachas — tipos y habilidades (Q/W/E)",
+    "title": "Puños — habilidades Q/W/E",
+    "file": "armas-knuckles.md",
+    "keywords": [
+      "puños",
+      "knuckles",
+      "gauntlets",
+      "melee",
+      "burst",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Lanzas — habilidades Q/W/E",
+    "file": "armas-spear.md",
+    "keywords": [
+      "lanza",
+      "spear",
+      "glaive",
+      "melee",
+      "movilidad",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Hachas — habilidades Q/W/E",
     "file": "armas-axe.md",
     "keywords": [
       "hacha",
       "axe",
       "alabarda",
       "halberd",
-      "arma",
       "melee",
-      "aoe",
-      "daño fisico"
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Martillos — tipos y habilidades (Q/W/E)",
+    "title": "Espadas — habilidades Q/W/E",
+    "file": "armas-sword.md",
+    "keywords": [
+      "espada",
+      "sword",
+      "claymore",
+      "dualsword",
+      "melee",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones de Cuarto — habilidades Q/W/E",
+    "file": "armas-quarterstaff.md",
+    "keywords": [
+      "quarterstaff",
+      "bastón de cuarto",
+      "melee",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Martillos — habilidades Q/W/E",
     "file": "armas-hammer.md",
     "keywords": [
       "martillo",
       "hammer",
       "polehammer",
-      "martillo de asta",
-      "arma",
       "melee",
-      "cc",
-      "stunner",
-      "zvz"
+      "zvz",
+      "arma",
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Mazas — tipos y habilidades (Q/W/E)",
+    "title": "Mazas — habilidades Q/W/E",
     "file": "armas-mace.md",
     "keywords": [
       "maza",
       "mace",
       "mangual",
       "flail",
-      "arma",
       "melee",
       "cc",
-      "control"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Lanzas — tipos y habilidades (Q/W/E)",
-    "file": "armas-spear.md",
-    "keywords": [
-      "lanza",
-      "spear",
-      "glaive",
       "arma",
-      "melee",
-      "movilidad",
-      "recolector",
-      "ganking"
+      "habilidad",
+      "Q",
+      "W",
+      "E",
+      "definitiva"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Bastones de Cuarto — tipos y habilidades (Q/W/E)",
-    "file": "armas-quarterstaff.md",
+    "title": "Cascos — habilidades activas y pasivas",
+    "file": "armaduras-head.md",
     "keywords": [
-      "bastón de cuarto",
-      "quarterstaff",
-      "baston hierro",
-      "doble hoja",
-      "ironcladed",
-      "doubleblade",
-      "arma",
-      "melee",
-      "movilidad"
+      "casco",
+      "helmet",
+      "cabeza",
+      "head",
+      "armadura",
+      "habilidad",
+      "armadura",
+      "pasiva",
+      "activa",
+      "slot"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Puños / Knuckles — tipos y habilidades (Q/W/E)",
-    "file": "armas-knuckles.md",
+    "title": "Pecheras — habilidades activas y pasivas",
+    "file": "armaduras-armor.md",
     "keywords": [
-      "puños",
-      "knuckles",
-      "guanteletes",
-      "gauntlets",
-      "infernal fist",
-      "puño infernal",
-      "arma",
-      "melee",
-      "burst"
+      "pecho",
+      "chest",
+      "armadura",
+      "torso",
+      "pechera",
+      "habilidad",
+      "armadura",
+      "pasiva",
+      "activa",
+      "slot"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Arcos — tipos y habilidades (Q/W/E)",
-    "file": "armas-bow.md",
+    "title": "Botas — habilidades activas y pasivas",
+    "file": "armaduras-shoes.md",
     "keywords": [
-      "arco",
-      "bow",
-      "arco de guerra",
-      "warbow",
-      "arco largo",
-      "longbow",
-      "arma",
-      "ranged",
-      "distancia",
-      "kiting"
+      "botas",
+      "shoes",
+      "pies",
+      "boots",
+      "armadura",
+      "habilidad",
+      "armadura",
+      "pasiva",
+      "activa",
+      "slot"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Ballestas — tipos y habilidades (Q/W/E)",
-    "file": "armas-crossbow.md",
+    "title": "Capas — habilidades activas y pasivas",
+    "file": "armaduras-cape.md",
     "keywords": [
-      "ballesta",
-      "crossbow",
-      "ballesta pesada",
-      "1hcrossbow",
-      "arma",
-      "ranged",
-      "distancia",
-      "zvz",
-      "area"
+      "capa",
+      "cape",
+      "accesorio",
+      "habilidad",
+      "armadura",
+      "pasiva",
+      "activa",
+      "slot"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Bastones de Fuego — tipos y habilidades (Q/W/E)",
-    "file": "armas-firestaff.md",
+    "title": "Monturas — tipos, velocidad y stats",
+    "file": "monturas.md",
     "keywords": [
-      "bastón de fuego",
-      "fire staff",
-      "firestaff",
-      "pyroblast",
-      "meteor",
-      "meteoro",
-      "flamepillar",
-      "pilar de llamas",
-      "flame dash",
-      "magmasphere",
-      "mago",
-      "hechicero"
+      "montura",
+      "mount",
+      "caballo",
+      "ox",
+      "buey",
+      "direwolf",
+      "velocidad",
+      "speed",
+      "transporte",
+      "battle mount",
+      "combat mount"
     ],
     "updated": "2026-08-03"
   },
   {
-    "title": "Bastones de Hielo — tipos y habilidades (Q/W/E)",
-    "file": "armas-froststaff.md",
+    "title": "Comida y consumibles — tipos y efectos",
+    "file": "consumibles.md",
     "keywords": [
-      "bastón de hielo",
-      "frost staff",
-      "froststaff",
-      "glacial",
-      "hielo",
-      "congelar",
-      "freeze",
-      "slow",
-      "mago",
-      "control"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Bastones Malditos — tipos y habilidades (Q/W/E)",
-    "file": "armas-cursestaff.md",
-    "keywords": [
-      "bastón maldito",
-      "curse staff",
-      "cursestaff",
-      "demonic",
-      "demonico",
-      "maldicion",
-      "curse",
-      "dot",
-      "daño sostenido",
-      "mago"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Bastones Sagrados — tipos y habilidades (Q/W/E)",
-    "file": "armas-holystaff.md",
-    "keywords": [
-      "bastón sagrado",
-      "holy staff",
-      "holystaff",
-      "divino",
-      "divine",
-      "curar",
-      "heal",
-      "healer",
-      "sagrado",
-      "soporte"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Bastones de Naturaleza — tipos y habilidades (Q/W/E)",
-    "file": "armas-naturestaff.md",
-    "keywords": [
-      "bastón de naturaleza",
-      "nature staff",
-      "naturestaff",
-      "salvaje",
-      "wild",
-      "naturaleza",
-      "curar",
-      "heal",
-      "raiz",
-      "root",
-      "soporte"
-    ],
-    "updated": "2026-08-03"
-  },
-  {
-    "title": "Bastones Arcanos — tipos y habilidades (Q/W/E)",
-    "file": "armas-arcanestaff.md",
-    "keywords": [
-      "bastón arcano",
-      "arcane staff",
-      "arcanestaff",
-      "enigmatico",
-      "enigmatic",
-      "arcano",
-      "purga",
-      "purge",
-      "escudo",
-      "shield",
-      "mago"
+      "comida",
+      "food",
+      "consumible",
+      "consumable",
+      "nutricion",
+      "buff",
+      "pez",
+      "fish"
     ],
     "updated": "2026-08-03"
   }

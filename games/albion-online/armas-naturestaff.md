@@ -1,159 +1,155 @@
-# 🌿 Bastones de Naturaleza en Albion Online
+# Bastones de Naturaleza — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Curación HoT y raíces. Healers de PvE y soporte en PvP.
+## Adept's Nature Staff (1H)
 
----
+**Q:**
+- **Rejuvenation** (CD 1s, 11m)
+- **Thorn Growth** (sin CD, 12m, cast 0.4s)
+- **Rejuvenating Flower** (CD 2.5s, 15m)
 
-## Bastón de Naturaleza (1H)
+**W (elegís uno):**
+- **Brambleseed** (CD 10s, 16m, cast 0.25s)
+- **Revitalize** (CD 7s, 11m)
+- **Protection of Nature** (CD 15s, 11m)
+- **Cleanse Heal** (CD 20s, 11m)
+- **Rejuvenating Breeze** (CD 15s, 9m)
 
-**Q (slot 1):**
-- **Rejuvenation** (CD 1s, alcance 11m)
-- **Thornsarea** (sin CD, alcance 12m, casteo 0.4s)
-- **Rejuvmushroom grenade** (CD 2.5s, alcance 15m)
-
-**W (slot 2) — elegís una:**
-- **Brambleseed** (CD 10s, alcance 16m, casteo 0.25s)
-- **Reanimate** (CD 7s, alcance 11m)
-- **Natureresilience** (CD 15s, alcance 11m)
-- **Cleanseheal** (CD 20s, alcance 11m)
-- **Rejuvenating breeze** (CD 15s, alcance 9m)
-
-**E (slot 3 — definitiva):**
-- **Circleoflife** (CD 18s, casteo 0.5s)
+**E — definitiva:**
+- **Circle of Life** (CD 18s, cast 0.5s)
 
 ---
 
-## Bastón de Naturaleza 2H (2H)
+## Adept's Great Nature Staff (2H)
 
-**Q (slot 1):**
-- **Rejuvenation** (CD 1s, alcance 11m)
-- **Thornsarea** (sin CD, alcance 12m, casteo 0.4s)
-- **Rejuvmushroom grenade** (CD 2.5s, alcance 15m)
+**Q:**
+- **Rejuvenation** (CD 1s, 11m)
+- **Thorn Growth** (sin CD, 12m, cast 0.4s)
+- **Rejuvenating Flower** (CD 2.5s, 15m)
 
-**W (slot 2) — elegís una:**
-- **Brambleseed** (CD 10s, alcance 16m, casteo 0.25s)
-- **Reanimate** (CD 7s, alcance 11m)
-- **Natureresilience** (CD 15s, alcance 11m)
-- **Cleanseheal** (CD 20s, alcance 11m)
-- **Rejuvenating breeze** (CD 15s, alcance 9m)
+**W (elegís uno):**
+- **Brambleseed** (CD 10s, 16m, cast 0.25s)
+- **Revitalize** (CD 7s, 11m)
+- **Protection of Nature** (CD 15s, 11m)
+- **Cleanse Heal** (CD 20s, 11m)
+- **Rejuvenating Breeze** (CD 15s, 9m)
 
-**E (slot 3 — definitiva):**
-- **Brieroflife** (CD 15s, alcance 11m)
-
----
-
-## Bastón Salvaje (2H)
-
-**Q (slot 1):**
-- **Rejuvenation** (CD 1s, alcance 11m)
-- **Thornsarea** (sin CD, alcance 12m, casteo 0.4s)
-- **Rejuvmushroom grenade** (CD 2.5s, alcance 15m)
-
-**W (slot 2) — elegís una:**
-- **Brambleseed** (CD 10s, alcance 16m, casteo 0.25s)
-- **Reanimate** (CD 7s, alcance 11m)
-- **Natureresilience** (CD 15s, alcance 11m)
-- **Cleanseheal** (CD 20s, alcance 11m)
-- **Rejuvenating breeze** (CD 15s, alcance 9m)
-
-**E (slot 3 — definitiva):**
-- **Welloflife2** (CD 20s, alcance 15m, casteo 0.7s)
+**E — definitiva:**
+- **Living Armor** (CD 15s, 11m)
 
 ---
 
-## Bastón Keeper de Naturaleza (1H)
+## Adept's Wild Staff (2H)
 
-**Q (slot 1):**
-- **Rejuvenation** (CD 1s, alcance 11m)
-- **Thornsarea** (sin CD, alcance 12m, casteo 0.4s)
-- **Rejuvmushroom grenade** (CD 2.5s, alcance 15m)
+**Q:**
+- **Rejuvenation** (CD 1s, 11m)
+- **Thorn Growth** (sin CD, 12m, cast 0.4s)
+- **Rejuvenating Flower** (CD 2.5s, 15m)
 
-**W (slot 2) — elegís una:**
-- **Brambleseed** (CD 10s, alcance 16m, casteo 0.25s)
-- **Reanimate** (CD 7s, alcance 11m)
-- **Natureresilience** (CD 15s, alcance 11m)
-- **Cleanseheal** (CD 20s, alcance 11m)
-- **Rejuvenating breeze** (CD 15s, alcance 9m)
+**W (elegís uno):**
+- **Brambleseed** (CD 10s, 16m, cast 0.25s)
+- **Revitalize** (CD 7s, 11m)
+- **Protection of Nature** (CD 15s, 11m)
+- **Cleanse Heal** (CD 20s, 11m)
+- **Rejuvenating Breeze** (CD 15s, 9m)
 
-**E (slot 3 — definitiva):**
-- **Nature ultimate single** (sin CD, alcance 11m)
-
----
-
-## NATURESTAFF HELL (2H)
-
-**Q (slot 1):**
-- **Rejuvenation** (CD 1s, alcance 11m)
-- **Thornsarea** (sin CD, alcance 12m, casteo 0.4s)
-- **Rejuvmushroom grenade** (CD 2.5s, alcance 15m)
-
-**W (slot 2) — elegís una:**
-- **Brambleseed** (CD 10s, alcance 16m, casteo 0.25s)
-- **Reanimate** (CD 7s, alcance 11m)
-- **Natureresilience** (CD 15s, alcance 11m)
-- **Cleanseheal** (CD 20s, alcance 11m)
-- **Rejuvenating breeze** (CD 15s, alcance 9m)
-
-**E (slot 3 — definitiva):**
-- **Rottenvines** (CD 25s)
+**E — definitiva:**
+- **Well Of Life** (CD 20s, 15m, cast 0.7s)
 
 ---
 
-## NATURESTAFF KEEPER (2H)
+## Adept's Druidic Staff (1H)
 
-**Q (slot 1):**
-- **Rejuvenation** (CD 1s, alcance 11m)
-- **Thornsarea** (sin CD, alcance 12m, casteo 0.4s)
-- **Rejuvmushroom grenade** (CD 2.5s, alcance 15m)
+**Q:**
+- **Rejuvenation** (CD 1s, 11m)
+- **Thorn Growth** (sin CD, 12m, cast 0.4s)
+- **Rejuvenating Flower** (CD 2.5s, 15m)
 
-**W (slot 2) — elegís una:**
-- **Brambleseed** (CD 10s, alcance 16m, casteo 0.25s)
-- **Reanimate** (CD 7s, alcance 11m)
-- **Natureresilience** (CD 15s, alcance 11m)
-- **Cleanseheal** (CD 20s, alcance 11m)
-- **Rejuvenating breeze** (CD 15s, alcance 9m)
+**W (elegís uno):**
+- **Brambleseed** (CD 10s, 16m, cast 0.25s)
+- **Revitalize** (CD 7s, 11m)
+- **Protection of Nature** (CD 15s, 11m)
+- **Cleanse Heal** (CD 20s, 11m)
+- **Rejuvenating Breeze** (CD 15s, 9m)
 
-**E (slot 3 — definitiva):**
-- **Spiritanimal** (CD 30s, alcance 12m)
-
----
-
-## NATURESTAFF AVALON (1H)
-
-**Q (slot 1):**
-- **Rejuvenation** (CD 1s, alcance 11m)
-- **Thornsarea** (sin CD, alcance 12m, casteo 0.4s)
-- **Rejuvmushroom grenade** (CD 2.5s, alcance 15m)
-
-**W (slot 2) — elegís una:**
-- **Brambleseed** (CD 10s, alcance 16m, casteo 0.25s)
-- **Reanimate** (CD 7s, alcance 11m)
-- **Natureresilience** (CD 15s, alcance 11m)
-- **Cleanseheal** (CD 20s, alcance 11m)
-- **Rejuvenating breeze** (CD 15s, alcance 9m)
-
-**E (slot 3 — definitiva):**
-- **Soul link** (sin CD, alcance 11m)
+**E — definitiva:**
+- **Spiritual Seed** (sin CD, 11m)
 
 ---
 
-## Bastón de Cristal de Naturaleza (1H)
+## Adept's Blight Staff (2H)
 
-**Q (slot 1):**
-- **Rejuvenation** (CD 1s, alcance 11m)
-- **Thornsarea** (sin CD, alcance 12m, casteo 0.4s)
-- **Rejuvmushroom grenade** (CD 2.5s, alcance 15m)
+**Q:**
+- **Rejuvenation** (CD 1s, 11m)
+- **Thorn Growth** (sin CD, 12m, cast 0.4s)
+- **Rejuvenating Flower** (CD 2.5s, 15m)
 
-**W (slot 2) — elegís una:**
-- **Brambleseed** (CD 10s, alcance 16m, casteo 0.25s)
-- **Reanimate** (CD 7s, alcance 11m)
-- **Natureresilience** (CD 15s, alcance 11m)
-- **Cleanseheal** (CD 20s, alcance 11m)
-- **Rejuvenating breeze** (CD 15s, alcance 9m)
+**W (elegís uno):**
+- **Brambleseed** (CD 10s, 16m, cast 0.25s)
+- **Revitalize** (CD 7s, 11m)
+- **Protection of Nature** (CD 15s, 11m)
+- **Cleanse Heal** (CD 20s, 11m)
+- **Rejuvenating Breeze** (CD 15s, 9m)
 
-**E (slot 3 — definitiva):**
-- **Dual nature** (CD 30s)
+**E — definitiva:**
+- **Elevated Nature** (CD 25s)
+
+---
+
+## Adept's Rampant Staff (2H)
+
+**Q:**
+- **Rejuvenation** (CD 1s, 11m)
+- **Thorn Growth** (sin CD, 12m, cast 0.4s)
+- **Rejuvenating Flower** (CD 2.5s, 15m)
+
+**W (elegís uno):**
+- **Brambleseed** (CD 10s, 16m, cast 0.25s)
+- **Revitalize** (CD 7s, 11m)
+- **Protection of Nature** (CD 15s, 11m)
+- **Cleanse Heal** (CD 20s, 11m)
+- **Rejuvenating Breeze** (CD 15s, 9m)
+
+**E — definitiva:**
+- **Spirit Animal** (CD 30s, 12m)
+
+---
+
+## Adept's Ironroot Staff (1H)
+
+**Q:**
+- **Rejuvenation** (CD 1s, 11m)
+- **Thorn Growth** (sin CD, 12m, cast 0.4s)
+- **Rejuvenating Flower** (CD 2.5s, 15m)
+
+**W (elegís uno):**
+- **Brambleseed** (CD 10s, 16m, cast 0.25s)
+- **Revitalize** (CD 7s, 11m)
+- **Protection of Nature** (CD 15s, 11m)
+- **Cleanse Heal** (CD 20s, 11m)
+- **Rejuvenating Breeze** (CD 15s, 9m)
+
+**E — definitiva:**
+- **Soul Link** (sin CD, 11m)
+
+---
+
+## Naturestaff Crystal (1H)
+
+**Q:**
+- **Rejuvenation** (CD 1s, 11m)
+- **Thorn Growth** (sin CD, 12m, cast 0.4s)
+- **Rejuvenating Flower** (CD 2.5s, 15m)
+
+**W (elegís uno):**
+- **Brambleseed** (CD 10s, 16m, cast 0.25s)
+- **Revitalize** (CD 7s, 11m)
+- **Protection of Nature** (CD 15s, 11m)
+- **Cleanse Heal** (CD 20s, 11m)
+- **Rejuvenating Breeze** (CD 15s, 9m)
+
+**E — definitiva:**
+- **Dual Nature** (CD 30s)
 
 ---

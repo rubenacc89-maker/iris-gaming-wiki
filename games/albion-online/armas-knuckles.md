@@ -1,187 +1,173 @@
-# 👊 Puños / Knuckles en Albion Online
+# Puños — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Combate a corto rango ultra agresivo. Builds de burst melee.
+## Adept's Black Hands (2H)
 
----
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-## Guanteletes de Hierro (2H)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
-
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
-
-**E (slot 3 — definitiva):**
-- **Punchcombo** (CD 20s, alcance 2m)
+**E — definitiva:**
+- **Punchcombo** (CD 20s, 2m)
 
 ---
 
-## Puños (Set 1) (2H)
+## Adept's Brawler Gloves (2H)
 
-**Q (slot 1):**
-- **Create opening** (sin CD, alcance 2.5m)
-  - -80 daño físico
-- **Dashkick** (CD 4s, alcance 4m)
-- **Crossstep roundhouse** (CD 2s, alcance 5m)
-- **Shockwave punch** (CD 3.5s, alcance 13m)
+**Q:**
+- **Create Opening** (sin CD, 2.5m) — -80 daño físico
+- **Dragon Leap** (CD 4s, 4m)
+- **Fleet Footwork** (CD 2s, 5m)
+- **Shockwave** (CD 3.5s, 13m)
 
-**W (slot 2) — elegís una:**
-- **Triple kick** (CD 18s, alcance 11m)
-- **Backhand knockback** (CD 15s, alcance 6m)
-- **Knuckle counter** (CD 15s)
-- **Knucklecombo** (CD 15s, alcance 2m)
+**W (elegís uno):**
+- **Triple Kick** (CD 18s, 11m)
+- **Backhand Strike** (CD 15s, 6m)
+- **Counter** (CD 15s)
+- **Devastating Combo** (CD 15s, 2m)
 
-**E (slot 3 — definitiva):**
-- **Blazing geyser** (CD 15s, alcance 3m)
-
----
-
-## Puños (Set 2) (2H)
-
-**Q (slot 1):**
-- **Create opening** (sin CD, alcance 2.5m)
-  - -80 daño físico
-- **Dashkick** (CD 4s, alcance 4m)
-- **Crossstep roundhouse** (CD 2s, alcance 5m)
-- **Shockwave punch** (CD 3.5s, alcance 13m)
-
-**W (slot 2) — elegís una:**
-- **Triple kick** (CD 18s, alcance 11m)
-- **Backhand knockback** (CD 15s, alcance 6m)
-- **Knuckle counter** (CD 15s)
-- **Knucklecombo** (CD 15s, alcance 2m)
-
-**E (slot 3 — definitiva):**
-- **Divepunch rise** (sin CD)
+**E — definitiva:**
+- **Blazing Geyser** (CD 15s, 3m)
 
 ---
 
-## Puños Infernales (2H)
+## Adept's Battle Bracers (2H)
 
-**Q (slot 1):**
-- **Create opening** (sin CD, alcance 2.5m)
-  - -80 daño físico
-- **Dashkick** (CD 4s, alcance 4m)
-- **Crossstep roundhouse** (CD 2s, alcance 5m)
-- **Shockwave punch** (CD 3.5s, alcance 13m)
+**Q:**
+- **Create Opening** (sin CD, 2.5m) — -80 daño físico
+- **Dragon Leap** (CD 4s, 4m)
+- **Fleet Footwork** (CD 2s, 5m)
+- **Shockwave** (CD 3.5s, 13m)
 
-**W (slot 2) — elegís una:**
-- **Triple kick** (CD 18s, alcance 11m)
-- **Backhand knockback** (CD 15s, alcance 6m)
-- **Knuckle counter** (CD 15s)
-- **Knucklecombo** (CD 15s, alcance 2m)
+**W (elegís uno):**
+- **Triple Kick** (CD 18s, 11m)
+- **Backhand Strike** (CD 15s, 6m)
+- **Counter** (CD 15s)
+- **Devastating Combo** (CD 15s, 2m)
 
-**E (slot 3 — definitiva):**
-- **Impulse punch** (CD 20s, alcance 13m, casteo 0.6s)
-
----
-
-## Puños Keeper (2H)
-
-**Q (slot 1):**
-- **Create opening** (sin CD, alcance 2.5m)
-  - -80 daño físico
-- **Dashkick** (CD 4s, alcance 4m)
-- **Crossstep roundhouse** (CD 2s, alcance 5m)
-- **Shockwave punch** (CD 3.5s, alcance 13m)
-
-**W (slot 2) — elegís una:**
-- **Triple kick** (CD 18s, alcance 11m)
-- **Backhand knockback** (CD 15s, alcance 6m)
-- **Knuckle counter** (CD 15s)
-- **Knucklecombo** (CD 15s, alcance 2m)
-
-**E (slot 3 — definitiva):**
-- **Pummeling strikes** (CD 20s, alcance 11m, casteo 0.5s)
+**E — definitiva:**
+- **Falcon Smash** (sin CD)
 
 ---
 
-## Puños del Infierno (2H)
+## Adept's Spiked Gauntlets (2H)
 
-**Q (slot 1):**
-- **Create opening** (sin CD, alcance 2.5m)
-  - -80 daño físico
-- **Dashkick** (CD 4s, alcance 4m)
-- **Crossstep roundhouse** (CD 2s, alcance 5m)
-- **Shockwave punch** (CD 3.5s, alcance 13m)
+**Q:**
+- **Create Opening** (sin CD, 2.5m) — -80 daño físico
+- **Dragon Leap** (CD 4s, 4m)
+- **Fleet Footwork** (CD 2s, 5m)
+- **Shockwave** (CD 3.5s, 13m)
 
-**W (slot 2) — elegís una:**
-- **Triple kick** (CD 18s, alcance 11m)
-- **Backhand knockback** (CD 15s, alcance 6m)
-- **Knuckle counter** (CD 15s)
-- **Knucklecombo** (CD 15s, alcance 2m)
+**W (elegís uno):**
+- **Triple Kick** (CD 18s, 11m)
+- **Backhand Strike** (CD 15s, 6m)
+- **Counter** (CD 15s)
+- **Devastating Combo** (CD 15s, 2m)
 
-**E (slot 3 — definitiva):**
-- **Boulder toss** (CD 20s, alcance 10m, casteo 0.62s)
-
----
-
-## Puños Morgana (2H)
-
-**Q (slot 1):**
-- **Create opening** (sin CD, alcance 2.5m)
-  - -80 daño físico
-- **Dashkick** (CD 4s, alcance 4m)
-- **Crossstep roundhouse** (CD 2s, alcance 5m)
-- **Shockwave punch** (CD 3.5s, alcance 13m)
-
-**W (slot 2) — elegís una:**
-- **Triple kick** (CD 18s, alcance 11m)
-- **Backhand knockback** (CD 15s, alcance 6m)
-- **Knuckle counter** (CD 15s)
-- **Knucklecombo** (CD 15s, alcance 2m)
-
-**E (slot 3 — definitiva):**
-- **Growing punch** (CD 30s)
+**E — definitiva:**
+- **Gravitational Collapse** (CD 20s, 13m, cast 0.6s)
 
 ---
 
-## KNUCKLES AVALON (2H)
+## Adept's Ursine Maulers (2H)
 
-**Q (slot 1):**
-- **Create opening** (sin CD, alcance 2.5m)
-  - -80 daño físico
-- **Dashkick** (CD 4s, alcance 4m)
-- **Crossstep roundhouse** (CD 2s, alcance 5m)
-- **Shockwave punch** (CD 3.5s, alcance 13m)
+**Q:**
+- **Create Opening** (sin CD, 2.5m) — -80 daño físico
+- **Dragon Leap** (CD 4s, 4m)
+- **Fleet Footwork** (CD 2s, 5m)
+- **Shockwave** (CD 3.5s, 13m)
 
-**W (slot 2) — elegís una:**
-- **Triple kick** (CD 18s, alcance 11m)
-- **Backhand knockback** (CD 15s, alcance 6m)
-- **Knuckle counter** (CD 15s)
-- **Knucklecombo** (CD 15s, alcance 2m)
+**W (elegís uno):**
+- **Triple Kick** (CD 18s, 11m)
+- **Backhand Strike** (CD 15s, 6m)
+- **Counter** (CD 15s)
+- **Devastating Combo** (CD 15s, 2m)
 
-**E (slot 3 — definitiva):**
-- **Triplecombo divekick** (CD 25s, alcance 12m)
+**E — definitiva:**
+- **Hundred Striking Fists** (CD 20s, 11m, cast 0.5s)
 
 ---
 
-## Puños de Cristal (2H)
+## Adept's Hellfire Hands (2H)
 
-**Q (slot 1):**
-- **Create opening** (sin CD, alcance 2.5m)
-  - -80 daño físico
-- **Dashkick** (CD 4s, alcance 4m)
-- **Crossstep roundhouse** (CD 2s, alcance 5m)
-- **Shockwave punch** (CD 3.5s, alcance 13m)
+**Q:**
+- **Create Opening** (sin CD, 2.5m) — -80 daño físico
+- **Dragon Leap** (CD 4s, 4m)
+- **Fleet Footwork** (CD 2s, 5m)
+- **Shockwave** (CD 3.5s, 13m)
 
-**W (slot 2) — elegís una:**
-- **Triple kick** (CD 18s, alcance 11m)
-- **Backhand knockback** (CD 15s, alcance 6m)
-- **Knuckle counter** (CD 15s)
-- **Knucklecombo** (CD 15s, alcance 2m)
+**W (elegís uno):**
+- **Triple Kick** (CD 18s, 11m)
+- **Backhand Strike** (CD 15s, 6m)
+- **Counter** (CD 15s)
+- **Devastating Combo** (CD 15s, 2m)
 
-**E (slot 3 — definitiva):**
-- **Conepunch2** (CD 15s, alcance 9m)
+**E — definitiva:**
+- **Infernal Boulder** (CD 20s, 10m, cast 0.62s)
+
+---
+
+## Adept's Ravenstrike Cestus (2H)
+
+**Q:**
+- **Create Opening** (sin CD, 2.5m) — -80 daño físico
+- **Dragon Leap** (CD 4s, 4m)
+- **Fleet Footwork** (CD 2s, 5m)
+- **Shockwave** (CD 3.5s, 13m)
+
+**W (elegís uno):**
+- **Triple Kick** (CD 18s, 11m)
+- **Backhand Strike** (CD 15s, 6m)
+- **Counter** (CD 15s)
+- **Devastating Combo** (CD 15s, 2m)
+
+**E — definitiva:**
+- **Earth Crusher** (CD 30s)
+
+---
+
+## Adept's Fists of Avalon (2H)
+
+**Q:**
+- **Create Opening** (sin CD, 2.5m) — -80 daño físico
+- **Dragon Leap** (CD 4s, 4m)
+- **Fleet Footwork** (CD 2s, 5m)
+- **Shockwave** (CD 3.5s, 13m)
+
+**W (elegís uno):**
+- **Triple Kick** (CD 18s, 11m)
+- **Backhand Strike** (CD 15s, 6m)
+- **Counter** (CD 15s)
+- **Devastating Combo** (CD 15s, 2m)
+
+**E — definitiva:**
+- **Purifying Combination** (CD 25s, 12m)
+
+---
+
+## Knuckles Crystal (2H)
+
+**Q:**
+- **Create Opening** (sin CD, 2.5m) — -80 daño físico
+- **Dragon Leap** (CD 4s, 4m)
+- **Fleet Footwork** (CD 2s, 5m)
+- **Shockwave** (CD 3.5s, 13m)
+
+**W (elegís uno):**
+- **Triple Kick** (CD 18s, 11m)
+- **Backhand Strike** (CD 15s, 6m)
+- **Counter** (CD 15s)
+- **Devastating Combo** (CD 15s, 2m)
+
+**E — definitiva:**
+- **Conepunch2** (CD 15s, 9m)
 
 ---

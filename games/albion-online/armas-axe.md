@@ -1,183 +1,155 @@
-# 🪓 Hachas en Albion Online
+# Hachas — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-DPS físico sostenido, buenas opciones de AoE y debuffs.
+## Adept's Battleaxe (1H)
 
----
+**Q:**
+- **Rending Strike** (CD 2s, 3m) — -59 daño físico
+- **Rending Spin** (CD 3s, 5m)
+- **Rending Rage** (sin CD, 3m)
 
-## Hacha (1H)
+**W (elegís uno):**
+- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Adrenaline Boost** (CD 20s)
+- **Battle Rush** (CD 18s, 12m)
+- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Raging Blades** (CD 12s, 5m)
 
-**Q (slot 1):**
-- **Rendingstrike** (CD 2s, alcance 3m)
-  - -59 daño físico
-- **Rendingspin** (CD 3s, alcance 5m)
-- **Rendingcombo** (sin CD, alcance 3m)
-
-**W (slot 2) — elegís una:**
-- **Axesmash** (CD 15s, alcance 3m, casteo 0.4s)
-  - -152 daño físico
-- **Axeboost** (CD 20s)
-- **Axe charge** (CD 18s, alcance 12m)
-- **Innerbleeding** (CD 15s, alcance 6m)
-  - -59 daño físico AoE 6m
-- **Blade aura** (CD 12s, alcance 5m)
-
-**E (slot 3 — definitiva):**
-- **Axethrow** (CD 10s, alcance 18m)
+**E — definitiva:**
+- **Blood Bandit** (CD 10s, 18m)
 
 ---
 
-## Hacha 2H (2H)
+## Adept's Greataxe (2H)
 
-**Q (slot 1):**
-- **Rendingstrike** (CD 2s, alcance 3m)
-  - -59 daño físico
-- **Rendingspin** (CD 3s, alcance 5m)
-- **Rendingcombo** (sin CD, alcance 3m)
+**Q:**
+- **Rending Strike** (CD 2s, 3m) — -59 daño físico
+- **Rending Spin** (CD 3s, 5m)
+- **Rending Rage** (sin CD, 3m)
 
-**W (slot 2) — elegís una:**
-- **Axesmash** (CD 15s, alcance 3m, casteo 0.4s)
-  - -152 daño físico
-- **Axeboost** (CD 20s)
-- **Axe charge** (CD 18s, alcance 12m)
-- **Innerbleeding** (CD 15s, alcance 6m)
-  - -59 daño físico AoE 6m
-- **Blade aura** (CD 12s, alcance 5m)
+**W (elegís uno):**
+- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Adrenaline Boost** (CD 20s)
+- **Battle Rush** (CD 18s, 12m)
+- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Raging Blades** (CD 12s, 5m)
 
-**E (slot 3 — definitiva):**
-- **Axewhirlwind2** (CD 25s, alcance 5m)
+**E — definitiva:**
+- **Whirlwind** (CD 25s, 5m)
 
 ---
 
-## Alabarda (2H)
+## Adept's Halberd (2H)
 
-**Q (slot 1):**
-- **Rendingstrike** (CD 2s, alcance 3m)
-  - -59 daño físico
-- **Rendingspin** (CD 3s, alcance 5m)
-- **Rendingcombo** (sin CD, alcance 3m)
+**Q:**
+- **Rending Strike** (CD 2s, 3m) — -59 daño físico
+- **Rending Spin** (CD 3s, 5m)
+- **Rending Rage** (sin CD, 3m)
 
-**W (slot 2) — elegís una:**
-- **Axesmash** (CD 15s, alcance 3m, casteo 0.4s)
-  - -152 daño físico
-- **Axeboost** (CD 20s)
-- **Axe charge** (CD 18s, alcance 12m)
-- **Innerbleeding** (CD 15s, alcance 6m)
-  - -59 daño físico AoE 6m
-- **Blade aura** (CD 12s, alcance 5m)
+**W (elegís uno):**
+- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Adrenaline Boost** (CD 20s)
+- **Battle Rush** (CD 18s, 12m)
+- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Raging Blades** (CD 12s, 5m)
 
-**E (slot 3 — definitiva):**
-- **Rendingswing** (CD 15s, alcance 7m)
+**E — definitiva:**
+- **Tear Apart** (CD 15s, 7m)
 
 ---
 
-## HALBERD MORGANA (2H)
+## Adept's Carrioncaller (2H)
 
-**Q (slot 1):**
-- **Rendingstrike** (CD 2s, alcance 3m)
-  - -59 daño físico
-- **Rendingspin** (CD 3s, alcance 5m)
-- **Rendingcombo** (sin CD, alcance 3m)
+**Q:**
+- **Rending Strike** (CD 2s, 3m) — -59 daño físico
+- **Rending Spin** (CD 3s, 5m)
+- **Rending Rage** (sin CD, 3m)
 
-**W (slot 2) — elegís una:**
-- **Axesmash** (CD 15s, alcance 3m, casteo 0.4s)
-  - -152 daño físico
-- **Axeboost** (CD 20s)
-- **Axe charge** (CD 18s, alcance 12m)
-- **Innerbleeding** (CD 15s, alcance 6m)
-  - -59 daño físico AoE 6m
-- **Blade aura** (CD 12s, alcance 5m)
+**W (elegís uno):**
+- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Adrenaline Boost** (CD 20s)
+- **Battle Rush** (CD 18s, 12m)
+- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Raging Blades** (CD 12s, 5m)
 
-**E (slot 3 — definitiva):**
-- **Shockwave** (CD 15s, alcance 20m)
+**E — definitiva:**
+- **Morgana Raven** (CD 15s, 20m)
 
 ---
 
-## SCYTHE HELL (2H)
+## Adept's Infernal Scythe (2H)
 
-**Q (slot 1):**
-- **Rendingstrike** (CD 2s, alcance 3m)
-  - -59 daño físico
-- **Rendingspin** (CD 3s, alcance 5m)
-- **Rendingcombo** (sin CD, alcance 3m)
+**Q:**
+- **Rending Strike** (CD 2s, 3m) — -59 daño físico
+- **Rending Spin** (CD 3s, 5m)
+- **Rending Rage** (sin CD, 3m)
 
-**W (slot 2) — elegís una:**
-- **Axesmash** (CD 15s, alcance 3m, casteo 0.4s)
-  - -152 daño físico
-- **Axeboost** (CD 20s)
-- **Axe charge** (CD 18s, alcance 12m)
-- **Innerbleeding** (CD 15s, alcance 6m)
-  - -59 daño físico AoE 6m
-- **Blade aura** (CD 12s, alcance 5m)
+**W (elegís uno):**
+- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Adrenaline Boost** (CD 20s)
+- **Battle Rush** (CD 18s, 12m)
+- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Raging Blades** (CD 12s, 5m)
 
-**E (slot 3 — definitiva):**
-- **Scytheswing** (CD 20s)
+**E — definitiva:**
+- **Bloody Reap** (CD 20s)
 
 ---
 
-## DUALAXE KEEPER (2H)
+## Adept's Bear Paws (2H)
 
-**Q (slot 1):**
-- **Rendingstrike** (CD 2s, alcance 3m)
-  - -59 daño físico
-- **Rendingspin** (CD 3s, alcance 5m)
-- **Rendingcombo** (sin CD, alcance 3m)
+**Q:**
+- **Rending Strike** (CD 2s, 3m) — -59 daño físico
+- **Rending Spin** (CD 3s, 5m)
+- **Rending Rage** (sin CD, 3m)
 
-**W (slot 2) — elegís una:**
-- **Axesmash** (CD 15s, alcance 3m, casteo 0.4s)
-  - -152 daño físico
-- **Axeboost** (CD 20s)
-- **Axe charge** (CD 18s, alcance 12m)
-- **Innerbleeding** (CD 15s, alcance 6m)
-  - -59 daño físico AoE 6m
-- **Blade aura** (CD 12s, alcance 5m)
+**W (elegís uno):**
+- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Adrenaline Boost** (CD 20s)
+- **Battle Rush** (CD 18s, 12m)
+- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Raging Blades** (CD 12s, 5m)
 
-**E (slot 3 — definitiva):**
-- **Dualaxe crawler** (CD 20s, alcance 8m)
+**E — definitiva:**
+- **Razor Cut** (CD 20s, 8m)
 
 ---
 
-## AXE AVALON (2H)
+## Adept's Realmbreaker (2H)
 
-**Q (slot 1):**
-- **Rendingstrike** (CD 2s, alcance 3m)
-  - -59 daño físico
-- **Rendingspin** (CD 3s, alcance 5m)
-- **Rendingcombo** (sin CD, alcance 3m)
+**Q:**
+- **Rending Strike** (CD 2s, 3m) — -59 daño físico
+- **Rending Spin** (CD 3s, 5m)
+- **Rending Rage** (sin CD, 3m)
 
-**W (slot 2) — elegís una:**
-- **Axesmash** (CD 15s, alcance 3m, casteo 0.4s)
-  - -152 daño físico
-- **Axeboost** (CD 20s)
-- **Axe charge** (CD 18s, alcance 12m)
-- **Innerbleeding** (CD 15s, alcance 6m)
-  - -59 daño físico AoE 6m
-- **Blade aura** (CD 12s, alcance 5m)
+**W (elegís uno):**
+- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Adrenaline Boost** (CD 20s)
+- **Battle Rush** (CD 18s, 12m)
+- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Raging Blades** (CD 12s, 5m)
 
-**E (slot 3 — definitiva):**
-- **Lethal cleaver** (CD 25s, alcance 10m)
+**E — definitiva:**
+- **Aftershock** (CD 25s, 10m)
 
 ---
 
-## SCYTHE CRYSTAL (2H)
+## Scythe Crystal (2H)
 
-**Q (slot 1):**
-- **Rendingstrike** (CD 2s, alcance 3m)
-  - -59 daño físico
-- **Rendingspin** (CD 3s, alcance 5m)
-- **Rendingcombo** (sin CD, alcance 3m)
+**Q:**
+- **Rending Strike** (CD 2s, 3m) — -59 daño físico
+- **Rending Spin** (CD 3s, 5m)
+- **Rending Rage** (sin CD, 3m)
 
-**W (slot 2) — elegís una:**
-- **Axesmash** (CD 15s, alcance 3m, casteo 0.4s)
-  - -152 daño físico
-- **Axeboost** (CD 20s)
-- **Axe charge** (CD 18s, alcance 12m)
-- **Innerbleeding** (CD 15s, alcance 6m)
-  - -59 daño físico AoE 6m
-- **Blade aura** (CD 12s, alcance 5m)
+**W (elegís uno):**
+- **Deadly Chop** (CD 15s, 3m, cast 0.4s) — -152 daño físico
+- **Adrenaline Boost** (CD 20s)
+- **Battle Rush** (CD 18s, 12m)
+- **Internal Bleeding** (CD 15s, 6m) — -59 daño físico AoE 6m
+- **Raging Blades** (CD 12s, 5m)
 
-**E (slot 3 — definitiva):**
-- **Crystal scythe dash zone** (CD 3s, alcance 3m)
+**E — definitiva:**
+- **Crystal Scythe Dash Zone** (CD 3s, 3m)
 
 ---

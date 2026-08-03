@@ -1,185 +1,155 @@
-# 🔨 Martillos en Albion Online
+# Martillos — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Daño pesado y CC fuerte. Esenciales para ZvZ como disruptores.
+## Adept's Hammer (1H)
 
----
+**Q:**
+- **Hammer Shove** (CD 4s, 2m)
+- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
+- **Iron Breaker** (CD 6s, 3m)
 
-## Martillo (1H)
+**W (elegís uno):**
+- **Hammer Tremor** (CD 10s, 3m)
+- **Slowing Charge** (CD 15s, 12m)
+- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **Knockout** (CD 15s, 1.5m) — -57 daño físico
+- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
 
-**Q (slot 1):**
-- **Hammer shove** (CD 4s, alcance 2m)
-- **Threateningstrike hammer** (CD 2s, alcance 3m)
-  - -100 daño físico
-- **Ironbreaker** (CD 6s, alcance 3m)
-
-**W (slot 2) — elegís una:**
-- **Hammer tremor** (CD 10s, alcance 3m)
-- **Chargeslowae** (CD 15s, alcance 12m)
-- **Geyser** (CD 10s, alcance 11m)
-  - -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, alcance 1.5m)
-  - -57 daño físico
-- **Tar ring** (CD 20s, alcance 8m, casteo 0.5s)
-
-**E (slot 3 — definitiva):**
-- **Hammerwhirlwind2** (CD 15s)
-  - -67 daño físico AoE 5.5m
+**E — definitiva:**
+- **Earth Shatter** (CD 15s) — -67 daño físico AoE 5.5m
 
 ---
 
-## Martillo de Asta (2H)
+## Adept's Polehammer (2H)
 
-**Q (slot 1):**
-- **Hammer shove** (CD 4s, alcance 2m)
-- **Threateningstrike hammer** (CD 2s, alcance 3m)
-  - -100 daño físico
-- **Ironbreaker** (CD 6s, alcance 3m)
+**Q:**
+- **Hammer Shove** (CD 4s, 2m)
+- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
+- **Iron Breaker** (CD 6s, 3m)
 
-**W (slot 2) — elegís una:**
-- **Hammer tremor** (CD 10s, alcance 3m)
-- **Chargeslowae** (CD 15s, alcance 12m)
-- **Geyser** (CD 10s, alcance 11m)
-  - -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, alcance 1.5m)
-  - -57 daño físico
-- **Tar ring** (CD 20s, alcance 8m, casteo 0.5s)
+**W (elegís uno):**
+- **Hammer Tremor** (CD 10s, 3m)
+- **Slowing Charge** (CD 15s, 12m)
+- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **Knockout** (CD 15s, 1.5m) — -57 daño físico
+- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
 
-**E (slot 3 — definitiva):**
-- **Groundbreaker2** (CD 15s, alcance 20m)
+**E — definitiva:**
+- **Groundbreaker** (CD 15s, 20m)
 
 ---
 
-## Martillo 2H (2H)
+## Adept's Great Hammer (2H)
 
-**Q (slot 1):**
-- **Hammer shove** (CD 4s, alcance 2m)
-- **Threateningstrike hammer** (CD 2s, alcance 3m)
-  - -100 daño físico
-- **Ironbreaker** (CD 6s, alcance 3m)
+**Q:**
+- **Hammer Shove** (CD 4s, 2m)
+- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
+- **Iron Breaker** (CD 6s, 3m)
 
-**W (slot 2) — elegís una:**
-- **Hammer tremor** (CD 10s, alcance 3m)
-- **Chargeslowae** (CD 15s, alcance 12m)
-- **Geyser** (CD 10s, alcance 11m)
-  - -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, alcance 1.5m)
-  - -57 daño físico
-- **Tar ring** (CD 20s, alcance 8m, casteo 0.5s)
+**W (elegís uno):**
+- **Hammer Tremor** (CD 10s, 3m)
+- **Slowing Charge** (CD 15s, 12m)
+- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **Knockout** (CD 15s, 1.5m) — -57 daño físico
+- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
 
-**E (slot 3 — definitiva):**
-- **Hammertackle** (CD 20s, alcance 11m)
+**E — definitiva:**
+- **Tackle** (CD 20s, 11m)
 
 ---
 
-## HAMMER UNDEAD (2H)
+## Adept's Tombhammer (2H)
 
-**Q (slot 1):**
-- **Hammer shove** (CD 4s, alcance 2m)
-- **Threateningstrike hammer** (CD 2s, alcance 3m)
-  - -100 daño físico
-- **Ironbreaker** (CD 6s, alcance 3m)
+**Q:**
+- **Hammer Shove** (CD 4s, 2m)
+- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
+- **Iron Breaker** (CD 6s, 3m)
 
-**W (slot 2) — elegís una:**
-- **Hammer tremor** (CD 10s, alcance 3m)
-- **Chargeslowae** (CD 15s, alcance 12m)
-- **Geyser** (CD 10s, alcance 11m)
-  - -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, alcance 1.5m)
-  - -57 daño físico
-- **Tar ring** (CD 20s, alcance 8m, casteo 0.5s)
+**W (elegís uno):**
+- **Hammer Tremor** (CD 10s, 3m)
+- **Slowing Charge** (CD 15s, 12m)
+- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **Knockout** (CD 15s, 1.5m) — -57 daño físico
+- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
 
-**E (slot 3 — definitiva):**
-- **Undeadhand** (CD 14s, alcance 12m)
-  - -100 daño físico AoE 2.5m
+**E — definitiva:**
+- **Grasp of the Undead** (CD 14s, 12m) — -100 daño físico AoE 2.5m
 
 ---
 
-## DUALHAMMER HELL (2H)
+## Adept's Forge Hammers (2H)
 
-**Q (slot 1):**
-- **Hammer shove** (CD 4s, alcance 2m)
-- **Threateningstrike hammer** (CD 2s, alcance 3m)
-  - -100 daño físico
-- **Ironbreaker** (CD 6s, alcance 3m)
+**Q:**
+- **Hammer Shove** (CD 4s, 2m)
+- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
+- **Iron Breaker** (CD 6s, 3m)
 
-**W (slot 2) — elegís una:**
-- **Hammer tremor** (CD 10s, alcance 3m)
-- **Chargeslowae** (CD 15s, alcance 12m)
-- **Geyser** (CD 10s, alcance 11m)
-  - -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, alcance 1.5m)
-  - -57 daño físico
-- **Tar ring** (CD 20s, alcance 8m, casteo 0.5s)
+**W (elegís uno):**
+- **Hammer Tremor** (CD 10s, 3m)
+- **Slowing Charge** (CD 15s, 12m)
+- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **Knockout** (CD 15s, 1.5m) — -57 daño físico
+- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
 
-**E (slot 3 — definitiva):**
-- **Giantsteps** (CD 30s)
+**E — definitiva:**
+- **Giant Steps** (CD 30s)
 
 ---
 
-## RAM KEEPER (2H)
+## Adept's Grovekeeper (2H)
 
-**Q (slot 1):**
-- **Hammer shove** (CD 4s, alcance 2m)
-- **Threateningstrike hammer** (CD 2s, alcance 3m)
-  - -100 daño físico
-- **Ironbreaker** (CD 6s, alcance 3m)
+**Q:**
+- **Hammer Shove** (CD 4s, 2m)
+- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
+- **Iron Breaker** (CD 6s, 3m)
 
-**W (slot 2) — elegís una:**
-- **Hammer tremor** (CD 10s, alcance 3m)
-- **Chargeslowae** (CD 15s, alcance 12m)
-- **Geyser** (CD 10s, alcance 11m)
-  - -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, alcance 1.5m)
-  - -57 daño físico
-- **Tar ring** (CD 20s, alcance 8m, casteo 0.5s)
+**W (elegís uno):**
+- **Hammer Tremor** (CD 10s, 3m)
+- **Slowing Charge** (CD 15s, 12m)
+- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **Knockout** (CD 15s, 1.5m) — -57 daño físico
+- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
 
-**E (slot 3 — definitiva):**
-- **Ram charge** (CD 30s, alcance 16m, casteo 0.4s)
+**E — definitiva:**
+- **Ground Pound** (CD 30s, 16m, cast 0.4s)
 
 ---
 
-## HAMMER AVALON (2H)
+## Adept's Hand of Justice (2H)
 
-**Q (slot 1):**
-- **Hammer shove** (CD 4s, alcance 2m)
-- **Threateningstrike hammer** (CD 2s, alcance 3m)
-  - -100 daño físico
-- **Ironbreaker** (CD 6s, alcance 3m)
+**Q:**
+- **Hammer Shove** (CD 4s, 2m)
+- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
+- **Iron Breaker** (CD 6s, 3m)
 
-**W (slot 2) — elegís una:**
-- **Hammer tremor** (CD 10s, alcance 3m)
-- **Chargeslowae** (CD 15s, alcance 12m)
-- **Geyser** (CD 10s, alcance 11m)
-  - -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, alcance 1.5m)
-  - -57 daño físico
-- **Tar ring** (CD 20s, alcance 8m, casteo 0.5s)
+**W (elegís uno):**
+- **Hammer Tremor** (CD 10s, 3m)
+- **Slowing Charge** (CD 15s, 12m)
+- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **Knockout** (CD 15s, 1.5m) — -57 daño físico
+- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
 
-**E (slot 3 — definitiva):**
-- **Spinning smash** (CD 30s, alcance 13m)
+**E — definitiva:**
+- **Onslaught** (CD 30s, 13m)
 
 ---
 
-## HAMMER CRYSTAL (2H)
+## Hammer Crystal (2H)
 
-**Q (slot 1):**
-- **Hammer shove** (CD 4s, alcance 2m)
-- **Threateningstrike hammer** (CD 2s, alcance 3m)
-  - -100 daño físico
-- **Ironbreaker** (CD 6s, alcance 3m)
+**Q:**
+- **Hammer Shove** (CD 4s, 2m)
+- **Threatening Strike** (CD 2s, 3m) — -100 daño físico
+- **Iron Breaker** (CD 6s, 3m)
 
-**W (slot 2) — elegís una:**
-- **Hammer tremor** (CD 10s, alcance 3m)
-- **Chargeslowae** (CD 15s, alcance 12m)
-- **Geyser** (CD 10s, alcance 11m)
-  - -55 daño mágico AoE 3m
-- **Knockout** (CD 15s, alcance 1.5m)
-  - -57 daño físico
-- **Tar ring** (CD 20s, alcance 8m, casteo 0.5s)
+**W (elegís uno):**
+- **Hammer Tremor** (CD 10s, 3m)
+- **Slowing Charge** (CD 15s, 12m)
+- **Power Geyser** (CD 10s, 11m) — -55 daño mágico AoE 3m
+- **Knockout** (CD 15s, 1.5m) — -57 daño físico
+- **Inertia Ring** (CD 20s, 8m, cast 0.5s)
 
-**E (slot 3 — definitiva):**
-- **Crystalwave** (CD 25s, alcance 15m)
+**E — definitiva:**
+- **Crystalwave** (CD 25s, 15m)
 
 ---

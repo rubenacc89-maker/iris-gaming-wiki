@@ -1,167 +1,155 @@
-# ⚔️ Espadas en Albion Online
+# Espadas — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Versátiles, buenas en 1v1 y PvE. Mezclan daño, CC y supervivencia.
+## Adept's Broadsword (1H)
 
----
+**Q:**
+- **Heroic Strike** (CD 3s, 3.5m)
+- **Heroic Cleave** (CD 3s, 6m)
 
-## Espada (1H)
+**W (elegís uno):**
+- **Blade Cyclone** (CD 12s, 9m)
+- **Interrupt** (CD 10s, 3m) — -78 daño físico
+- **Splitting Slash** (CD 15s, 13m)
+- **Hamstring** (CD 6s, 3m)
+- **Parry Strike** (CD 15s)
+- **Iron Will** (CD 20s)
 
-**Q (slot 1):**
-- **Golpe Heroico** (CD 3s, alcance 3.5m)
-- **Hendidura** (CD 3s, alcance 6m)
-
-**W (slot 2) — elegís una:**
-- **Giro de Espada** (CD 12s, alcance 9m)
-- **Interrupción** (CD 10s, alcance 3m)
-  - -78 daño físico
-- **Tajo Partido** (CD 15s, alcance 13m)
-- **Tendón Cortado** (CD 6s, alcance 3m)
-- **Parada** (CD 15s)
-- **Carrera Defensiva** (CD 20s)
-
-**E (slot 3 — definitiva):**
-- **Golpe Poderoso** (CD 12s, alcance 8m)
+**E — definitiva:**
+- **Mighty Blow** (CD 12s, 8m)
 
 ---
 
-## Claymore (2H)
+## Adept's Claymore (2H)
 
-**Q (slot 1):**
-- **Golpe Heroico** (CD 3s, alcance 3.5m)
-- **Hendidura** (CD 3s, alcance 6m)
+**Q:**
+- **Heroic Strike** (CD 3s, 3.5m)
+- **Heroic Cleave** (CD 3s, 6m)
 
-**W (slot 2) — elegís una:**
-- **Giro de Espada** (CD 12s, alcance 9m)
-- **Interrupción** (CD 10s, alcance 3m)
-  - -78 daño físico
-- **Tajo Partido** (CD 15s, alcance 13m)
-- **Tendón Cortado** (CD 6s, alcance 3m)
-- **Parada** (CD 15s)
-- **Carrera Defensiva** (CD 20s)
+**W (elegís uno):**
+- **Blade Cyclone** (CD 12s, 9m)
+- **Interrupt** (CD 10s, 3m) — -78 daño físico
+- **Splitting Slash** (CD 15s, 13m)
+- **Hamstring** (CD 6s, 3m)
+- **Parry Strike** (CD 15s)
+- **Iron Will** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Carga de Claymore** (CD 20s, alcance 13m, casteo 0.4s)
-
----
-
-## Espadas Dobles (2H)
-
-**Q (slot 1):**
-- **Golpe Heroico** (CD 3s, alcance 3.5m)
-- **Hendidura** (CD 3s, alcance 6m)
-
-**W (slot 2) — elegís una:**
-- **Giro de Espada** (CD 12s, alcance 9m)
-- **Interrupción** (CD 10s, alcance 3m)
-  - -78 daño físico
-- **Tajo Partido** (CD 15s, alcance 13m)
-- **Tendón Cortado** (CD 6s, alcance 3m)
-- **Parada** (CD 15s)
-- **Carrera Defensiva** (CD 20s)
-
-**E (slot 3 — definitiva):**
-- **Spinattack** (CD 15s, alcance 13m)
+**E — definitiva:**
+- **Charge** (CD 20s, 13m, cast 0.4s)
 
 ---
 
-## SCIMITAR MORGANA (1H)
+## Adept's Dual Swords (2H)
 
-**Q (slot 1):**
-- **Golpe Heroico** (CD 3s, alcance 3.5m)
-- **Hendidura** (CD 3s, alcance 6m)
+**Q:**
+- **Heroic Strike** (CD 3s, 3.5m)
+- **Heroic Cleave** (CD 3s, 6m)
 
-**W (slot 2) — elegís una:**
-- **Giro de Espada** (CD 12s, alcance 9m)
-- **Interrupción** (CD 10s, alcance 3m)
-  - -78 daño físico
-- **Tajo Partido** (CD 15s, alcance 13m)
-- **Tendón Cortado** (CD 6s, alcance 3m)
-- **Parada** (CD 15s)
-- **Carrera Defensiva** (CD 20s)
+**W (elegís uno):**
+- **Blade Cyclone** (CD 12s, 9m)
+- **Interrupt** (CD 10s, 3m) — -78 daño físico
+- **Splitting Slash** (CD 15s, 13m)
+- **Hamstring** (CD 6s, 3m)
+- **Parry Strike** (CD 15s)
+- **Iron Will** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Mightyswing** (CD 15s, alcance 20m)
-
----
-
-## CLEAVER HELL (2H)
-
-**Q (slot 1):**
-- **Golpe Heroico** (CD 3s, alcance 3.5m)
-- **Hendidura** (CD 3s, alcance 6m)
-
-**W (slot 2) — elegís una:**
-- **Giro de Espada** (CD 12s, alcance 9m)
-- **Interrupción** (CD 10s, alcance 3m)
-  - -78 daño físico
-- **Tajo Partido** (CD 15s, alcance 13m)
-- **Tendón Cortado** (CD 6s, alcance 3m)
-- **Parada** (CD 15s)
-- **Carrera Defensiva** (CD 20s)
-
-**E (slot 3 — definitiva):**
-- **Claymoreslash** (CD 25s, alcance 11m)
+**E — definitiva:**
+- **Spinning Blades** (CD 15s, 13m)
 
 ---
 
-## DUALSCIMITAR UNDEAD (2H)
+## Adept's Clarent Blade (1H)
 
-**Q (slot 1):**
-- **Golpe Heroico** (CD 3s, alcance 3.5m)
-- **Hendidura** (CD 3s, alcance 6m)
+**Q:**
+- **Heroic Strike** (CD 3s, 3.5m)
+- **Heroic Cleave** (CD 3s, 6m)
 
-**W (slot 2) — elegís una:**
-- **Giro de Espada** (CD 12s, alcance 9m)
-- **Interrupción** (CD 10s, alcance 3m)
-  - -78 daño físico
-- **Tajo Partido** (CD 15s, alcance 13m)
-- **Tendón Cortado** (CD 6s, alcance 3m)
-- **Parada** (CD 15s)
-- **Carrera Defensiva** (CD 20s)
+**W (elegís uno):**
+- **Blade Cyclone** (CD 12s, 9m)
+- **Interrupt** (CD 10s, 3m) — -78 daño físico
+- **Splitting Slash** (CD 15s, 13m)
+- **Hamstring** (CD 6s, 3m)
+- **Parry Strike** (CD 15s)
+- **Iron Will** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Blade area** (CD 30s, casteo 0.9s)
-
----
-
-## CLAYMORE AVALON (2H)
-
-**Q (slot 1):**
-- **Golpe Heroico** (CD 3s, alcance 3.5m)
-- **Hendidura** (CD 3s, alcance 6m)
-
-**W (slot 2) — elegís una:**
-- **Giro de Espada** (CD 12s, alcance 9m)
-- **Interrupción** (CD 10s, alcance 3m)
-  - -78 daño físico
-- **Tajo Partido** (CD 15s, alcance 13m)
-- **Tendón Cortado** (CD 6s, alcance 3m)
-- **Parada** (CD 15s)
-- **Carrera Defensiva** (CD 20s)
-
-**E (slot 3 — definitiva):**
-- **Majestic smash** (CD 20s, alcance 6m)
+**E — definitiva:**
+- **Crescent Slash** (CD 15s, 20m)
 
 ---
 
-## Espada de Cristal (1H)
+## Adept's Carving Sword (2H)
 
-**Q (slot 1):**
-- **Golpe Heroico** (CD 3s, alcance 3.5m)
-- **Hendidura** (CD 3s, alcance 6m)
+**Q:**
+- **Heroic Strike** (CD 3s, 3.5m)
+- **Heroic Cleave** (CD 3s, 6m)
 
-**W (slot 2) — elegís una:**
-- **Giro de Espada** (CD 12s, alcance 9m)
-- **Interrupción** (CD 10s, alcance 3m)
-  - -78 daño físico
-- **Tajo Partido** (CD 15s, alcance 13m)
-- **Tendón Cortado** (CD 6s, alcance 3m)
-- **Parada** (CD 15s)
-- **Carrera Defensiva** (CD 20s)
+**W (elegís uno):**
+- **Blade Cyclone** (CD 12s, 9m)
+- **Interrupt** (CD 10s, 3m) — -78 daño físico
+- **Splitting Slash** (CD 15s, 13m)
+- **Hamstring** (CD 6s, 3m)
+- **Parry Strike** (CD 15s)
+- **Iron Will** (CD 20s)
 
-**E (slot 3 — definitiva):**
-- **Sword berserk run re** (sin CD)
+**E — definitiva:**
+- **Fearless Strike** (CD 25s, 11m)
+
+---
+
+## Adept's Galatine Pair (2H)
+
+**Q:**
+- **Heroic Strike** (CD 3s, 3.5m)
+- **Heroic Cleave** (CD 3s, 6m)
+
+**W (elegís uno):**
+- **Blade Cyclone** (CD 12s, 9m)
+- **Interrupt** (CD 10s, 3m) — -78 daño físico
+- **Splitting Slash** (CD 15s, 13m)
+- **Hamstring** (CD 6s, 3m)
+- **Parry Strike** (CD 15s)
+- **Iron Will** (CD 20s)
+
+**E — definitiva:**
+- **Soulless Stream** (CD 30s, cast 0.9s)
+
+---
+
+## Adept's Kingmaker (2H)
+
+**Q:**
+- **Heroic Strike** (CD 3s, 3.5m)
+- **Heroic Cleave** (CD 3s, 6m)
+
+**W (elegís uno):**
+- **Blade Cyclone** (CD 12s, 9m)
+- **Interrupt** (CD 10s, 3m) — -78 daño físico
+- **Splitting Slash** (CD 15s, 13m)
+- **Hamstring** (CD 6s, 3m)
+- **Parry Strike** (CD 15s)
+- **Iron Will** (CD 20s)
+
+**E — definitiva:**
+- **Majestic Smash** (CD 20s, 6m)
+
+---
+
+## Sword Crystal (1H)
+
+**Q:**
+- **Heroic Strike** (CD 3s, 3.5m)
+- **Heroic Cleave** (CD 3s, 6m)
+
+**W (elegís uno):**
+- **Blade Cyclone** (CD 12s, 9m)
+- **Interrupt** (CD 10s, 3m) — -78 daño físico
+- **Splitting Slash** (CD 15s, 13m)
+- **Hamstring** (CD 6s, 3m)
+- **Parry Strike** (CD 15s)
+- **Iron Will** (CD 20s)
+
+**E — definitiva:**
+- **Sword Berserk Run Re** (sin CD)
 
 ---

@@ -1,165 +1,144 @@
-# 🗡️ Dagas en Albion Online
+# Dagas — Albion Online
 
-> Datos extraídos directamente de los archivos del juego (ao-bin-dumps). Valores exactos.
+> Datos extraídos de los archivos del juego.
 
-Altísima movilidad, ideales para ganking y builds de burst rápido.
+## Adept's Dagger (1H)
 
----
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-## Daga (1H)
-
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
-
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
 ---
 
-## Par de Dagas (2H)
+## Adept's Dagger Pair (2H)
 
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
-**E (slot 3 — definitiva):**
-- **Executedagger** (CD 15s, alcance 3m, casteo 0.4s)
+**E — definitiva:**
+- **Slit Throat** (CD 15s, 3m, cast 0.4s)
 
 ---
 
-## Garras (2H)
+## Adept's Claws (2H)
 
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
-**E (slot 3 — definitiva):**
-- **Disembowel** (CD 25s, alcance 2m)
+**E — definitiva:**
+- **Disembowel** (CD 25s, 2m)
 
 ---
 
-## RAPIER MORGANA (1H)
+## Adept's Bloodletter (1H)
 
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
-**E (slot 3 — definitiva):**
-- **Rapierstab** (CD 35s, alcance 11m)
+**E — definitiva:**
+- **Lunging Stabs** (CD 35s, 11m)
 
 ---
 
-## DAGGER HELL (1H)
+## Equipment Item (1H)
 
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
-**E (slot 3 — definitiva):**
-- **Blood blade** (sin CD, alcance 3m)
+**E — definitiva:**
+- **Blood Ritual** (sin CD, 3m)
 
 ---
 
-## DUALSICKLE UNDEAD (2H)
+## Adept's Deathgivers (2H)
 
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
-**E (slot 3 — definitiva):**
-- **Ghoststrike** (CD 25s, alcance 7m)
-  - -153 daño mágico
+**E — definitiva:**
+- **Ghost Strike** (CD 25s, 7m) — -153 daño mágico
 
 ---
 
-## DAGGER KATAR AVALON (2H)
+## Adept's Bridled Fury (2H)
 
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
-**E (slot 3 — definitiva):**
-- **Back slash** (CD 20s, alcance 6m)
+**E — definitiva:**
+- **Merciless Finish** (CD 20s, 6m)
 
 ---
 
-## DAGGERPAIR CRYSTAL (2H)
+## Daggerpair Crystal (2H)
 
-**Q (slot 1):**
-- **Sunderarmor2** (CD 2s, alcance 2m)
-  - -67 daño físico
-- **Qdash** (CD 4s, alcance 4.5m)
+**Q:**
+- **Sunder Armor** (CD 2s, 2m) — -67 daño físico
+- **Deadly Swipe** (CD 4s, 4.5m)
 
-**W (slot 2) — elegís una:**
-- **Throwingblades** (CD 15s, alcance 12m)
-- **Grounddash** (CD 23.5s, alcance 8m)
-- **Deepcuts** (CD 15s, alcance 2m)
-  - -84 daño físico
-- **Skillshot teleport** (CD 20s, alcance 22m)
-- **Chaindash** (CD 15s, alcance 6m)
+**W (elegís uno):**
+- **Throwing Blades** (CD 15s, 12m)
+- **Dash** (CD 23.5s, 8m)
+- **Forbidden Stab** (CD 15s, 2m) — -84 daño físico
+- **Shadow Edge** (CD 20s, 22m)
+- **Chain Slash** (CD 15s, 6m)
 
-**E (slot 3 — definitiva):**
-- **Crystal dagger blade ring** (CD 1s, alcance 7m)
+**E — definitiva:**
+- **Crystal Dagger Blade Ring** (CD 1s, 7m)
 
 ---
