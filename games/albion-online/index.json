@@ -28,5 +28,11 @@
     "file": "recursos-refinado.md",
     "keywords": ["recurso", "recursos", "refinar", "refinado", "piel", "hide", "cuero", "leather", "madera", "wood", "tablón", "mineral", "ore", "metal", "metalbar", "fibra", "fiber", "tela", "cloth", "piedra", "rock", "bloque", "tier", "t4", "t5", "t6", "t7", "t8", "plata", "vender", "bonus", "ciudad", "multiplicador"],
     "updated": "2026-08-03"
+  },
+  {
+    "title": "Bastones de fuego — tipos y habilidades definitivas",
+    "file": "bastones-fuego.md",
+    "keywords": ["bastón", "baston", "fuego", "fire", "staff", "pyroblast", "meteor", "meteoro", "flamepillar", "pilar de llamas", "flame dash", "magmasphere", "esfera de magma", "keeper staff", "crystal staff", "infernal staff", "great fire staff", "arma", "mago", "hechicero", "habilidad", "definitiva", "E", "slot3"],
+    "updated": "2026-08-03"
   }
 ]
