@@ -284,16 +284,15 @@
     "title": "Cascos — habilidades activas y pasivas",
     "file": "armaduras-head.md",
     "keywords": [
-      "casco",
-      "helmet",
-      "cabeza",
-      "head",
-      "armadura",
-      "habilidad",
-      "armadura",
-      "pasiva",
-      "activa",
-      "slot"
+      "casco", "cabeza", "helmet", "head",
+      "línea del erudito", "línea del clérigo", "línea del mago", "línea del sectario",
+      "línea de la pureza", "línea del camaleón",
+      "línea del mercenario", "línea del cazador", "línea del asesino", "línea del acosador",
+      "línea del hellion", "línea del espectro", "línea de la tenacidad",
+      "línea del soldado", "línea del caballero", "línea del guardián",
+      "línea de la tumba", "línea del juicio", "línea del valor",
+      "tela", "cuero", "placa", "mago", "cazador", "guerrero",
+      "armadura", "habilidad", "pasiva", "activa"
     ],
     "updated": "2026-08-03"
   },
@@ -301,16 +300,12 @@
     "title": "Pecheras — habilidades activas y pasivas",
     "file": "armaduras-armor.md",
     "keywords": [
-      "pecho",
-      "chest",
-      "armadura",
-      "torso",
-      "pechera",
-      "habilidad",
-      "armadura",
-      "pasiva",
-      "activa",
-      "slot"
+      "pechera", "pecho", "torso", "chest",
+      "erudito", "clérigo", "sectario", "pureza", "camaleón",
+      "mercenario", "acosador", "hellion", "espectro", "tenacidad",
+      "soldado", "caballero", "guardián", "tumba", "juicio", "valor",
+      "tela", "cuero", "placa", "mago", "cazador", "guerrero",
+      "armadura", "habilidad", "pasiva", "activa"
     ],
     "updated": "2026-08-03"
   },
@@ -318,16 +313,12 @@
     "title": "Botas — habilidades activas y pasivas",
     "file": "armaduras-shoes.md",
     "keywords": [
-      "botas",
-      "shoes",
-      "pies",
-      "boots",
-      "armadura",
-      "habilidad",
-      "armadura",
-      "pasiva",
-      "activa",
-      "slot"
+      "botas", "pies", "shoes", "boots",
+      "erudito", "clérigo", "mago", "sectario", "pureza", "camaleón",
+      "mercenario", "cazador", "asesino", "acosador", "hellion", "espectro", "tenacidad",
+      "soldado", "caballero", "guardián", "tumba", "juicio", "valor",
+      "tela", "cuero", "placa",
+      "armadura", "habilidad", "pasiva", "activa"
     ],
     "updated": "2026-08-03"
   },
@@ -335,14 +326,35 @@
     "title": "Capas — habilidades activas y pasivas",
     "file": "armaduras-cape.md",
     "keywords": [
-      "capa",
-      "cape",
-      "accesorio",
-      "habilidad",
-      "armadura",
-      "pasiva",
-      "activa",
-      "slot"
+      "capa", "cape", "accesorio",
+      "capa de bridgewatch", "capa de lymhurst", "capa de fort sterling",
+      "capa de martlock", "capa de thetford", "capa de caerleon",
+      "capa de brecilien", "capa de avalon",
+      "armadura", "habilidad", "pasiva", "activa"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Armas secundarias — Escudos, Antorchas y Tomos",
+    "file": "armas-secundarias.md",
+    "keywords": [
+      "escudo", "sarcófago", "rompecaras", "égida astral",
+      "antorcha", "cetro sagrado", "neblina densa", "criptavelas",
+      "tomo", "libro de hechizos", "muérdago", "ojo de los secretos",
+      "raíz durmiente", "incensario",
+      "mano izquierda", "offhand", "secundaria", "escudo", "libro"
+    ],
+    "updated": "2026-08-03"
+  },
+  {
+    "title": "Equipo de recolección — herramientas y ropa",
+    "file": "equipo-recoleccion.md",
+    "keywords": [
+      "hacha de maderero", "pico de minero", "hoz de cosechador",
+      "cuchillo de peletero", "martillo de cantero", "caña de pescar",
+      "martillo de demolición", "herramienta",
+      "cosechador", "maderero", "minero", "peletero", "cantero", "pescador",
+      "ropa de recolector", "atuendo", "recolección", "oficio"
     ],
     "updated": "2026-08-03"
   },
@@ -350,17 +362,12 @@
     "title": "Monturas — tipos, velocidad y stats",
     "file": "monturas.md",
     "keywords": [
-      "montura",
-      "mount",
-      "caballo",
-      "ox",
-      "buey",
-      "direwolf",
-      "velocidad",
-      "speed",
-      "transporte",
-      "battle mount",
-      "combat mount"
+      "montura", "mount",
+      "mula", "caballo de montar", "buey de transporte", "jabalí domesticado",
+      "oso huargo", "mamut de transporte",
+      "lobo huargo", "garrapresta", "caballo blindado", "alce", "ciervo gigante",
+      "lagarto de plaga", "garra de la muerte",
+      "velocidad", "transporte", "combate", "battle mount"
     ],
     "updated": "2026-08-03"
   },
