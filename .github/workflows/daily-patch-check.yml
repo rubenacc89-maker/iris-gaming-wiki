@@ -116,6 +116,11 @@ jobs:
           node scripts/lol/build_lol_wiki.js "${{ steps.lol_check.outputs.lol_version }}" .
           echo "LoL articles regenerated"
 
+      # ── ARC RAIDERS ────────────────────────────────────────────────────────
+      # Arc Raiders usa wiki comunitaria, no tiene API oficial de datos.
+      # Los artículos se actualizan manualmente cuando hay cambios en el juego.
+      # steam_app_id: 2016590
+
       # ── STEAM PATCH DETECTION (para otros juegos sin repo de datos) ────────
       # Cuando agregues más juegos, añadí un step similar por juego
       # usando su steam_app_id del source.json

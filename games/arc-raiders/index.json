@@ -1,0 +1,71 @@
+[
+  {
+    "title": "ARCs — Tipos de Enemigos",
+    "file": "arcs-enemigos.md",
+    "keywords": [
+      "arc", "enemigo", "maquina", "matriarch", "queen", "bastion", "bombardier",
+      "leaper", "rocketeer", "fireball", "hornet", "sentinel", "spotter", "shredder",
+      "pop", "snitch", "tick", "turret", "wasp", "boss", "critico", "amenaza",
+      "mapa", "composicion", "presas", "puerto", "ciudad enterrada", "puerta azul",
+      "stella montis"
+    ],
+    "updated": "2026-08-05"
+  },
+  {
+    "title": "Armas — Catálogo Completo",
+    "file": "armas.md",
+    "keywords": [
+      "arma", "rifle", "asalto", "batalla", "subfusil", "smg", "ametralladora", "lmg",
+      "escopeta", "francotirador", "pistola", "canon", "arpegio", "bettina", "caldero",
+      "crotalo", "tempestad", "ferro", "renegado", "bobcat", "costurero", "ecualizador",
+      "torrente", "il toro", "vulcano", "jupiter", "osprey", "burletta", "horquilla",
+      "venator", "yunque", "afelio", "partecascos", "municion", "modificacion", "mod",
+      "rareza", "comun", "epico", "legendario"
+    ],
+    "updated": "2026-08-05"
+  },
+  {
+    "title": "Crafteo y El Refugio",
+    "file": "crafteo-refugio.md",
+    "keywords": [
+      "crafteo", "refugio", "base", "estacion", "armero", "banco", "refineria",
+      "explosivos", "laboratorio", "medico", "utilidad", "scrappy", "alijo",
+      "material", "aleacion arc", "tela resistente", "componente", "bateria",
+      "sensor", "procesador", "modulo exodo", "proyecto expedicion", "cinturon oxido",
+      "upgrade", "mejorar"
+    ],
+    "updated": "2026-08-05"
+  },
+  {
+    "title": "Comerciantes — Precios y Límites",
+    "file": "comerciantes.md",
+    "keywords": [
+      "comerciante", "tienda", "comprar", "precio", "cuesta", "vale", "semilla",
+      "moneda", "celeste", "shani", "tian wen", "apollo", "lance", "limite diario",
+      "municion", "granada", "escudo", "venda", "llave trampilla", "modulo exodo",
+      "pieza compleja", "binoculares"
+    ],
+    "updated": "2026-08-05"
+  },
+  {
+    "title": "Habilidades — 3 Árboles de Skills",
+    "file": "habilidades.md",
+    "keywords": [
+      "habilidad", "skill", "arbol", "conditioning", "mobility", "survival",
+      "resistencia", "movimiento", "supervivencia", "punto", "nivel", "desbloquear",
+      "velocidad", "salto", "curacion", "sigilo", "inventario", "carga", "rodar",
+      "escalar", "correr"
+    ],
+    "updated": "2026-08-05"
+  },
+  {
+    "title": "Misiones — Guía Completa",
+    "file": "misiones.md",
+    "keywords": [
+      "mision", "quest", "tarea", "celeste", "shani", "tian wen", "apollo", "lance",
+      "recompensa", "desbloquear", "completar", "farmeo", "extraccion", "recoleccion",
+      "combate", "matar", "arcs", "materiales", "monedas", "progresion"
+    ],
+    "updated": "2026-08-05"
+  }
+]

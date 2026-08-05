@@ -8,5 +8,10 @@
     "id": "league-of-legends",
     "name": "League of Legends",
     "articles": 11
+  },
+  {
+    "id": "arc-raiders",
+    "name": "Arc Raiders",
+    "articles": 6
   }
 ]

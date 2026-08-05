@@ -1,0 +1,13 @@
+{
+  "game": "Arc Raiders",
+  "steam_app_id": "2016590",
+  "data_sources": [
+    {
+      "type": "community_wiki",
+      "url": "https://arcraiders.co/es",
+      "note": "Wiki comunitaria — artículos manuales, sin API pública"
+    }
+  ],
+  "generator": "manual",
+  "last_updated": "2026-08-05"
+}
