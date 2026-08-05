@@ -2,6 +2,11 @@
   {
     "id": "albion-online",
     "name": "Albion Online",
-    "articles": 3
+    "articles": 34
+  },
+  {
+    "id": "league-of-legends",
+    "name": "League of Legends",
+    "articles": 11
   }
 ]

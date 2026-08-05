@@ -89,6 +89,33 @@ jobs:
           mv /tmp/source_new.json games/albion-online/source.json
           echo "source.json updated"
 
+      # ── LEAGUE OF LEGENDS ──────────────────────────────────────────────────
+      - name: Check League of Legends — Data Dragon for new patch
+        id: lol_check
+        run: |
+          SOURCE_FILE="games/league-of-legends/source.json"
+          LAST_VERSION=$(jq -r '.data_sources[0].last_version' "$SOURCE_FILE")
+
+          LATEST=$(curl -s "https://ddragon.leagueoflegends.com/api/versions.json" | jq -r '.[0]')
+
+          echo "Last known version: $LAST_VERSION"
+          echo "Latest version: $LATEST"
+
+          if [ "$LATEST" != "$LAST_VERSION" ] && [ -n "$LATEST" ] && [ "$LATEST" != "null" ]; then
+            echo "NEW PATCH DETECTED for League of Legends: $LATEST"
+            echo "lol_updated=true" >> $GITHUB_OUTPUT
+            echo "lol_version=$LATEST" >> $GITHUB_OUTPUT
+          else
+            echo "No changes detected."
+            echo "lol_updated=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: LoL — Regenerate wiki articles
+        if: steps.lol_check.outputs.lol_updated == 'true'
+        run: |
+          node scripts/lol/build_lol_wiki.js "${{ steps.lol_check.outputs.lol_version }}" .
+          echo "LoL articles regenerated"
+
       # ── STEAM PATCH DETECTION (para otros juegos sin repo de datos) ────────
       # Cuando agregues más juegos, añadí un step similar por juego
       # usando su steam_app_id del source.json
@@ -109,6 +136,9 @@ jobs:
           GAMES_UPDATED=""
           if [ "${{ steps.albion_check.outputs.albion_updated }}" == "true" ]; then
             GAMES_UPDATED="Albion Online"
+          fi
+          if [ "${{ steps.lol_check.outputs.lol_updated }}" == "true" ]; then
+            GAMES_UPDATED="$GAMES_UPDATED League of Legends"
           fi
 
           git add -A

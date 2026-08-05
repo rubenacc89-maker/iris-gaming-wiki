@@ -1,0 +1,15 @@
+{
+  "game": "League of Legends",
+  "steam_app_id": null,
+  "data_sources": [
+    {
+      "type": "data_dragon",
+      "api": "https://ddragon.leagueoflegends.com",
+      "locale": "es_MX",
+      "last_version": "16.15.1",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "generator": "scripts/lol/build_lol_wiki.js",
+  "last_updated": "2026-08-05"
+}
