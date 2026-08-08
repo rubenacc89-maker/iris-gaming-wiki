@@ -1,10 +1,7 @@
 name: Daily Patch Check
 
 on:
-  schedule:
-    # Corre todos los días a las 8am UTC
-    - cron: '0 8 * * *'
-  # Permite correrlo manualmente desde GitHub Actions tab
+  # Desactivado el schedule automático — solo manual hasta definir nuevo uso del wiki
   workflow_dispatch:
 
 jobs:
